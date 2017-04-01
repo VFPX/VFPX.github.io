@@ -1,4 +1,10 @@
-﻿### ![Megaphone](megaphone.png)Get the Word Out!
+﻿---
+layout: page
+title: Get the Word Out
+permalink: /promote/
+---
+
+### ![Megaphone](megaphone.png)Get the Word Out!
 
 **A few ideas for promoting the VFPX initiative and its stated goals.**
 

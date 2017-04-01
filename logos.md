@@ -1,4 +1,10 @@
-﻿# ![palette.png](palette.png) VFPX Logos and Images
+﻿---
+layout: page
+title: VFPX Logos and Images
+permalink: /logos/
+---
+
+# ![palette.png](palette.png) VFPX Logos and Images
 
 **Graphics that can be used to brand/market VFPX including its projects, members, and other related entities.**  
 
