@@ -4,11 +4,9 @@ title: "Tips for Project Managers"
 permalink: /tips/
 ---
 
-*** THIS PAGE MUST BE UPDATED ***
+*** THIS PAGE MUST BE UPDATED ***  
 
-# ![worker.png](worker.png) Tips For Project Managers
-
-**Tips and guidelines for project managers.**  
+**![worker.png](worker.png) Tips and guidelines for project managers.**  
 
 ![](hr-g.png)  
 

@@ -4,9 +4,7 @@ title: "Project Manager Acceptance Outline"
 permalink: /projectacceptance/
 ---
 
-# ![check.png](check.png) Project Manager Acceptance Outline
-
-**A brief explanation of what the acceptance process entails.**  
+**![check.png](check.png) A brief explanation of what the acceptance process entails.**  
 
 ![](hr-g.png)  
 

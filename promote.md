@@ -1,12 +1,9 @@
 ---
 layout: page
 title: "Get the Word Out"
-permalink: /promote/
 ---
 
-### ![Megaphone](megaphone.png) Get the Word Out!
-
-**A few ideas for promoting the VFPX initiative and its stated goals**
+**![Megaphone](megaphone.png) A few ideas for promoting the VFPX initiative and its stated goals**
 
 ![](hr-g.png)
 
