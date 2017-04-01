@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: VFPX Logos and Images
+title: "VFPX Logos and Images"
 permalink: /logos/
 ---
 

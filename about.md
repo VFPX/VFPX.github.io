@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About VFPX
+title: "About VFPX"
 permalink: /about/
 ---
 

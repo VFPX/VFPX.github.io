@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: VFPX License
+title: "VFPX License"
 permalink: /license/
 ---
 

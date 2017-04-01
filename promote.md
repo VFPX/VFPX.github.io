@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: Get the Word Out
+title: "Get the Word Out"
 permalink: /promote/
 ---
 
