@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   A Visual FoxPro community site for open source add-ons for Visual FoxPro 9.0
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: vfpx
+github_username:  VFPXMaster
 
 # Build settings
 markdown: kramdown
