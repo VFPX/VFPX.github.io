@@ -6,7 +6,9 @@ permalink: /about/
 
 ![](vfpxbanner.gif)
 
-*A Visual FoxPro Community effort to create open source add-ons for Visual FoxPro 9.0*
+**A Visual FoxPro Community effort to create open source add-ons for Visual FoxPro 9.0**
+
+![](hr-g.png)
 
 The code, classes, and libraries made available here are the result of a community-based effort to support and extend Visual FoxPro. Anyone can join-in, help and propose new VFPX projects for possible inclusion in the effort. VFPX members are fans of FoxPro and they give generously of their time, resources, and ideas to make VFPX possible. A debt of gratitude is owed to everyone that has participated or otherwise contributed to VFPX. Thank you.
 
@@ -14,9 +16,9 @@ The code, classes, and libraries made available here are the result of a communi
 
 The projects presented here were donated to VFPX by contributors, developed by VFPX members, or included as part of Microsoft's efforts to share the source of certain VFP product components with the VFP Community. All of the projects here are governed by the [Shared Source License for VFPX](license.md) unless otherwise stated or noted in a project's source code/documentation.
 
-### ![tweet.png](tweet.png) [VFPX Tweets](http://search.twitter.com/search?q=vfpx)
+### ![tweet.png](tweet.png) [VFPX Tweets](https://twitter.com/vfpx)
 
-### ![palette.png](palette.png) [VFPX Logos and Images](/wikipage?title=VFPX%20Logos%20and%20Images&referringTitle=Home)
+### ![palette.png](palette.png) [VFPX Logos and Images](logos.md)
 
 ### ![newproject.png](newproject.png) Propose a New Project
 

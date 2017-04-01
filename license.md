@@ -1,4 +1,10 @@
-﻿All content in this Project is subject to the following license:
+﻿---
+layout: page
+title: VFPX License
+permalink: /license/
+---
+
+All content in this Project is subject to the following license:
 Shared Source License for VFPX
 
 This license governs use of the accompanying software ('Software'), and your
