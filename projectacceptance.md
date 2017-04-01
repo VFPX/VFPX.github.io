@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Project Manager Acceptance Outline"
 permalink: /projectacceptance/

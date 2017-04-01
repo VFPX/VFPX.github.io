@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tips for Project Managers"
 permalink: /tips/
