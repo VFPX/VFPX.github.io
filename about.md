@@ -24,7 +24,7 @@ The projects presented here were donated to VFPX by contributors, developed by V
 
 #UPDATE THIS SECTION# The project proposal process is fairly simple and designed to reduce administrative overhead for all involved. All you have to do us fill out a two page [VFPX Project Proposal](releases/view/8433) which provides the VFPX Administrators information needed to determine if the project fits into VFPX. Once you fill out the proposal, send the document to: projects AT vfpx DOT org.  
 
-The administrators will review the proposal and let you know if it will be included or not included. The review process time varies depending on how busy the administrators are when you submit the proposal. After all, they all have day jobs too, just like you. You can review the [Project Manager Acceptance Outline](/wikipage?title=Project%20Manager%20Acceptance%20Outline&referringTitle=Home) to understand what happens once a project is accepted and [Tips For Project Managers](/wikipage?title=Tips%20For%20Project%20Managers&referringTitle=Home) to gain some helpful tips in working with CodePlex.
+The administrators will review the proposal and let you know if it will be included or not included. The review process time varies depending on how busy the administrators are when you submit the proposal. After all, they all have day jobs too, just like you. You can review the [Project Manager Acceptance Outline](projectacceptance.md) to understand what happens once a project is accepted and [Tips For Project Managers](tips.md) to gain some helpful tips in working with CodePlex.
 
 ### ![getinvolved.png](getinvolved.png) Get Involved
 
@@ -34,7 +34,7 @@ If you want to get involved on one or more of the many projects included in VFPX
 
 ### ![faq.png](faq.png) Frequently Asked Questions
 
-##UPDATE THIS## [Tips For Project Managers](/wikipage?title=Tips%20For%20Project%20Managers&referringTitle=Home)  
+[Tips For Project Managers](tips.md)  
 ##UPDATE THIS## [How Do I Setup Source Code Control and Contribute Here?](/wikipage?title=How%20Do%20I%20Setup%20Source%20Code%20Control%20and%20Contribute%20Here%3f&referringTitle=Home)
 
 ### VFPX Administrators
