@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "VFPX License"
 permalink: /license/
 ---
 
-All content in this Project is subject to the following license:
-Shared Source License for VFPX
+## Licensing
+
+The projects presented here were donated to VFPX by contributors, developed by VFPX members, or included as part of Microsoft's efforts to share the source of certain VFP product components with the VFP Community. All content in this Project is subject to the following license unless otherwise stated or noted in a project's source code/documentation.
+
+### Shared Source License for VFPX
 
 This license governs use of the accompanying software ('Software'), and your
 use of the Software constitutes acceptance of this license.

@@ -1,14 +1,11 @@
 ---
 layout: page
-title: "Tips for Project Managers"
 permalink: /tips/
 ---
 
-*** THIS PAGE MUST BE UPDATED ***  
+## Tips for Project Managers  
 
-**![worker.png](worker.png) Tips and guidelines for project managers.**  
-
-![](hr-g.png)  
+**Note: this page is out-dated and has to be updated for GitHub**
 
 This is a work in progress so feel free to add your own notes or comments that you believe will helpful to other project managers on VFPX
 
@@ -26,3 +23,5 @@ This is a work in progress so feel free to add your own notes or comments that y
 *   Edit the page
 *   Click the Browse button and select an image to upload, then click Add File
 *   To use the image in the text, use [image:filename]
+
+[How Do I Setup Source Code Control and Contribute Here?](/wikipage?title=How%20Do%20I%20Setup%20Source%20Code%20Control%20and%20Contribute%20Here%3f&referringTitle=Home)

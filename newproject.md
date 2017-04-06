@@ -1,12 +1,15 @@
 ---
 layout: page
-title: "Project Manager Acceptance Outline"
-permalink: /projectacceptance/
+permalink: /newproject/
 ---
 
-**![check.png](check.png) A brief explanation of what the acceptance process entails.**  
+## Adding a Project to VFPX
 
-![](hr-g.png)  
+**Note: this page is out-dated and has to be updated for GitHub**
+
+The project proposal process is fairly simple and designed to reduce administrative overhead for all involved. All you have to do us fill out a two page [VFPX Project Proposal](releases/view/8433) which provides the VFPX Administrators information needed to determine if the project fits into VFPX. Once you fill out the proposal, send the document to: projects AT vfpx DOT org.  
+
+The administrators will review the proposal and let you know if it will be included or not included. The review process time varies depending on how busy the administrators are when you submit the proposal. After all, they all have day jobs too, just like you. You can review the [Project Manager Acceptance Outline](projectacceptance.md) to understand what happens once a project is accepted and [Tips For Project Managers](tips.md) to gain some helpful tips in working with CodePlex.
 
 Once a project is accepted into VFPX the project manager will be notified by one of the VFPX Administrators with the good news. The project manager then needs to decided if they really want to move forward and make the project a VFPX project.  
 

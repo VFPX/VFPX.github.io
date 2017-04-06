@@ -13,19 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: VFPX
+
+# Title is commented out so we show the logo instead
+#title: VFPX
 email: projects@vfpx.org
 description: > # this means to ignore newlines until "baseurl:"
-  A Visual FoxPro community site for open source add-ons for Visual FoxPro 9.0
+  A Visual FoxPro community site for open source add-ons
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/VFPXHome"
 twitter_username: vfpx
 github_username:  VFPXMaster
 encoding: bom|utf-8
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-minimal
+#theme: jekyll-theme-slate
 theme: minima
 gems:
   - jekyll-feed
