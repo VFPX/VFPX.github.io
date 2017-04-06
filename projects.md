@@ -101,9 +101,9 @@ permalink: /projects/
 <td>GoFish is an advanced code search tool for fast searching of Visual FoxPro source code.</td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://vfpx.codeplex.com/wikipage?title=Gauge&amp;referringTitle=Home">Gauge</a></td>
+<td><a target="_blank" href="https://github.com/VFPXHome/Gauge">Gauge</a></td>
 <td>1.0</td>
-<td><a target="_blank" href="https://vfpx.codeplex.com/releases/view/619890">2015/03/06</a></td>
+<td>2015/03/06</td>
 <td>Draws gauges in VFP applications.</td>
 </tr>
 <tr>
