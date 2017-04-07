@@ -11,6 +11,8 @@ There are several steps you must perform to migrate a project from CodePlex to G
 
 If you haven't already, install Git on your system: <a href="https://git-scm.com/download/win" target="_blank">https://git-scm.com/download/win</a>
 
+You may also wish to install Tortoise Git, which provides a visual interface for Git: <a href="https://tortoisegit.org/" target="_blank">https://tortoisegit.org/</a>
+
 ## 2. Getting the Source Code
 
 If you have the latest version of the source code on your system, use it. Otherwise, download the latest release from CodePlex and unzip it into a new folder.
