@@ -9,9 +9,7 @@ There are several steps you must perform to migrate a project from CodePlex to G
 
 ## 1. Installing Git
 
-If you haven't already, install Git on your system: https://git-scm.com/download/win
-
-You may also wish to install Tortoise Git, which provides a visual interface to Git: https://tortoisegit.org/
+If you haven't already, install Git on your system: <a href="https://git-scm.com/download/win" target="_blank">https://git-scm.com/download/win</a>
 
 ## 2. Getting the Source Code
 
@@ -55,7 +53,7 @@ Edit README.md. You can use a text editor such as Notepad but we recommend a Mar
 
 ## 4. Creating a GitHub Repository
 
-Your project can either be a repository under the GitHub VFPX organization or it can be a completely separate repository. The advantage of being under VFPX is that projects are automatically listed on the VFPX site, https://github.com/VFPX. However, all projects are listed on the VFPX projects list, https://vfpx.github.io/projects, so this isn't necessarily a big advantage. The advantage of having the project in a separate repository is that you have full control over that repository. We recommend using a separate repository and expect that only inactive projects or those for whom the project manager is no longer available will be under VFPX.
+Your project can either be a repository under the GitHub VFPX organization or it can be a completely separate repository. The advantage of being under VFPX is that projects are automatically listed on the VFPX site, <a href="https://github.com/VFPX" target="_blank">https://github.com/VFPX</a>. However, all projects are listed on the VFPX projects list, <a href="https://github.com/VFPX" target="_blank">https://vfpx.github.io/projects</a>, so this isn't necessarily a big advantage. The advantage of having the project in a separate repository is that you have full control over that repository. We recommend using a separate repository and expect that only inactive projects or those for whom the project manager is no longer available will be under VFPX.
 
 ### Creating a Repository Under VFPX
 
