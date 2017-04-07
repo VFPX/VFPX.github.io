@@ -21,7 +21,7 @@ If you have the latest version of the source code on your system, use it. Otherw
 
 * Click the Download Wiki link to download the entire VFPX Wiki content as a file named WikiFiles.zip (be patient; it'll take a few moments as it's over 100 MB in size).
 
-    ![](images/DownloadWiki.png)
+    ![](/images/DownloadWiki.png)
 
 * Unzip the file into a new folder. You may get some errors when you open the ZIP file because of some misnamed files; you can ignore those.
 
@@ -35,11 +35,11 @@ Edit README.md. You can use a text editor such as Notepad but we recommend a Mar
 
 * Some images aren't named correctly in the Markdown. For example, this is what the FRXTabs Wiki page looks like:
 
-    ![](images/BadImages.png)
+    ![](/images/BadImages.png)
     
     Here's what the Markdown looks like:
     
-    ![](images/BadImageReference.png)
+    ![](/images/BadImageReference.png)
         
     Notice the "home" image, which should be FRXTabs_home.png, is referenced as FRXTabs_38209. Also notice FRXTabs_38236, which is supposed to be the image for the green line; there is no image file for that at all. You can either correct these errors or simply delete the image reference if they aren't important (don't forget to delete the image files you no longer need).
 
@@ -63,7 +63,7 @@ Email [VFPX project admin](mailto:projects@vfx.org) and ask us to create a repos
 
 Create a GitHub repository and email [VFPX project admin](mailto:projects@vfx.org) with the URL for the project so we can edit the project list with the new location. If you're going the use the "fast way" to upload the source (discussed below), be sure to turn on the "Initialize this repository with a README" setting.
 
-![](images/CreateRepo.png)
+![](/images/CreateRepo.png)
 
 ## 5. Uploading the Source Code
 
@@ -77,11 +77,11 @@ You have a choice about how to upload the source to GitHub:
 
 * Click the Upload Files link to go to the Upload page.
 
-    ![](images/UploadFiles.png)
+    ![](/images/UploadFiles.png)
 
 * Drag the ZIP file containing the project source code and the READM.md along with any images and other MD or HTML files to the place indicated on the page.
 
-    ![](images/DragFiles.png)
+    ![](/images/DragFiles.png)
 
 * Click the Commit Changes button.
 
