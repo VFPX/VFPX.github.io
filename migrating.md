@@ -45,7 +45,7 @@ Edit README.md. You can use a text editor such as Notepad but we recommend a Mar
         
     Notice the "home" image, which should be FRXTabs_home.png, is referenced as FRXTabs_38209. Also notice FRXTabs_38236, which is supposed to be the image for the green line; there is no image file for that at all. You can either correct these errors or simply delete the image reference if they aren't important (don't forget to delete the image files you no longer need).
 
-* As you can see in the Markdown image above, links to CodePlex users, such as the "Project Manager" link, are links to CodePlex pages. You should change this to an email address (using "mailto:YourEmailAddress") or GitHub user (https:&#47;/github.com/YourUserName).
+* As you can see in the Markdown image above, links to CodePlex users, such as the "Project Manager" link, are links to CodePlex pages. You should change this to an email address (using "mailto:YourEmailAddress") or GitHub user ("https:&#47;/github.com/YourUserName").
 
 * If a project manager isn't specified, you may wish to add it so others know who you are and how to contact you.
 
@@ -55,15 +55,15 @@ Edit README.md. You can use a text editor such as Notepad but we recommend a Mar
 
 ## 4. Creating a GitHub Repository
 
-Your project can either be a repository under the GitHub VFPX organization or it can be a completely separate repository. The advantage of being under VFPX is that projects are automatically listed on the VFPX site, <a href="https://github.com/VFPX" target="_blank">https://github.com/VFPX</a>. However, all projects are listed on the VFPX projects list, <a href="https://github.com/VFPX" target="_blank">https://vfpx.github.io/projects</a>, so this isn't necessarily a big advantage. The advantage of having the project in a separate repository is that you have full control over that repository. We recommend using a separate repository and expect that only inactive projects or those for whom the project manager is no longer available will be under VFPX.
+Your project can either be a repository under the GitHub VFPX organization or it can be a completely separate repository. The advantage of being under VFPX is that projects are automatically listed on the VFPX site, <a href="https://github.com/VFPX" target="_blank">https://github.com/VFPX</a>. However, all projects are listed on the VFPX projects list, <a href="https://vfpx.github.io/projects" target="_blank">https://vfpx.github.io/projects</a>, so this isn't necessarily a big advantage. The advantage of having the project in a separate repository is that you have full control over that repository. We recommend using a separate repository and expect that only inactive projects or those for whom the project manager is no longer available will be under VFPX.
 
 ### Creating a Repository Under VFPX
 
-Email [VFPX project admin](mailto:projects@vfx.org) and ask us to create a repository under VFPX for your project. We'll need to know your GitHub user name so we can give you permissions to the repository. We'll create the repository and let you know when it's ready.
+Email [VFPX project admin](mailto:projects@vfpx.org) and ask us to create a repository under VFPX for your project. We'll need to know your GitHub user name so we can give you permissions to the repository. We'll create the repository and let you know when it's ready.
 
 ### Creating a Separate Repository
 
-Create a GitHub repository and email [VFPX project admin](mailto:projects@vfx.org) with the URL for the project so we can edit the project list with the new location. If you're going the use the "fast way" to upload the source (discussed below), be sure to turn on the "Initialize this repository with a README" setting.
+Create a GitHub repository and email [VFPX project admin](mailto:projects@vfpx.org) with the URL for the project so we can edit the project list with the new location. If you're going the use the "fast way" to upload the source (discussed below), be sure to turn on the "Initialize this repository with a README" setting.
 
 ![](/images/CreateRepo.png)
 
@@ -71,7 +71,7 @@ Create a GitHub repository and email [VFPX project admin](mailto:projects@vfx.or
 
 You have a choice about how to upload the source to GitHub:
 
-* The fast way: just uploading the ZIP file containing the source code and the migrated Wiki content (readme.md, images, and any other files). The downside of this approach is that there's no version control so it's more difficult for other people to collaborate on the project.
+* The fast way: just uploading the ZIP file containing the source code and the migrated Wiki content (README.md, images, and any other files). The downside of this approach is that there's no version control so it's more difficult for other people to collaborate on the project.
 
 * The complete way: a repository with full version control.
 
@@ -81,7 +81,7 @@ You have a choice about how to upload the source to GitHub:
 
     ![](/images/UploadFiles.png)
 
-* Drag the ZIP file containing the project source code and the READM.md along with any images and other MD or HTML files to the place indicated on the page.
+* Drag the ZIP file containing the project source code and the README.md along with any images and other MD or HTML files to the place indicated on the page.
 
     ![](/images/DragFiles.png)
 
@@ -99,7 +99,7 @@ If you installed Tortoise Git:
 
 * Commit the new files: right-click and choose Git Commit -> "master" from the shortcut menu, enter a message in the Commit dialog (such as "Initial commit"), and click the Commit button.
 
-* Push to the GitHub repository: right-click and choose Git Sync, enter the URL for the repository (https:&#47;/github.com/RepositoryName, where RepositoryName is the name of the repository, such as "VFPX/FRXTabs") for the Remote URL setting, and click Push.
+* Push to the GitHub repository: right-click and choose Git Sync, enter the URL for the repository (https:&#47;/github.com/RepositoryName.git, where "RepositoryName" is the name of the repository, such as "VFPX/FRXTabs") for the Remote URL setting, and click Push.
 
 If you don't use Tortoise Git:
 
@@ -127,9 +127,9 @@ If you don't use Tortoise Git:
 
 * Tell Git about the GitHub repository:
 
-        git remote add origin https://github.com/Repository.git
+        git remote add origin https://github.com/RepositoryName.git
         
-    where "Repository" is the name of the repository, such as "VFPX/FRXTabs".
+    where "RepositoryName" is the name of the repository, such as "VFPX/FRXTabs".
 
 * Push to the GitHub repository:
 
