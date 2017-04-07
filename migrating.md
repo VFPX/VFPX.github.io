@@ -47,11 +47,15 @@ Edit README.md. You can use a text editor such as Notepad but we recommend a Mar
 
 * As you can see in the Markdown image above, links to CodePlex users, such as the "Project Manager" link, are links to CodePlex pages. You should change this to an email address (using "mailto:YourEmailAddress") or GitHub user ("https:&#47;/github.com/YourUserName").
 
-* If a project manager isn't specified, you may wish to add it so others know who you are and how to contact you.
-
 * Most projects have a link to the latest release of the project. You can remove that since it isn't needed.
 
 * Some projects, such as GoFish, have several Wiki pages. They may be converted to MD files or they may be HTML files. Either way, edit those files as well and correct the links between the files as necessary.
+
+Some other suggestions for the content of the README.md file:
+
+* If a project manager isn't specified, you may wish to add it so others know who you are and how to contact you.
+
+* It could list the release history and acknowledge contributors to the project. This information will be lost once CodePlex shuts down so preserving it here is important. It could be as simple as a filtered list of the content at <a href="https://vfpx.codeplex.com/wikipage/history" target="_blank">https://vfpx.codeplex.com/wikipage/history</a> or it could be more detailed.
 
 ## 4. Creating a GitHub Repository
 
