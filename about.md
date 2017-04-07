@@ -5,6 +5,10 @@ permalink: /about/
 
 ## About VFPX
 
+### Project Administration
+
+[projects@vfpx.org](mailto:projects@vfpx.org)
+
 ### VFPX Administrators
 
 [Rick Schummer](mailto:rick@rickschummer.com)
