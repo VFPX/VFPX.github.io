@@ -83,9 +83,9 @@ permalink: /projects/
 <td>Unit Testing in Visual FoxPro</td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://vfpx.codeplex.com/wikipage?title=FRXTabs&amp;referringTitle=Home">FRXTabs</a></td>
+<td><a target="_blank" href="https://github.com/VFPX/FRXTabs">FRXTabs</a></td>
 <td>1.01</td>
-<td><a target="_blank" href="https://vfpx.codeplex.com/releases/view/53530">2012/02/05</a></td>
+<td>2012/02/05</td>
 <td>Data-driven mechanism to extend the VFP Report Designer</td>
 </tr>
 <tr>
@@ -113,9 +113,9 @@ permalink: /projects/
 <td>Extensions to native Intellisense for field names, properties, local variables, and constants. <a target="_blank" href="https://groups.google.com/forum/?fromgroups#!forum/FoxProThor">Thor Discussion Group</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://vfpx.codeplex.com/wikipage?title=Property%20and%20Method%20Replacement&amp;referringTitle=Home">New Property/New Method Replacement</a></td>
+<td><a target="_blank" href="https://github.com/VFPX/NewPropertyDialog">New Property/New Method Replacement</a></td>
 <td>2.01</td>
-<td><a target="_blank" href="https://vfpx.codeplex.com/releases/view/8575">2008/12/30</a></td>
+<td>2008/12/30</td>
 <td><em>Note: While this project isn&rsquo;t deprecated, its functionality is included in PEM Editor listed above.</em></td>
 </tr>
 <tr>
