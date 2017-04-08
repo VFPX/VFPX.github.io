@@ -7,17 +7,23 @@ permalink: /migrating/
 
 There are several steps you must perform to migrate a project from CodePlex to GitHub. Fortunately, they aren't very complicated.
 
-## 1. Installing Git
+## 1. Install Git
 
-If you haven't already, install Git on your system: <a href="https://git-scm.com/download/win" target="_blank">https://git-scm.com/download/win</a>
+If you haven't already, install <a href="https://git-scm.com/download/win" target="_blank">Git</a> on your system.
 
-You may also wish to install Tortoise Git, which provides a visual interface for Git: <a href="https://tortoisegit.org/" target="_blank">https://tortoisegit.org/</a>
+You may also wish to install <a href="https://tortoisegit.org/" target="_blank">Tortoise Git</a>, which provides a visual interface for Git.
 
-## 2. Getting the Source Code
+Another tool you may find useful is the <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc" target="_blank">OctoTree</a> extension for Chrome, which provides an easy-to-navigate code tree for GitHub repositories.
+
+## 2. Create a GitHub Account
+
+If you haven't already, create a GitHub account on the <a href="https://github.com/" target="_blank">GitHub home page</a>.
+
+## 3. Get the Source Code
 
 If you have the latest version of the source code on your system, use it. Otherwise, download the latest release from CodePlex and unzip it into a new folder.
 
-## 3. Migrating the Wiki Page
+## 4. Migrate the Wiki Page
 
 * Go to the VFPX home page on CodePlex and sign in.
 
@@ -57,9 +63,9 @@ Some other suggestions for the content of the README.md file:
 
 * It could list the release history and acknowledge contributors to the project. This information will be lost once CodePlex shuts down so preserving it here is important. It could be as simple as a filtered list of the content at <a href="https://vfpx.codeplex.com/wikipage/history" target="_blank">https://vfpx.codeplex.com/wikipage/history</a> or it could be more detailed.
 
-## 4. Creating a GitHub Repository
+## 5. Create a GitHub Repository
 
-Your project can either be a repository under the GitHub VFPX organization or it can be a completely separate repository. The advantage of being under VFPX is that projects are automatically listed on the VFPX site, <a href="https://github.com/VFPX" target="_blank">https://github.com/VFPX</a>. However, all projects are listed on the VFPX projects list, <a href="https://vfpx.github.io/projects" target="_blank">https://vfpx.github.io/projects</a>, so this isn't necessarily a big advantage. The advantage of having the project in a separate repository is that you have full control over that repository. We recommend using a separate repository and expect that only inactive projects or those for whom the project manager is no longer available will be under VFPX.
+Your project can either be a repository under the GitHub VFPX organization or it can be a completely separate repository. The advantage of being under VFPX is that projects are automatically listed on the VFPX site, <a href="https://github.com/VFPX" target="_blank">https://github.com/VFPX</a>. However, all projects are listed on the VFPX projects list, <a href="https://vfpx.github.io/projects" target="_blank">https://vfpx.github.io/projects</a>, so this isn't necessarily a big advantage. The advantage of having the project in a separate repository is that you have full control over that repository, including who has push access.
 
 ### Creating a Repository Under VFPX
 
@@ -71,7 +77,7 @@ Create a GitHub repository and email [VFPX project admin](mailto:projects@vfpx.o
 
 ![](/images/CreateRepo.png)
 
-## 5. Uploading the Source Code
+## 6. Upload the Source Code
 
 You have a choice about how to upload the source to GitHub:
 
@@ -94,6 +100,10 @@ You have a choice about how to upload the source to GitHub:
 ### The Complete Way
 
 First, unzip the source code ZIP file on your system if you downloaded it from CodePlex.
+
+Next, if you haven't already, create text equivalents of your VFP binary files (PJX, VCX, FRX, etc.). There are several tools available to do this, including <a href="http://vfpx.codeplex.com/wikipage?title=FoxBin2Prg" target="_blank">FoxBin2PRG</a>.
+
+Since files on GitHub typically have lowercase names, you may wish to rename your files to follow that standard (not a requirement, just a suggestion). <a href="http://www.bulkrenameutility.co.uk/Main_Intro.php" target="_blank">Bulk Renamer</a> can help with that.
 
 If you installed Tortoise Git:
 

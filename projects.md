@@ -95,7 +95,7 @@ permalink: /projects/
 <td>VFP 9.0 class libraries that wrap the 603 GDI+ Flat API functions of GDIPlus.dll</td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://vfpx.codeplex.com/wikipage?title=GoFish&amp;referringTitle=Home">GoFish</a></td>
+<td><a target="_blank" href="https://github.com/mattslay/GoFish">GoFish</a></td>
 <td>5.0.152</td>
 <td>2016/09/11</td>
 <td>GoFish is an advanced code search tool for fast searching of Visual FoxPro source code.</td>
