@@ -479,7 +479,7 @@ This is a list of other open source VFP projects that aren't part of VFPX.
 <td>Export your Visual FoxPro reports to Images, RTF, PDF, HTML or XLS super easy! Send them by email! Enhance the look of your previews, and allow your users to decide how their report previews will be.</td>
 </tr>
 <tr>
-<td><a target="_blank" href="http://linqtovfp.codeplex.com">LINQ to VFP</a></td>
+<td><a target="_blank" href="https://github.com/tombrothers/LINQtoVFP">LINQ to VFP</a></td>
 <td>v1.17.26</td>
 <td>2015/01/02</td>
 <td>An IQToolkit Provider that adds the ability to use Visual FoxPro Data as a LINQ data source.</td>

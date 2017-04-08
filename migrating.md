@@ -9,6 +9,8 @@ There are several steps you must perform to migrate a project from CodePlex to G
 
 ## 1. Install Git
 
+Note: this step is only required if you are going to use the "complete way" to upload code to GitHub (discussed later).
+
 If you haven't already, install <a href="https://git-scm.com/download/win" target="_blank">Git</a> on your system.
 
 You may also wish to install <a href="https://tortoisegit.org/" target="_blank">Tortoise Git</a>, which provides a visual interface for Git.
