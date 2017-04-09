@@ -1,0 +1,52 @@
+[
+ {
+   "project": "ActiveVFP",
+   "url": "http://activevfp.codeplex.com",
+   "description": "A framework for creating web applications with VFP."
+ },
+ {
+   "project": "Fox Pages Server",
+   "url": "http://foxpages.codeplex.com",
+   "description": "Fox Server Pages is a Visual Foxpro multithreaded webserver"
+ },
+ {
+   "project": "FoxyPreviewer",
+   "url": "http://foxypreviewer.codeplex.com",
+   "description": "Export your Visual FoxPro reports to Images, RTF, PDF, HTML or XLS super easy! Send them by email! Enhance the look of your previews, and allow your users to decide how their report previews will be."
+ },
+ {
+   "project": "LINQ to VFP",
+   "url": "https://github.com/tombrothers/LINQtoVFP",
+   "description": "An IQToolkit Provider that adds the ability to use Visual FoxPro Data as a LINQ data source."
+ },
+ {
+   "project": "qdFoxJSON",
+   "url": "https://qdfoxjson.codeplex.com/releases/view/122822",
+   "description": "100% VFP JSON parser"
+ },
+ {
+   "project": "VFP Client for ADO.Net",
+   "url": "https://github.com/tombrothers/VfpClient",
+   "description": "A wrapper for the .NET System.Data.OleDb classes."
+ },
+ {
+   "project": "VFP Entity Framework Provider",
+   "url": "https://github.com/tombrothers/VfpEntityFrameworkProvider2",
+   "description": "An Entity Framework Data Provider that adds the ability to use Visual FoxPro Data as an Entity Framework data source."
+ },
+ {
+   "project": "VFP git utils",
+   "url": "https://github.com/mikepotjer/vfp-git-utils",
+   "description": "Git utilities for VFP, designed to work within the Thor repository (Mike Potjer)"
+ },
+ {
+   "project": "VFPOAuth",
+   "url": "http://vfpoauth.codeplex.com",
+   "description": "Performs OAuth authentication based on the OAuth 1.0a protocol."
+ },
+ {
+   "project": "VFPTweetAPI",
+   "url": "http://vfptweetapi.codeplex.com",
+   "description": "A wrapper around the Twitter API with the purpose of accessing Twitter from Visual FoxPro."
+ }
+]
