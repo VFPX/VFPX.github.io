@@ -150,3 +150,9 @@ If you don't use Tortoise Git:
 * Push to the GitHub repository:
 
         git push -u origin master
+
+## 7. Update CodePlex
+
+Edit the project's Wiki page on CodePlex and add a comment that the project has moved to GitHub, including a link to the project's GitHub repository; something like this using Wiki markup:
+
+    !! Note: this project has moved to GitHub: [url:https://github.com/RepositoryName]

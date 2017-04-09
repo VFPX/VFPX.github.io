@@ -9,6 +9,10 @@ permalink: /tips/
 
 If you currently have a VFPX project on CodePlex, we have [detailed instructions](/migrating/index.html) to migrate it to GitHub.
 
+### Logos
+
+You can add [VFPX logos](/logos/index.html) to your source code, project Wiki page, your web site, etc.
+
 ### Tips
 
 **Note: this rest of this page is out-dated and has to be updated for GitHub**
