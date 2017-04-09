@@ -103,7 +103,7 @@ You have a choice about how to upload the source to GitHub:
 
 First, unzip the source code ZIP file on your system if you downloaded it from CodePlex.
 
-Next, if you haven't already, create text equivalents of your VFP binary files (PJX, VCX, FRX, etc.). There are several tools available to do this, including <a href="http://vfpx.codeplex.com/wikipage?title=FoxBin2Prg" target="_blank">FoxBin2PRG</a>.
+Next, if you haven't already, create text equivalents of your VFP binary files (PJX, VCX, FRX, etc.). There are several tools available to do this, including <a href="http://github.com/FoxBin2Prg" target="_blank">FoxBin2PRG</a>.
 
 Since files on GitHub typically have lowercase names, you may wish to rename your files to follow that standard (not a requirement, just a suggestion). <a href="http://www.bulkrenameutility.co.uk/Main_Intro.php" target="_blank">Bulk Renamer</a> can help with that.
 
