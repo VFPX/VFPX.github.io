@@ -29,9 +29,7 @@ permalink: /admin/
 
 - Enter the GitHub user name of the project manager and click Add Collaborator.
 
-- On the VFPX page, click “Customize pinned repositories” and in the dialog that appears, turn on the new repository.
-
-- In the pinned list, drag the new repository so it’s in the correct spot alphabetically.
+- If this is one of the top six projects (only six projects can be pinned to the top), on the VFPX page, click “Customize pinned repositories” and in the dialog that appears, turn on the new repository and turn off another one. Then, in the pinned list, drag the new repository so it’s in the correct spot alphabetically.
 
 - Edit Projects.md and add an entry to the table for the new project (in the case of a project migrated from CodePlex, edit its entry to point to the new repository), then commit and push.
 
