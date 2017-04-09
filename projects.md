@@ -283,10 +283,6 @@ permalink: /projects/
 <td colspan="2"><strong>Planning Stage</strong></td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://vfpx.codeplex.com/wikipage?title=fxReports&amp;referringTitle=Home">fxReports</a></td>
-<td>Easily add special effects to reports</td>
-</tr>
-<tr>
 <td><a target="_blank" href="https://vfpx.codeplex.com/wikipage?title=Table%20Designer%20X&amp;referringTitle=Home">Table Designer X</a></td>
 <td>Non-modal replacement for the VFP Table Designer</td>
 </tr>

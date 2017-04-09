@@ -107,6 +107,10 @@ Next, if you haven't already, create text equivalents of your VFP binary files (
 
 Since files on GitHub typically have lowercase names, you may wish to rename your files to follow that standard (not a requirement, just a suggestion). <a href="http://www.bulkrenameutility.co.uk/Main_Intro.php" target="_blank">Bulk Renamer</a> can help with that.
 
+![](images/RenamingFiles.png)
+
+It is important to set Case (4) to Lower,  Extension (11) to Lower, turn on Subfolders in Filters (12), and select all the files and folders except README.md before clicking the Rename button.
+
 If you installed Tortoise Git:
 
 * Create a Git repository for the folder containing the source: right-click the folder in Windows Explorer and choose Git Create Repository Here from the shortcut menu.

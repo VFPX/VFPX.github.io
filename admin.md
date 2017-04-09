@@ -15,7 +15,7 @@ permalink: /admin/
 
 ### Adding a Project under VFPX
 
-- Go to https://github.com/VFPX
+- Go to <a href="https://github.com/VFPX" target="_blank">https://github.com/VFPX</a>
 
 - Click the green New button.
 
