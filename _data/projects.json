@@ -1,0 +1,410 @@
+[
+  {
+    "project": "Alternate SCCText",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Alternate%20SCCText&referringTitle=Home",
+    "description": "New and improved version of source code control to text program",
+    "state": "Production release"
+  },
+  {
+    "project": "Control Renamer Builder",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Control%20Renamer%20Builder&referringTitle=Home",
+    "description": "Builder designed to rename controls and reference to controls in the method codes",
+    "state": "Production release"
+  },
+  {
+    "project": "DeskTop Alerts",
+    "url": "https://github.com/VFPX/DesktopAlerts",
+    "description": "Outlook style alerts are popup windows to message users",
+    "state": "Production release"
+  },
+  {
+    "project": "FFC",
+    "url": "https://vfpx.codeplex.com/wikipage?title=FFC&referringTitle=Home",
+    "description": "Microsoft Visual FoxPro 9.0 Foundation Classes",
+    "state": "Production release"
+  },
+  {
+    "project": "Finder",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Finder&referringTitle=Home",
+    "description": "Search tool to find names of files or classes in a project or folder.",
+    "state": "Production release"
+  },
+  {
+    "project": "FoxBarcode",
+    "url": "https://vfpx.codeplex.com/wikipage?title=FoxBarcode&referringTitle=Home",
+    "description": "FoxBarcode provides a tool for generating images with different bar code symbologies.",
+    "state": "Production release"
+  },
+  {
+    "project": "FoxBarcodeQR",
+    "url": "https://vfpx.codeplex.com/wikipage?title=FoxBarcodeQR&referringTitle=Home",
+    "description": "FoxBarcodeQR is a supplement of FoxBarcode only for QR Code.",
+    "state": "Production release"
+  },
+  {
+    "project": "FoxBin2Prg",
+    "url": "https://github.com/fdbozzo/foxbin2prg",
+    "description": "VFP 9 Binary to Text and Text to Binary converter. Replacement for SCCText(X) and TwoFox that is bi-directional (Text is editable)",
+    "state": "Production release"
+  },
+  {
+    "project": "FoxCharts",
+    "url": "https://vfpx.codeplex.com/wikipage?title=FoxCharts&referringTitle=Home",
+    "description": "ActiveX-free charting leverages GDIPlusX",
+    "state": "Production release"
+  },
+  {
+    "project": "FoxTabs",
+    "url": "https://vfpx.codeplex.com/wikipage?title=FoxTabs&referringTitle=Home",
+    "description": "IDE enhancement assisting developers working with a project and numerous open files",
+    "state": "Production release"
+  },
+  {
+    "project": "FoxUnit",
+    "url": "https://vfpx.codeplex.com/wikipage?title=FoxUnit&referringTitle=Home",
+    "description": "Unit Testing in Visual FoxPro",
+    "state": "Production release"
+  },
+  {
+    "project": "FRXTabs",
+    "url": "https://github.com/VFPX/FRXTabs",
+    "description": "Data-driven mechanism to extend the VFP Report Designer",
+    "state": "Production release"
+  },
+  {
+    "project": "GDIPlusX",
+    "url": "https://vfpx.codeplex.com/wikipage?title=GDIPlusX&referringTitle=Home",
+    "description": "VFP 9.0 class libraries that wrap the 603 GDI+ Flat API functions of GDIPlus.dll",
+    "state": "Production release"
+  },
+  {
+    "project": "GoFish",
+    "url": "https://github.com/mattslay/GoFish",
+    "description": "GoFish is an advanced code search tool for fast searching of Visual FoxPro source code.",
+    "state": "Production release"
+  },
+  {
+    "project": "Gauge",
+    "url": "https://github.com/VFPXHome/Gauge",
+    "description": "Draws gauges in VFP applications.",
+    "state": "Production release"
+  },
+  {
+    "project": "IntellisenseX",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Thor%20IntellisenseX&referringTitle=Home",
+    "description": "Extensions to native Intellisense for field names, properties, local variables, and constants. [Thor Discussion Group](https://groups.google.com/forum/?fromgroups#!forum/FoxProThor)",
+    "state": "Production release"
+  },
+  {
+    "project": "New Property/New Method Replacement",
+    "url": "https://github.com/VFPX/NewPropertyDialog",
+    "description": "<em>Note: While this project isn’t deprecated, its functionality is included in PEM Editor listed above.</em>",
+    "state": "Production release"
+  },
+  {
+    "project": "nfJson",
+    "url": "https://vfpx.codeplex.com/wikipage?title=nfJson&referringTitle=Home",
+    "description": "Provides a set of fast performance, reliable, and easy to use Json functions using pure VFP.",
+    "state": "Production release"
+  },
+  {
+    "project": "nfXML",
+    "url": "https://vfpx.codeplex.com/wikipage?title=nfXML&referringTitle=Home",
+    "description": "Provides powerful and simple to use functions to convert complex XML into a VFP (empty-based) object and vice versa.",
+    "state": "Production release"
+  },
+  {
+    "project": "OOP Menu Project",
+    "url": "https://github.com/VFPXHome/OOPMenu",
+    "description": "Object-Oriented menus",
+    "state": "Production release"
+  },
+  {
+    "project": "ParallelFox",
+    "url": "https://vfpx.codeplex.com/wikipage?title=ParallelFox&referringTitle=Home",
+    "description": "Parallel Processing Library for Visual FoxPro",
+    "state": "Production release"
+  },
+  {
+    "project": "PEM Editor 7",
+    "url": "PEM Editor and a large suite of IDE Tools; integrated with Thor. [Thor Discussion Group](https://groups.google.com/forum/?fromgroups#!forum/FoxProThor)",
+    "description": "",
+    "state": "Production release"
+  },
+  {
+    "project": "ProjectHookX",
+    "url": "https://vfpx.codeplex.com/wikipage?title=ProjectHookX&referringTitle=Home",
+    "description": "Extendible projecthook class",
+    "state": "Production release"
+  },
+  {
+    "project": "Sedna",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Sedna&referringTitle=Home",
+    "description": "Microsoft Visual FoxPro 9.0 \"Sedna\" Add-Ons",
+    "state": "Production release"
+  },
+  {
+    "project": "ssClasses",
+    "url": "https://vfpx.codeplex.com/wikipage?title=ssClasses&referringTitle=Home",
+    "description": "Library of useful classes",
+    "state": "Production release"
+  },
+  {
+    "project": "<a title=\"StripeX Homepage\" href=\"http://vfpx.codeplex.com/wikipage?title=StripeX\">StripeX</a>",
+    "url": "Provides a wrapper for working with Stripe.com",
+    "description": "",
+    "state": "Production release"
+  },
+  {
+    "project": "ThemedControls",
+    "url": "https://vfpx.codeplex.com/wikipage?title=ThemedControls&referringTitle=Home",
+    "description": "OutlookNavBar and other controls to provide the Outlook look and feel in your VFP app",
+    "state": "Production release"
+  },
+  {
+    "project": "Thor",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Thor&referringTitle=Home",
+    "description": "Tool for managing add-on tools in the IDE (assigning hot keys, popup menus, etc); integrated with PEM Editor 7 . [Thor Discussion Group](https://groups.google.com/forum/?fromgroups#!forum/FoxProThor)",
+    "state": "Production release"
+  },
+  {
+    "project": "VFP Runtime Installers",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%20Runtime%20Installers&referringTitle=Home",
+    "description": "Provides downloads for the VFP runtime installers",
+    "state": "Production release"
+  },
+  {
+    "project": "VFP 9.0 Localization in French",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209.0%20Localization%20in%20French&referringTitle=Home",
+    "description": "Provides a French-localized IDE and tools",
+    "state": "Production release"
+  },
+  {
+    "project": "VFP 9.0 Localization in Russian",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209.0%20Localization%20in%20Russian&referringTitle=Home",
+    "description": "Provides a Russian-localized IDE and help",
+    "state": "Production release"
+  },
+  {
+    "project": "VFP 9 SP2 Help File",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209%20SP2%20Help%20File&referringTitle=Home",
+    "description": "Community maintained VFP 9 SP2 Help file (corrected and enhanced)",
+    "state": "Production release"
+  },
+  {
+    "project": "VFP 9 SP2 Hotfix 3",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209%20SP2%20Hotfix%203&referringTitle=Home",
+    "description": "Official download of Microsoft's VFP 9 SP2 Hotfix 3 file (KB 968409)",
+    "state": "Production release"
+  },
+  {
+    "project": "VFP2C32",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFP2C32&referringTitle=Home",
+    "description": "FLL over Windows API",
+    "state": "Production release"
+  },
+  {
+    "project": "VFPDosPrint",
+    "url": "https://github.com//VFPX/VFPDosPrint",
+    "description": "Generate text-based reports that can take full advantage of dot-matrix printer capabilities.",
+    "state": "Production release"
+  },
+  {
+    "project": "VFPRegExTool",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFPRegExTool&referringTitle=Home",
+    "description": "Verify regular expressions visually & do replace operations using any VFP function - based on vbScript.regexp.",
+    "state": "Production release"
+  },
+  {
+    "project": "XSource",
+    "url": "https://vfpx.codeplex.com/wikipage?title=XSource&referringTitle=Home",
+    "description": "Microsoft Visual FoxPro 9.0 SP2 XSource Projects",
+    "state": "Production release"
+  },
+  {
+    "project": "Automated Build",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Automated%20Build&referringTitle=Home",
+    "description": "Automate your VFP application builds with extensions to CruiseControl.NET",
+    "state": "Release candidate"
+  },
+  {
+    "project": "Bin 2 Text Extension",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Bin%202%20Text%20Extension&referringTitle=Home",
+    "description": "Better Visual FoxPro IDE integration with [FoxBin2Prg](https://github.com/fdbozzo/foxbin2prg)",
+    "state": "Release candidate"
+  },
+  {
+    "project": "ctl32_scontainer",
+    "url": "https://vfpx.codeplex.com/wikipage?title=ctl32_scontainer&referringTitle=Home",
+    "description": "Scrollable containers on VFP forms",
+    "state": "Release candidate"
+  },
+  {
+    "project": "ctl32_statusbar",
+    "url": "https://vfpx.codeplex.com/wikipage?title=ctl32_statusbar&referringTitle=Home",
+    "description": "Replacement for VFP _screen Status Bar, or can be used on a form",
+    "state": "Release candidate"
+  },
+  {
+    "project": "Code Analyst",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Code%20Analyst&referringTitle=Home",
+    "description": "Tool to help your recognize refactoring opportunities by spotting bad smells you select",
+    "state": "Release candidate"
+  },
+  {
+    "project": "DataExplorer 3",
+    "url": "https://vfpx.codeplex.com/wikipage?title=DataExplorer%203&referringTitle=Home",
+    "description": "Enhancements past the Sedna release.",
+    "state": "Release candidate"
+  },
+  {
+    "project": "Dynamic Forms",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Dynamic%20Forms&referringTitle=Home",
+    "description": "Dynamically create forms from markup syntax. (Beta)",
+    "state": "Beta release"
+  },
+  {
+    "project": "Code References",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Code%20References&referringTitle=Home",
+    "description": "An enhancement to the Code References search tool",
+    "state": "Beta release"
+  },
+  {
+    "project": "FoxCharts Beta",
+    "url": "https://vfpx.codeplex.com/releases/view/106904",
+    "description": "ActiveX-free charting leverages GDIPlusX.",
+    "state": "Beta release"
+  },
+  {
+    "project": "ExcelXML",
+    "url": "https://vfpx.codeplex.com/wikipage?title=ExcelXML&referringTitle=Home",
+    "description": "Convert a Table or a Grid control into a Microsoft Excel XML Spreadsheet file.",
+    "state": "Beta release"
+  },
+  {
+    "project": "FoxcodePlus",
+    "url": "https://vfpx.codeplex.com/wikipage?title=FoxcodePlus&referringTitle=Home",
+    "description": "Visual Studio like extensions to Visual FoxPro IntelliSense.",
+    "state": "Beta release"
+  },
+  {
+    "project": "SubFox",
+    "url": "https://vfpx.codeplex.com/wikipage?title=SubFox&referringTitle=Home",
+    "description": "Seamless integration for Subversion source code control",
+    "state": "Beta release"
+  },
+  {
+    "project": "Tab Menu",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Tab%20Menu&referringTitle=Home",
+    "description": "Ribbon control generated from VFP menus",
+    "state": "Beta release"
+  },
+  {
+    "project": "ThemedTitleBar",
+    "url": "https://vfpx.codeplex.com/wikipage?title=ThemedTitleBar&referringTitle=Home",
+    "description": "Replace VFP form TitleBar with modern look",
+    "state": "Beta release"
+  },
+  {
+    "project": "ClassBrowserX",
+    "url": "https://vfpx.codeplex.com/wikipage?title=ClassBrowserX&referringTitle=Home",
+    "description": "Standard VFP ClassBrowser with enhancements to the Export Code feature",
+    "state": "Alpha release"
+  },
+  {
+    "project": "FGL - Fox Graphics Library",
+    "url": "https://fgl.codeplex.com/",
+    "description": "FGL is high performance 3D graphics application framework based on OpenGL, SOIL (Simple OpenGL Image Library), Assimp, Freetype and OpenMesh",
+    "state": "Alpha release"
+  },
+  {
+    "project": "FoxyXLS",
+    "url": "http://foxyxls.codeplex.com",
+    "description": "Generate pure XLS files with formatting without MSOFFICE installed.",
+    "state": "Alpha release"
+  },
+  {
+    "project": "JustBehave",
+    "url": "https://vfpx.codeplex.com/wikipage?title=JustBehave&referringTitle=Home",
+    "description": "Extend the behavior of any VFP baseclass or custom framework class without additional code",
+    "state": "Alpha release"
+  },
+  {
+    "project": "New Class Dialog Replacement",
+    "url": "https://vfpx.codeplex.com/wikipage?title=New%20Class%20Dialog%20Replacement&referringTitle=Home",
+    "description": "Replacement for VFP New Class dialog with more features",
+    "state": "Alpha release"
+  },
+  {
+    "project": "Organization Chart",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Organization%20Chart&referringTitle=Home",
+    "description": "Displays an organization tree view.",
+    "state": "Alpha release"
+  },
+  {
+    "project": "PopMenu Project",
+    "url": "https://vfpx.codeplex.com/wikipage?title=PopMenu%20Project&referringTitle=Home",
+    "description": "Owner-drawn object-oriented shortcut menus",
+    "state": "Alpha release"
+  },
+  {
+    "project": "TabbingNavigation",
+    "url": "https://vfpx.codeplex.com/wikipage?title=TabbingNavigation&referringTitle=Home",
+    "description": "Makes navigating through FoxPro the same experience as SQL Management Studio or Visual Studio",
+    "state": "Alpha release"
+  },
+  {
+    "project": "TwilioX",
+    "url": "https://vfpx.codeplex.com/wikipage?title=TwilioX&referringTitle=Home",
+    "description": "Provides a wrapper class for calling Twilio.com to send texts",
+    "state": "Alpha release"
+  },
+  {
+    "project": "VFP Grid ManyHeader",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%20Grid%20ManyHeader&referringTitle=Home",
+    "description": "Custom container to replace and extend VFP's header functionality",
+    "state": "Alpha release"
+  },
+  {
+    "project": "Win7TLib",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Win7TLib&referringTitle=Home",
+    "description": "Integrate Windows 7 Taskbar Functionality into your VFP Applications",
+    "state": "Alpha release"
+  },
+  {
+    "project": "XLSXWorkbook",
+    "url": "https://vfpx.codeplex.com/wikipage?title=XLSXWorkbook&referringTitle=Home",
+    "description": "Read from and write to XLSX format files without any automation or export with support for full cell formatting",
+    "state": "Alpha release"
+  },
+  {
+    "project": "zProc, zVFP, and zCOM IntelliSense Scripts",
+    "url": "https://vfpx.codeplex.com/wikipage?title=zProc%2c%20zVFP%2c%20and%20zCOM%20IntelliSense%20Scripts&referringTitle=Home",
+    "description": "Customized IntelliSense scripts listing user-defined, DLL, and native functions and COM objects",
+    "state": "Alpha release"
+  },
+  {
+    "project": "Table Designer X",
+    "url": "https://vfpx.codeplex.com/wikipage?title=Table%20Designer%20X&referringTitle=Home",
+    "description": "Non-modal replacement for the VFP Table Designer",
+    "state": "Planning"
+  },
+  {
+    "project": "VFPWhereClauseBuilder",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFPWhereClauseBuilder&referringTitle=Home",
+    "description": "Provides a dynamic way to create a smooth and powerful search UI with smooth workflow",
+    "state": "Planning"
+  },
+  {
+    "project": "VFP 9.0 Localization in Portuguese",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209.0%20Localization%20in%20Portuguese&referringTitle=Home",
+    "description": "Provides a Portuguese-localized IDE and help",
+    "state": "Abandoned"
+  },
+  {
+    "project": "VFP MSBuild Target",
+    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%20MSBuild%20Target&referringTitle=Home",
+    "description": "Integrate VFP builds into an automated process",
+    "state": "Abandoned"
+  }
+]
