@@ -5,6 +5,11 @@
    "description": "A framework for creating web applications with VFP."
  },
  {
+   "project": "FGL - Fox Graphics Library",
+   "url": "https://fgl.codeplex.com/",
+   "description": "FGL is high performance 3D graphics application framework based on OpenGL, SOIL (Simple OpenGL Image Library), Assimp, Freetype and OpenMesh",
+ },
+ {
    "project": "Fox Pages Server",
    "url": "http://foxpages.codeplex.com",
    "description": "Fox Server Pages is a Visual Foxpro multithreaded webserver"
@@ -13,6 +18,12 @@
    "project": "FoxyPreviewer",
    "url": "http://foxypreviewer.codeplex.com",
    "description": "Export your Visual FoxPro reports to Images, RTF, PDF, HTML or XLS super easy! Send them by email! Enhance the look of your previews, and allow your users to decide how their report previews will be."
+ },
+ {
+   "project": "FoxyXLS",
+   "url": "http://foxyxls.codeplex.com",
+   "description": "Generate pure XLS files with formatting without MSOFFICE installed.",
+   "state": "Alpha release"
  },
  {
    "project": "LINQ to VFP",

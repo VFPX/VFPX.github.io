@@ -92,7 +92,7 @@
   {
     "project": "IntellisenseX",
     "url": "https://vfpx.codeplex.com/wikipage?title=Thor%20IntellisenseX",
-    "description": "Extensions to native Intellisense for field names, properties, local variables, and constants. [Thor Discussion Group](https://groups.google.com/forum/?fromgroups#!forum/FoxProThor)",
+    "description": "Extensions to native Intellisense for field names, properties, local variables, and constants.",
     "state": "Production release"
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "project": "Code Analyst",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Code%20Analyst",
+    "url": "https://github.com/VFPX/CodeAnalyst",
     "description": "Tool to help your recognize refactoring opportunities by spotting bad smells you select",
     "state": "Release candidate"
   },
@@ -303,18 +303,6 @@
     "project": "ClassBrowserX",
     "url": "https://vfpx.codeplex.com/wikipage?title=ClassBrowserX",
     "description": "Standard VFP ClassBrowser with enhancements to the Export Code feature",
-    "state": "Alpha release"
-  },
-  {
-    "project": "FGL - Fox Graphics Library",
-    "url": "https://fgl.codeplex.com/",
-    "description": "FGL is high performance 3D graphics application framework based on OpenGL, SOIL (Simple OpenGL Image Library), Assimp, Freetype and OpenMesh",
-    "state": "Alpha release"
-  },
-  {
-    "project": "FoxyXLS",
-    "url": "http://foxyxls.codeplex.com",
-    "description": "Generate pure XLS files with formatting without MSOFFICE installed.",
     "state": "Alpha release"
   },
   {
