@@ -41,7 +41,7 @@ The best way to do this depends on whether the project was included in the sourc
 
 * For *Directory*, specify the name of the folder you just created.
 
-* Turn on *From SVN Repository* and turn off all of the other checkboxes in the *From SVN Repository* section.
+* Turn on *From SVN Repository* and turn off all of the other checkboxes in the *From SVN Repository* section (this is important or the import will not work properly).
 
     ![](/images/CloneFromSVN.png)
 
@@ -103,7 +103,7 @@ Email [VFPX project admin](mailto:projects@vfpx.org) and ask us to create a repo
 
 ### Creating a Separate Repository
 
-Create a GitHub repository and email [VFPX project admin](mailto:projects@vfpx.org) with the URL for the project so we can edit the project list with the new location. If you're going the use the "fast way" to upload the source (discussed below), be sure to turn on the "Initialize this repository with a README" setting.
+Create a GitHub repository and email [VFPX project admin](mailto:projects@vfpx.org) with the URL for the project so we can edit the project list with the new location. If you're going the use the "fast way" to upload the source (discussed below), be sure to turn on the *Initialize this repository with a README* setting.
 
 ![](/images/CreateRepo.png)
 
@@ -123,11 +123,11 @@ Instructions for each of these are below.
 
 If you installed Tortoise Git:
 
-* Add README.md and any image files to the repository: right-click the folder, choose Tortoise Git, then Add from the shortcut menu, and select the desired files.
+* Add README.md and any image files to the repository: right-click the folder, choose *Tortoise Git*, then *Add* from the shortcut menu, and select the desired files.
 
-* Commit the new files: right-click and choose Git Commit -> "master" from the shortcut menu, enter a message in the Commit dialog (such as "Added README"), and click the Commit button.
+* Commit the new files: right-click and choose *Git Commit -> "master"* from the shortcut menu, enter a message in the Commit dialog (such as "Added README"), and click the Commit button.
 
-* Push to the GitHub repository: right-click and choose Git Sync. Specify *Remote URL* as:
+* Push to the GitHub repository: right-click and choose *Git Sync*. Specify *Remote URL* as:
 
     https://github.com/RepositoryName.git
         
@@ -154,7 +154,7 @@ If you don't use Tortoise Git:
 
 ### The Fast Way
 
-* Click the Upload Files link to go to the Upload page.
+* Click the *Upload Files* link to go to the Upload page.
 
     ![](/images/UploadFiles.png)
 
@@ -162,7 +162,7 @@ If you don't use Tortoise Git:
 
     ![](/images/DragFiles.png)
 
-* Click the Commit Changes button.
+* Click the *Commit Changes* button.
 
 ### The Complete Way
 
@@ -174,19 +174,19 @@ Since files on GitHub typically have lowercase names, you may wish to rename you
 
 ![](/images/RenamingFiles.png)
 
-It is important to set Case (4) to Lower,  Extension (11) to Lower, turn on Subfolders in Filters (12), and select all the files and folders except README.md before clicking the Rename button.
+It is important to set *Case (4)* to Lower,  *Extension (11)* to Lower, turn on *Subfolders in Filters (12)*, and select all the files and folders except README.md before clicking the Rename button.
 
 If you installed Tortoise Git:
 
-* Clone the new GitHub repository for the folder: right-click the parent folder in Windows Explorer and choose Git Clone… from the shortcut menu. You may need to Manage Repositories if you have not set one up in Tortoise before to enter the GitHub Remote URL. Otherwise enter the URL for the Github repository. Adjust the local Directory as you see fit.
+* Clone the new GitHub repository for the folder: right-click the parent folder in Windows Explorer and choose *Git Clone…* from the shortcut menu. You may need to Manage Repositories if you have not set one up in Tortoise before to enter the GitHub Remote URL. Otherwise enter the URL for the GitHub repository. Adjust the local Directory as you see fit.
 
 * Copy the files from your local project, or from the ZIP file or SVN repository you downloaded from CodePlex into the new project folder. Overwrite or edit the README.md file as needed.
 
-* Add all necessary files to the repository, including README.md and other related files: right-click the folder, choose Tortoise Git, then Add from the shortcut menu, and select the desired files.
+* Add all necessary files to the repository, including README.md and other related files: right-click the folder, choose *Tortoise Git*, then *Add* from the shortcut menu, and select the desired files.
 
-* Commit the new files: right-click and choose Git Commit -> "master" from the shortcut menu, enter a message in the Commit dialog (such as "Initial commit"), and click the Commit button.
+* Commit the new files: right-click and choose *Git Commit -> "master"* from the shortcut menu, enter a message in the Commit dialog (such as "Initial commit"), and click the Commit button.
 
-* Push to the GitHub repository: right-click and choose Git Sync, and click Push.
+* Push to the GitHub repository: right-click and choose *Git Sync*, and click Push.
 
 If you don't use Tortoise Git:
 
