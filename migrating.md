@@ -3,13 +3,13 @@ layout: page
 permalink: /migrating/
 ---
 
-## Migrating a Project from CodePlex to GitHub
+# Migrating a Project from CodePlex to GitHub
 
 There are several steps you must perform to migrate a project from CodePlex to GitHub. Fortunately, they aren't very complicated.
 
 ## 1. Install Git
 
-Note: this step is only required if you are going to use the "complete way" to upload code to GitHub (discussed later).
+**Note**: this step is not required if you are going to use the "fast way" to upload code to GitHub (discussed later).
 
 If you haven't already, install <a href="https://git-scm.com/download/win" target="_blank">Git</a> on your system.
 
@@ -23,15 +23,43 @@ If you haven't already, create a GitHub account on the <a href="https://github.c
 
 ## 3. Get the Source Code
 
+The best way to do this depends on whether the project was included in the source code repository on VFPX or not. If you're not sure, click Source Code on the VFPX home page and see if the project has a folder.
+
+![](/images/SourceCode.png)
+
+### The project IS included in VFPX source code
+
+* Create a new folder on your system.
+
+* Right-click the folder in Windows Explorer and choose Git Clone...
+
+* For *URL*, specify:
+
+    https://vfpx.svn.codeplex.com/svn/FolderName
+
+    where FolderName is the name of the folder on the Source Code page of VFPX.
+
+* For *Directory*, specify the name of the folder you just created.
+
+* Turn on *From SVN Repository* and turn off all of the other checkboxes in the *From SVN Repository* section.
+
+    ![](/images/CloneFromSVN.png)
+
+* Click OK. The clone process takes a while, so be patient.
+
+### The project IS NOT included in VFPX source code
+
 If you have the latest version of the source code on your system, use it. Otherwise, download the latest release from CodePlex and unzip it into a new folder.
 
 ## 4. Migrate the Wiki Page
 
 * Go to the VFPX home page on CodePlex and sign in.
 
-* Click the Download Wiki link to download the entire VFPX Wiki content as a file named WikiFiles.zip (be patient; it'll take a few moments as it's over 100 MB in size).
+* Click the *Download Wiki* link to download the entire VFPX Wiki content as a file named WikiFiles.zip (be patient; it'll take a few moments as it's over 100 MB in size).
 
     ![](/images/DownloadWiki.png)
+
+    **Note**: if you'd rather not download the entire content, email [VFPX admin](mailto:projects@vfpx.org) and let us know which project you want the files for, and we'll email them back to you.
 
 * Unzip the file into a new folder. You may get some errors when you open the ZIP file because of some misnamed files; you can ignore those.
 
@@ -83,9 +111,46 @@ Create a GitHub repository and email [VFPX project admin](mailto:projects@vfpx.o
 
 You have a choice about how to upload the source to GitHub:
 
+* From SVN: if you cloned the CodePlex SVN folder as discussed in step 3, you just have a couple of things to do.
+
 * The fast way: just uploading the ZIP file containing the source code and the migrated Wiki content (README.md, images, and any other files). The downside of this approach is that there's no version control so it's more difficult for other people to collaborate on the project.
 
 * The complete way: a repository with full version control.
+
+Instructions for each of these are below.
+
+### From SVN
+
+If you installed Tortoise Git:
+
+* Add README.md and any image files to the repository: right-click the folder, choose Tortoise Git, then Add from the shortcut menu, and select the desired files.
+
+* Commit the new files: right-click and choose Git Commit -> "master" from the shortcut menu, enter a message in the Commit dialog (such as "Added README"), and click the Commit button.
+
+* Push to the GitHub repository: right-click and choose Git Sync. Specify *Remote URL* as:
+
+    https://github.com/RepositoryName.git
+        
+    where "RepositoryName" is the name of the repository, such as "VFPX/FRXTabs". Click Push.
+
+If you don't use Tortoise Git:
+
+* Open a command window in the project folder.
+
+* Add README.md and any image files to the Git repository:
+
+        git add .
+        git commit --all -m "Added README"
+
+* Tell Git about the GitHub repository:
+
+        git remote add origin https://github.com/RepositoryName.git
+        
+    where "RepositoryName" is the name of the repository, such as "VFPX/FRXTabs".
+
+* Push to the GitHub repository:
+
+        git push -u origin master
 
 ### The Fast Way
 

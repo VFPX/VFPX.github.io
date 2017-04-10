@@ -127,7 +127,7 @@
   },
   {
     "project": "ProjectHookX",
-    "url": "https://vfpx.codeplex.com/wikipage?title=ProjectHookX",
+    "url": "https://github.com/VFPX/ProjectHookX",
     "description": "Extendible projecthook class",
     "state": "Production release"
   },
@@ -367,7 +367,7 @@
   },
   {
     "project": "Table Designer X",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Table%20Designer%20X",
+    "url": "https://github.com/VFPX/TableDesignerX",
     "description": "Non-modal replacement for the VFP Table Designer",
     "state": "Planning"
   },
