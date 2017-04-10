@@ -30,14 +30,14 @@
     "state": "Production release"
   },
   {
-    "project": "FoxBarcode",
-    "url": "https://vfpx.codeplex.com/wikipage?title=FoxBarcode",
+    "project": "FoxBarCode",
+    "url": "https://github.com/VFPX/FoxBarCode",
     "description": "FoxBarcode provides a tool for generating images with different bar code symbologies.",
     "state": "Production release"
   },
   {
-    "project": "FoxBarcodeQR",
-    "url": "https://vfpx.codeplex.com/wikipage?title=FoxBarcodeQR",
+    "project": "FoxBarCodeQR",
+    "url": "https://github.com/VFPX/FoxBarCodeQR",
     "description": "FoxBarcodeQR is a supplement of FoxBarcode only for QR Code.",
     "state": "Production release"
   },
