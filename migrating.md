@@ -113,13 +113,15 @@ It is important to set Case (4) to Lower,  Extension (11) to Lower, turn on Subf
 
 If you installed Tortoise Git:
 
-* Create a Git repository for the folder containing the source: right-click the folder in Windows Explorer and choose Git Create Repository Here from the shortcut menu.
+* Clone the new GitHub repository for the folder: right-click the parent folder in Windows Explorer and choose Git Clone… from the shortcut menu. You may need to Manage Repositories if you have not set one up in Tortoise before to enter the GitHub Remote URL. Otherwise enter the URL for the Github repository. Adjust the local Directory as you see fit.
+
+* Copy the files from your local project, or from the ZIP file or SVN repository you downloaded from CodePlex into the new project folder. Overwrite or edit the README.md file as needed.
 
 * Add all necessary files to the repository, including README.md and other related files: right-click the folder, choose Tortoise Git, then Add from the shortcut menu, and select the desired files.
 
 * Commit the new files: right-click and choose Git Commit -> "master" from the shortcut menu, enter a message in the Commit dialog (such as "Initial commit"), and click the Commit button.
 
-* Push to the GitHub repository: right-click and choose Git Sync, enter the URL for the repository (https:&#47;/github.com/RepositoryName.git, where "RepositoryName" is the name of the repository, such as "VFPX/FRXTabs") for the Remote URL setting, and click Push.
+* Push to the GitHub repository: right-click and choose Git Sync, and click Push.
 
 If you don't use Tortoise Git:
 
