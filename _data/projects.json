@@ -222,6 +222,12 @@
     "state": "Production release"
   },
   {
+    "project": "VistaDialogs4COM",
+    "url": "https://github.com/VFPX/VistaDialogs4COM",
+    "description": "A collection of classes that provide access to the Windows Vista TaskDialog and Common Dialogs (Sedna)",
+    "state": "Production release"
+  },
+  {
     "project": "XSource",
     "url": "https://vfpx.codeplex.com/wikipage?title=XSource",
     "description": "Microsoft Visual FoxPro 9.0 SP2 XSource Projects",
