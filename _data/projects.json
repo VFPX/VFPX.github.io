@@ -96,6 +96,12 @@
     "state": "Production release"
   },
   {
+    "project": "My for VFP",
+    "url": "https://github.com/VFPX/My",
+    "description": "Exposes commonly used functionality in a hierarchy that is easy to discover and navigate (Sedna)",
+    "state": "Production release"
+  },
+  {
     "project": "New Property/New Method Replacement",
     "url": "https://github.com/VFPX/NewPropertyDialog",
     "description": "<em>Note: While this project isn’t deprecated, its functionality is included in PEM Editor listed above.</em>",
