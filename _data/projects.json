@@ -55,7 +55,7 @@
   },
   {
     "project": "FoxTabs",
-    "url": "https://vfpx.codeplex.com/wikipage?title=FoxTabs",
+    "url": "https://github.com/VFPX/FoxTabs",
     "description": "IDE enhancement assisting developers working with a project and numerous open files",
     "state": "Production release"
   },
@@ -121,7 +121,7 @@
   },
   {
     "project": "ParallelFox",
-    "url": "https://vfpx.codeplex.com/wikipage?title=ParallelFox",
+    "url": "https://github.com/VFPX/ParallelFox",
     "description": "Parallel Processing Library for Visual FoxPro",
     "state": "Production release"
   },
