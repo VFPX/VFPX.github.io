@@ -162,6 +162,12 @@
     "state": "Production release"
   },
   {
+    "project": "Upsizing Wizard",
+    "url": "https://github.com/VFPX/UpsizingWizard",
+    "description": "An updated version of the Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)",
+    "state": "Production release"
+  },
+  {
     "project": "VFP Runtime Installers",
     "url": "https://vfpx.codeplex.com/wikipage?title=VFP%20Runtime%20Installers",
     "description": "Provides downloads for the VFP runtime installers",
