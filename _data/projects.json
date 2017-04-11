@@ -12,6 +12,12 @@
     "state": "Production release"
   },
   {
+    "project": "DDEX",
+    "url": "https://github.com/VFPX/DDEX",
+    "description": "Visual FoxPro DDEX (Data Designer EXtension) Provider for Visual Studio 2005 (Sedna)",
+    "state": "Production release"
+  },
+  {
     "project": "DeskTop Alerts",
     "url": "https://github.com/VFPX/DesktopAlerts",
     "description": "Outlook style alerts are popup windows to message users",
