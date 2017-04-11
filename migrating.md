@@ -29,6 +29,8 @@ The best way to do this depends on whether the project was included in the sourc
 
 ### The project IS included in VFPX source code
 
+If you use TortoiseGit:
+
 * Create a new folder on your system.
 
 * Right-click the folder in Windows Explorer and choose Git Clone...
@@ -46,6 +48,12 @@ The best way to do this depends on whether the project was included in the sourc
     ![](/images/CloneFromSVN.png)
 
 * Click OK. The clone process takes a while, so be patient.
+
+If you don't use TortoiseGit, open a command window and type:
+
+    git svn clone --log-window=4000  "https://vfpx.svn.codeplex.com/svn/FolderName" "LocalFolder"
+
+where FolderName is the name of the folder on the Source Code page of VFPX and LocalFolder is the path on your system where the repository should go. The clone process takes a while, so be patient.
 
 ### The project IS NOT included in VFPX source code
 
