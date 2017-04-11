@@ -102,6 +102,12 @@
     "state": "Production release"
   },
   {
+    "project": "NET4COM",
+    "url": "https://github.com/VFPX/NET4COM",
+    "description": "A collection of COM classes that wrap a subset of the .NET Framework 2.0 (Sedna)",
+    "state": "Production release"
+  },
+  {
     "project": "New Property/New Method Replacement",
     "url": "https://github.com/VFPX/NewPropertyDialog",
     "description": "<em>Note: While this project isn’t deprecated, its functionality is included in PEM Editor listed above.</em>",
