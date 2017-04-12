@@ -1,14 +1,62 @@
 [
   {
+    "project": "AddLabel",
+    "url": "https://github.com/VFPX/AddLabel",
+    "description": "Add custom label sizes to the New Label dialog in the Label Designer (XSource)",
+    "state": "Production release"
+  },
+  {
     "project": "Alternate SCCText",
     "url": "https://vfpx.codeplex.com/wikipage?title=Alternate%20SCCText",
     "description": "New and improved version of source code control to text program",
     "state": "Production release"
   },
   {
+    "project": "Beautify",
+    "url": "https://github.com/VFPX/Beautify",
+    "description": "Specify capitalization and indentation styles for code (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "Builders",
+    "url": "https://github.com/VFPX/Builders",
+    "description": "Tools that aid in setting properties of controls on a form (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "ClassBrowser",
+    "url": "https://github.com/VFPX/ClassBrowser",
+    "description": "View, use, and manage classes and their user-defined members (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "CodeReferences",
+    "url": "https://github.com/VFPX/CodeReferences",
+    "description": "Search for occurrences of code (XSource)",
+    "state": "Production release"
+  },
+  {
     "project": "Control Renamer Builder",
     "url": "https://vfpx.codeplex.com/wikipage?title=Control%20Renamer%20Builder",
     "description": "Builder designed to rename controls and reference to controls in the method codes",
+    "state": "Production release"
+  },
+  {
+    "project": "Converter",
+    "url": "https://github.com/VFPX/Converter",
+    "description": "Converts files created in FoxPro 2.6 and earlier versions of VFP to the current VFP format (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "CoverageProfiler",
+    "url": "https://github.com/VFPX/CoverageProfiler",
+    "description": "Provides analysis of coverage logs (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "EnvironmentManager",
+    "url": "https://github.com/VFPX/EnvironmentManager",
+    "description": "Manage and organize environment settings for reusable development needs (XSource)",
     "state": "Production release"
   },
   {
@@ -96,9 +144,21 @@
     "state": "Production release"
   },
   {
+    "project": "IntellisenseManager",
+    "url": "https://github.com/VFPX/IntellisenseManager",
+    "description": "Perform IntelliSense management tasks (XSource)",
+    "state": "Production release"
+  },
+  {
     "project": "IntellisenseX",
     "url": "https://vfpx.codeplex.com/wikipage?title=Thor%20IntellisenseX",
     "description": "Extensions to native Intellisense for field names, properties, local variables, and constants.",
+    "state": "Production release"
+  },
+  {
+    "project": "MemberDataEditor",
+    "url": "https://github.com/VFPX/MemberDataEditor",
+    "description": "An easy to use front-end to manage MemberData (XSource)",
     "state": "Production release"
   },
   {
@@ -132,6 +192,12 @@
     "state": "Production release"
   },
   {
+    "project": "ObjectBrowser",
+    "url": "https://github.com/VFPX/ObjectBrowser",
+    "description": "Displays the classes, properties, methods, events, and constants available for COM object libraries (XSource)",
+    "state": "Production release"
+  },
+  {
     "project": "OOP Menu Project",
     "url": "https://github.com/VFPXHome/OOPMenu",
     "description": "Object-Oriented menus",
@@ -147,6 +213,12 @@
     "project": "ProjectHookX",
     "url": "https://github.com/VFPX/ProjectHookX",
     "description": "Extendible projecthook class",
+    "state": "Production release"
+  },
+  {
+    "project": "ReportingApps",
+    "url": "https://github.com/VFPX/ReportingApps",
+    "description": "The default implementation of Visual FoxPro 9's Report Applications (XSource)",
     "state": "Production release"
   },
   {
@@ -168,6 +240,18 @@
     "state": "Production release"
   },
   {
+    "project": "TaskListManager",
+    "url": "https://github.com/VFPX/TaskListManager",
+    "description": "Keeps track of tasks (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "TaskPaneManager",
+    "url": "https://github.com/VFPX/TaskPaneManager",
+    "description": "Displays links to useful information and dialogs for performing essential tasks (XSource)",
+    "state": "Production release"
+  },
+  {
     "project": "ThemedControls",
     "url": "https://vfpx.codeplex.com/wikipage?title=ThemedControls",
     "description": "OutlookNavBar and other controls to provide the Outlook look and feel in your VFP app",
@@ -180,9 +264,21 @@
     "state": "Production release"
   },
   {
+    "project": "Toolbox",
+    "url": "https://github.com/VFPX/Toolbox",
+    "description": "Displays items used in the creation of applications (XSource)",
+    "state": "Production release"
+  },
+  {
     "project": "Upsizing Wizard",
     "url": "https://github.com/VFPX/UpsizingWizard",
     "description": "An updated version of the Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)",
+    "state": "Production release"
+  },
+  {
+    "project": "VFPClean",
+    "url": "https://github.com/VFPX/VFPClean",
+    "description": "When reinstalling VFP, make sure all core Xbase and other files are set appropriately (XSource)",
     "state": "Production release"
   },
   {
@@ -240,8 +336,20 @@
     "state": "Production release"
   },
   {
+    "project": "Webservice",
+    "url": "https://github.com/VFPX/Webservice",
+    "description": "Web service wizard (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "Wizards",
+    "url": "https://github.com/VFPX/Wizards",
+    "description": "A collection of Wizard applications and productivity enhancement tools (XSource)",
+    "state": "Production release"
+  },
+  {
     "project": "XSource",
-    "url": "https://vfpx.codeplex.com/wikipage?title=XSource",
+    "url": "https://github.com/VFPX/XSource",
     "description": "Microsoft Visual FoxPro 9.0 SP2 XSource Projects",
     "state": "Production release"
   },
