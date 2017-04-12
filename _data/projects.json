@@ -289,7 +289,7 @@
   },
   {
     "project": "VFP 9.0 Localization in French",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209.0%20Localization%20in%20French",
+    "url": "https://github.com/VFPX/FrenchLocalization",
     "description": "Provides a French-localized IDE and tools",
     "state": "Production release"
   },
@@ -301,7 +301,7 @@
   },
   {
     "project": "VFP 9 SP2 Help File",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209%20SP2%20Help%20File",
+    "url": "https://github.com/VFPX/HelpFile",
     "description": "Community maintained VFP 9 SP2 Help file (corrected and enhanced)",
     "state": "Production release"
   },
