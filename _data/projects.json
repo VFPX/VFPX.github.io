@@ -139,7 +139,7 @@
   },
   {
     "project": "Gauge",
-    "url": "https://github.com/VFPXHome/Gauge",
+    "url": "https://github.com/VFPX/Gauge",
     "description": "Draws gauges in VFP applications.",
     "state": "Production release"
   },
@@ -319,7 +319,7 @@
   },
   {
     "project": "VFPDosPrint",
-    "url": "https://github.com//VFPX/VFPDosPrint",
+    "url": "https://github.com/VFPX/VFPDosPrint",
     "description": "Generate text-based reports that can take full advantage of dot-matrix printer capabilities.",
     "state": "Production release"
   },
