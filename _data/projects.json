@@ -439,13 +439,13 @@
   },
   {
     "project": "ClassBrowserX",
-    "url": "https://vfpx.codeplex.com/wikipage?title=ClassBrowserX",
+    "url": "https://github.com/VFPX/ClassBrowserX",
     "description": "Standard VFP ClassBrowser with enhancements to the Export Code feature",
     "state": "Alpha release"
   },
   {
     "project": "JustBehave",
-    "url": "https://vfpx.codeplex.com/wikipage?title=JustBehave",
+    "url": "https://github.com/VFPX/JustBehave",
     "description": "Extend the behavior of any VFP baseclass or custom framework class without additional code",
     "state": "Alpha release"
   },
@@ -481,7 +481,7 @@
   },
   {
     "project": "VFP Grid ManyHeader",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%20Grid%20ManyHeader",
+    "url": "https://github.com/VFPX/VFPGridManyHeader",
     "description": "Custom container to replace and extend VFP's header functionality",
     "state": "Alpha release"
   },
