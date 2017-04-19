@@ -361,7 +361,7 @@
   },
   {
     "project": "Bin 2 Text Extension",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Bin%202%20Text%20Extension",
+    "url": "https://github.com/lscheffler/bin2text",
     "description": "Better Visual FoxPro IDE integration with [FoxBin2Prg](https://github.com/fdbozzo/foxbin2prg)",
     "state": "Release candidate"
   },
