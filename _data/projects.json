@@ -403,7 +403,7 @@
   },
   {
     "project": "FoxCharts Beta",
-    "url": "https://vfpx.codeplex.com/releases/view/106904",
+    "url": "https://github.com/VFPX/FoxChartsBeta",
     "description": "ActiveX-free charting leverages GDIPlusX.",
     "state": "Beta release"
   },
