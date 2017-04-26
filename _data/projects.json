@@ -510,12 +510,6 @@
     "state": "Planning"
   },
   {
-    "project": "VFPWhereClauseBuilder",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFPWhereClauseBuilder",
-    "description": "Provides a dynamic way to create a smooth and powerful search UI with smooth workflow",
-    "state": "Planning"
-  },
-  {
     "project": "VFP 9.0 Localization in Portuguese",
     "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209.0%20Localization%20in%20Portuguese",
     "description": "Provides a Portuguese-localized IDE and help",
