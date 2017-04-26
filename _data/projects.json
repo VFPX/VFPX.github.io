@@ -510,12 +510,6 @@
     "state": "Planning"
   },
   {
-    "project": "VFP 9.0 Localization in Portuguese",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209.0%20Localization%20in%20Portuguese",
-    "description": "Provides a Portuguese-localized IDE and help",
-    "state": "Abandoned"
-  },
-  {
     "project": "VFP MSBuild Target",
     "url": "https://vfpx.codeplex.com/wikipage?title=VFP%20MSBuild%20Target",
     "description": "Integrate VFP builds into an automated process",
