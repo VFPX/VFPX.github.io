@@ -409,13 +409,13 @@
   },
   {
     "project": "ExcelXML",
-    "url": "https://vfpx.codeplex.com/wikipage?title=ExcelXML",
+    "url": "https://github.com/VFPX/ExcelXML",
     "description": "Convert a Table or a Grid control into a Microsoft Excel XML Spreadsheet file.",
     "state": "Beta release"
   },
   {
     "project": "FoxcodePlus",
-    "url": "https://vfpx.codeplex.com/wikipage?title=FoxcodePlus",
+    "url": "https://github.com/VFPX/FoxcodePlus",
     "description": "Visual Studio like extensions to Visual FoxPro IntelliSense.",
     "state": "Beta release"
   },
