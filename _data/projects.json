@@ -79,7 +79,7 @@
   },
   {
     "project": "Finder",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Finder",
+    "url": "https://github.com/VFPX/Finder",
     "description": "Search tool to find names of files or classes in a project or folder.",
     "state": "Production release"
   },
@@ -151,7 +151,7 @@
   },
   {
     "project": "IntellisenseX",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Thor%20IntellisenseX",
+    "url": "https://github.com/VFPX/IntelliSenseX",
     "description": "Extensions to native Intellisense for field names, properties, local variables, and constants.",
     "state": "Production release"
   },
