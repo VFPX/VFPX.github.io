@@ -493,7 +493,7 @@
   },
   {
     "project": "XLSXWorkbook",
-    "url": "https://vfpx.codeplex.com/wikipage?title=XLSXWorkbook",
+    "url": "https://github.com/ggreen86/XLXS-Workbook-Class",
     "description": "Read from and write to XLSX format files without any automation or export with support for full cell formatting",
     "state": "Alpha release"
   },
