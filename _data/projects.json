@@ -355,7 +355,7 @@
   },
   {
     "project": "Automated Build",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Automated%20Build",
+    "url": "https://github.com/VFPX/AutomatedBuild",
     "description": "Automate your VFP application builds with extensions to CruiseControl.NET",
     "state": "Release candidate"
   },
@@ -433,7 +433,7 @@
   },
   {
     "project": "ThemedTitleBar",
-    "url": "https://vfpx.codeplex.com/wikipage?title=ThemedTitleBar",
+    "url": "https://github.com/VFPX/ThemedTitleBar",
     "description": "Replace VFP form TitleBar with modern look",
     "state": "Beta release"
   },
