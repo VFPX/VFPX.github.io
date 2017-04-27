@@ -313,7 +313,7 @@
   },
   {
     "project": "VFP2C32",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFP2C32",
+    "url": "https://github.com/ChristianEhlscheid/vfp2c32",
     "description": "FLL over Windows API",
     "state": "Production release"
   },
