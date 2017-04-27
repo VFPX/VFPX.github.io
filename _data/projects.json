@@ -348,6 +348,12 @@
     "state": "Production release"
   },
   {
+    "project": "XLSXWorkbook",
+    "url": "https://github.com/ggreen86/XLXS-Workbook-Class",
+    "description": "Read from and write to XLSX format files without any automation or export with support for full cell formatting",
+    "state": "Production release"
+  },
+  {
     "project": "XSource",
     "url": "https://github.com/VFPX/XSource",
     "description": "Microsoft Visual FoxPro 9.0 SP2 XSource Projects",
@@ -490,12 +496,6 @@
     "url": "https://vfpx.codeplex.com/wikipage?title=Win7TLib",
     "description": "Integrate Windows 7 Taskbar Functionality into your VFP Applications",
     "state": "Alpha release"
-  },
-  {
-    "project": "XLSXWorkbook",
-    "url": "https://github.com/ggreen86/XLXS-Workbook-Class",
-    "description": "Read from and write to XLSX format files without any automation or export with support for full cell formatting",
-    "state": "Production release"
   },
   {
     "project": "zProc, zVFP, and zCOM IntelliSense Scripts",
