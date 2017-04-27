@@ -495,7 +495,7 @@
     "project": "XLSXWorkbook",
     "url": "https://github.com/ggreen86/XLXS-Workbook-Class",
     "description": "Read from and write to XLSX format files without any automation or export with support for full cell formatting",
-    "state": "Alpha release"
+    "state": "Production release"
   },
   {
     "project": "zProc, zVFP, and zCOM IntelliSense Scripts",
