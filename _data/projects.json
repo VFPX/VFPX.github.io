@@ -295,7 +295,7 @@
   },
   {
     "project": "VFP 9.0 Localization in Russian",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209.0%20Localization%20in%20Russian",
+    "url": "https://github.com/VFPX/RussianLocalization",
     "description": "Provides a Russian-localized IDE and help",
     "state": "Production release"
   },
@@ -379,7 +379,7 @@
   },
   {
     "project": "ctl32_statusbar",
-    "url": "https://vfpx.codeplex.com/wikipage?title=ctl32_statusbar",
+    "url": "https://github.com/VFPX/ctl32_StatusBar",
     "description": "Replacement for VFP _screen Status Bar, or can be used on a form",
     "state": "Release candidate"
   },
@@ -399,12 +399,6 @@
     "project": "Dynamic Forms",
     "url": "https://vfpx.codeplex.com/wikipage?title=Dynamic%20Forms",
     "description": "Dynamically create forms from markup syntax. (Beta)",
-    "state": "Beta release"
-  },
-  {
-    "project": "Code References",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Code%20References",
-    "description": "An enhancement to the Code References search tool",
     "state": "Beta release"
   },
   {
@@ -463,19 +457,19 @@
   },
   {
     "project": "Organization Chart",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Organization%20Chart",
+    "url": "https://github.com/VFPX/OrganizationChart",
     "description": "Displays an organization tree view.",
     "state": "Alpha release"
   },
   {
     "project": "PopMenu Project",
-    "url": "https://vfpx.codeplex.com/wikipage?title=PopMenu%20Project",
+    "url": "https://github.com/VFPX/PopMenu",
     "description": "Owner-drawn object-oriented shortcut menus",
     "state": "Alpha release"
   },
   {
     "project": "TabbingNavigation",
-    "url": "https://vfpx.codeplex.com/wikipage?title=TabbingNavigation",
+    "url": "https://github.com/VFPX/TabbingNavigation",
     "description": "Makes navigating through FoxPro the same experience as SQL Management Studio or Visual Studio",
     "state": "Alpha release"
   },
@@ -499,7 +493,7 @@
   },
   {
     "project": "zProc, zVFP, and zCOM IntelliSense Scripts",
-    "url": "https://vfpx.codeplex.com/wikipage?title=zProc%2c%20zVFP%2c%20and%20zCOM%20IntelliSense%20Scripts",
+    "url": "https://github.com/VFPX/zProc-zVFP-zCOM-IntelliSenseScripts",
     "description": "Customized IntelliSense scripts listing user-defined, DLL, and native functions and COM objects",
     "state": "Alpha release"
   },
@@ -509,10 +503,4 @@
     "description": "Non-modal replacement for the VFP Table Designer",
     "state": "Planning"
   },
-  {
-    "project": "VFP MSBuild Target",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%20MSBuild%20Target",
-    "description": "Integrate VFP builds into an automated process",
-    "state": "Abandoned"
-  }
 ]
