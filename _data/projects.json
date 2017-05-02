@@ -253,7 +253,7 @@
   },
   {
     "project": "ThemedControls",
-    "url": "https://vfpx.codeplex.com/wikipage?title=ThemedControls",
+    "url": "https://github.com/VFPX/ThemedControls",
     "description": "OutlookNavBar and other controls to provide the Outlook look and feel in your VFP app",
     "state": "Production release"
   },
