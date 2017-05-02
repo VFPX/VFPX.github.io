@@ -103,7 +103,7 @@
   },
   {
     "project": "FoxCharts",
-    "url": "https://vfpx.codeplex.com/wikipage?title=FoxCharts",
+    "url": "https://github.com/VFPX/FoxCharts",
     "description": "ActiveX-free charting leverages GDIPlusX",
     "state": "Production release"
   },
@@ -399,12 +399,6 @@
     "project": "Dynamic Forms",
     "url": "https://vfpx.codeplex.com/wikipage?title=Dynamic%20Forms",
     "description": "Dynamically create forms from markup syntax. (Beta)",
-    "state": "Beta release"
-  },
-  {
-    "project": "FoxCharts Beta",
-    "url": "https://github.com/VFPX/FoxChartsBeta",
-    "description": "ActiveX-free charting leverages GDIPlusX.",
     "state": "Beta release"
   },
   {
