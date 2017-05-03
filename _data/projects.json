@@ -7,7 +7,7 @@
   },
   {
     "project": "Alternate SCCText",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Alternate%20SCCText",
+    "url": "https://github.com/VFPX/AlternateSCCText",
     "description": "New and improved version of source code control to text program",
     "state": "Production release"
   },
@@ -283,7 +283,7 @@
   },
   {
     "project": "VFP Runtime Installers",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%20Runtime%20Installers",
+    "url": "https://github.com/VFPX/VFPRuntimeInstallers",
     "description": "Provides downloads for the VFP runtime installers",
     "state": "Production release"
   },
@@ -421,7 +421,7 @@
   },
   {
     "project": "Tab Menu",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Tab%20Menu",
+    "url": "https://github.com/VFPX/TabMenu",
     "description": "Ribbon control generated from VFP menus",
     "state": "Beta release"
   },
