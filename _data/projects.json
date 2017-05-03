@@ -415,7 +415,7 @@
   },
   {
     "project": "SubFox",
-    "url": "https://vfpx.codeplex.com/wikipage?title=SubFox",
+    "url": "https://github.com/VFPX/SubFox",
     "description": "Seamless integration for Subversion source code control",
     "state": "Beta release"
   },
