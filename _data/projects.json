@@ -372,12 +372,6 @@
     "state": "Release candidate"
   },
   {
-    "project": "ctl32_scontainer",
-    "url": "https://vfpx.codeplex.com/wikipage?title=ctl32_scontainer",
-    "description": "Scrollable containers on VFP forms",
-    "state": "Release candidate"
-  },
-  {
     "project": "ctl32_statusbar",
     "url": "https://github.com/VFPX/ctl32_StatusBar",
     "description": "Replacement for VFP _screen Status Bar, or can be used on a form",
@@ -481,7 +475,7 @@
   },
   {
     "project": "Win7TLib",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Win7TLib",
+    "url": "https://github.com/VFPX/Win7TLib",
     "description": "Integrate Windows 7 Taskbar Functionality into your VFP Applications",
     "state": "Alpha release"
   },
