@@ -259,7 +259,7 @@
   },
   {
     "project": "Thor",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Thor",
+    "url": "https://github.com/VFPX/Thor",
     "description": "Tool for managing add-on tools in the IDE (assigning hot keys, popup menus, etc); integrated with PEM Editor 7.",
     "state": "Production release"
   },
@@ -307,7 +307,7 @@
   },
   {
     "project": "VFP 9 SP2 Hotfix 3",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFP%209%20SP2%20Hotfix%203",
+    "url": "https://github.com/VFPX/VFP9SP2Hotfix3",
     "description": "Official download of Microsoft's VFP 9 SP2 Hotfix 3 file (KB 968409)",
     "state": "Production release"
   },
