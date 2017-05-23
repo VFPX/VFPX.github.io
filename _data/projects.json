@@ -115,7 +115,7 @@
   },
   {
     "project": "FoxUnit",
-    "url": "https://github.com/FoxUnit",
+    "url": "https://github.com/VFPX/FoxUnit",
     "description": "Unit Testing in Visual FoxPro",
     "state": "Production release"
   },
