@@ -181,13 +181,13 @@
   },
   {
     "project": "nfJson",
-    "url": "https://vfpx.codeplex.com/wikipage?title=nfJson",
+    "url": "https://github.com/VFPX/nfJson",
     "description": "Provides a set of fast performance, reliable, and easy to use Json functions using pure VFP.",
     "state": "Production release"
   },
   {
     "project": "nfXML",
-    "url": "https://vfpx.codeplex.com/wikipage?title=nfXML",
+    "url": "https://github.com/VFPX/nfXML",
     "description": "Provides powerful and simple to use functions to convert complex XML into a VFP (empty-based) object and vice versa.",
     "state": "Production release"
   },
@@ -325,7 +325,7 @@
   },
   {
     "project": "VFPRegExTool",
-    "url": "https://vfpx.codeplex.com/wikipage?title=VFPRegExTool",
+    "url": "https://github.com/VFPX/VFPRegExTool",
     "description": "Verify regular expressions visually & do replace operations using any VFP function - based on vbScript.regexp.",
     "state": "Production release"
   },
