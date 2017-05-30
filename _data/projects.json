@@ -235,7 +235,7 @@
   },
   {
     "project": "StripeX",
-    "url": "http://vfpx.codeplex.com/wikipage?title=StripeX",
+    "url": "http://github.com/VFPX/StripeX",
     "description": "Provides a wrapper for working with Stripe.com",
     "state": "Production release"
   },
@@ -463,7 +463,7 @@
   },
   {
     "project": "TwilioX",
-    "url": "https://vfpx.codeplex.com/wikipage?title=TwilioX",
+    "url": "https://github.com/VFPX/TwilioX",
     "description": "Provides a wrapper class for calling Twilio.com to send texts",
     "state": "Alpha release"
   },
