@@ -273,7 +273,7 @@
     "project": "TwilioX",
     "url": "https://github.com/VFPX/TwilioX",
     "description": "Provides a wrapper class for calling Twilio.com to send texts",
-    "state": "Alpha release"
+    "state": "Production release"
   },
   {
     "project": "Upsizing Wizard",
