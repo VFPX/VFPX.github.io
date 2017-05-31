@@ -270,6 +270,12 @@
     "state": "Production release"
   },
   {
+    "project": "TwilioX",
+    "url": "https://github.com/VFPX/TwilioX",
+    "description": "Provides a wrapper class for calling Twilio.com to send texts",
+    "state": "Alpha release"
+  },
+  {
     "project": "Upsizing Wizard",
     "url": "https://github.com/VFPX/UpsizingWizard",
     "description": "An updated version of the Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)",
@@ -459,12 +465,6 @@
     "project": "TabbingNavigation",
     "url": "https://github.com/VFPX/TabbingNavigation",
     "description": "Makes navigating through FoxPro the same experience as SQL Management Studio or Visual Studio",
-    "state": "Alpha release"
-  },
-  {
-    "project": "TwilioX",
-    "url": "https://github.com/VFPX/TwilioX",
-    "description": "Provides a wrapper class for calling Twilio.com to send texts",
     "state": "Alpha release"
   },
   {
