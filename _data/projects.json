@@ -37,7 +37,7 @@
   },
   {
     "project": "Control Renamer Builder",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Control%20Renamer%20Builder",
+    "url": "https://github.com/VFPX/ControlRenamerBuilder",
     "description": "Builder designed to rename controls and reference to controls in the method codes",
     "state": "Production release"
   },
