@@ -397,8 +397,8 @@
   },
   {
     "project": "Dynamic Forms",
-    "url": "https://vfpx.codeplex.com/wikipage?title=Dynamic%20Forms",
-    "description": "Dynamically create forms from markup syntax. (Beta)",
+    "url": "https://github.com/mattslay/DynamicForms",
+    "description": "Dynamically create forms from markup syntax.",
     "state": "Beta release"
   },
   {
