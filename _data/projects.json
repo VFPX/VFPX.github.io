@@ -391,7 +391,7 @@
   },
   {
     "project": "DataExplorer 3",
-    "url": "https://github.com/VFPX/DataExplorer",
+    "url": "https://github.com/rschummer/DataExplorer",
     "description": "Enhancements past the Sedna release.",
     "state": "Release candidate"
   },
