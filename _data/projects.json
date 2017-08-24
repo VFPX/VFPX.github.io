@@ -127,7 +127,7 @@
   },
   {
     "project": "GDIPlusX",
-    "url": "https://vfpx.codeplex.com/wikipage?title=GDIPlusX",
+    "url": "https://github.com/VFPX/GDIPlusX",
     "description": "VFP 9.0 class libraries that wrap the 603 GDI+ Flat API functions of GDIPlus.dll",
     "state": "Production release"
   },
@@ -391,7 +391,7 @@
   },
   {
     "project": "DataExplorer 3",
-    "url": "https://vfpx.codeplex.com/wikipage?title=DataExplorer%203",
+    "url": "https://github.com/VFPX/DataExplorer",
     "description": "Enhancements past the Sedna release.",
     "state": "Release candidate"
   },
