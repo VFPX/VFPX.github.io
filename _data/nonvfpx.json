@@ -50,14 +50,4 @@
    "url": "https://github.com/mikepotjer/vfp-git-utils",
    "description": "Git utilities for VFP, designed to work within the Thor repository (Mike Potjer)"
  },
- {
-   "project": "VFPOAuth",
-   "url": "http://vfpoauth.codeplex.com",
-   "description": "Performs OAuth authentication based on the OAuth 1.0a protocol."
- },
- {
-   "project": "VFPTweetAPI",
-   "url": "http://vfptweetapi.codeplex.com",
-   "description": "A wrapper around the Twitter API with the purpose of accessing Twitter from Visual FoxPro."
- }
-]
+ ]

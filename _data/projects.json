@@ -468,6 +468,18 @@
     "state": "Alpha release"
   },
   {
+    "project": "VFPOAuth",
+    "url": "http://github.com/VFPX/VFPOAuth",
+    "description": "Performs OAuth authentication based on the OAuth 1.0a protocol."
+    "state": "Alpha release"
+  },
+  {
+    "project": "VFPTweetAPI",
+    "url": "http://github.com/VFPX/VFPTweetAPI",
+    "description": "A wrapper around the Twitter API with the purpose of accessing Twitter from Visual FoxPro."
+    "state": "Alpha release"
+  },
+  {
     "project": "VFP Grid ManyHeader",
     "url": "https://github.com/VFPX/VFPGridManyHeader",
     "description": "Custom container to replace and extend VFP's header functionality",
