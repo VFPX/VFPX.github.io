@@ -1,15 +1,5 @@
 [
  {
-   "project": "ActiveVFP",
-   "url": "http://activevfp.codeplex.com",
-   "description": "A framework for creating web applications with VFP."
- },
- {
-   "project": "FGL - Fox Graphics Library",
-   "url": "https://fgl.codeplex.com/",
-   "description": "FGL is high performance 3D graphics application framework based on OpenGL, SOIL (Simple OpenGL Image Library), Assimp, Freetype and OpenMesh",
- },
- {
    "project": "Fox Pages Server",
    "url": "http://foxpages.codeplex.com",
    "description": "Fox Server Pages is a Visual Foxpro multithreaded webserver"
