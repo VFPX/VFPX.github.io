@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "All Projects Have Been Migrated"
+title:  "New VFPX Project: Project Explorer"
 date:   2017-10-03 09:00:00 -0500
 categories: vfpx update
 ---
