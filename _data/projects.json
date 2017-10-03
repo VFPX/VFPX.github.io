@@ -414,6 +414,12 @@
     "state": "Beta release"
   },
   {
+    "project": "Project Explorer",
+    "url": "https://github.com/DougHennig/ProjectExplorer",
+    "description": "A replacement for the VFP Project Manager.",
+    "state": "Beta release"
+  },
+  {
     "project": "SubFox",
     "url": "https://github.com/VFPX/SubFox",
     "description": "Seamless integration for Subversion source code control",
