@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /thorupdate/
+---
+
+## Supporting Thor Updater
+
+These steps allow you to include your project in the Thor Updater dialog so users can easily install your project and update to the latest version without having to clone your project's repository. 
+
 1. Create a subdirectory of your project folder named ThorUpdater.
 
 2. Copy CreateThorUpdate.ps1, Project.txt, and Version.txt into ThorUpdater.
