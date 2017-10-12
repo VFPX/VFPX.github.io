@@ -9,7 +9,7 @@ These steps allow you to include your project in the Thor Updater dialog so user
 
 1. Create a subdirectory of your project folder named ThorUpdater.
 
-2. Download [ThorUpdater.zip](ThorUpdater\ThorUpdater.zip) and unzip it in the ThorUpdater folder. This zip file contains CreateThorUpdate.ps1, Project.txt, and Version.txt.
+2. Download [ThorUpdater.zip](https://vfpx.github.io/ThorUpdater/ThorUpdater.zip) and unzip it in the ThorUpdater folder. This zip file contains CreateThorUpdate.ps1, Project.txt, and Version.txt.
 
 3. Edit Project.txt to specify your project information:
 
