@@ -9,12 +9,12 @@ local lcAppName, ;
 
 * Set the project settings; edit these for your specific project.
 
-lcAppName       = 'Project Explorer'
+lcAppName       = 'My Project'
 	&& the name of the project
-lcAppID         = 'ProjectExplorer'
+lcAppID         = 'MyProject'
 	&& similar to lcAppName but must be URL-friendly (no spaces or other
 	&& illegal URL characters)
-lcRepositoryURL = 'https://github.com/DougHennig/ProjectExplorer'
+lcRepositoryURL = 'https://github.com/VFPX/MyProject'
 	&& the URL for the project's repository
 
 * If the version file and zip file are in the ThorUpdater folder of the
@@ -60,10 +60,10 @@ return toUpdateObject
 procedure GetNotes
 local lcNotes
 text to lcNotes noshow
-Project Explorer
+My Project
 
-Project Manager: Doug Hennig
+Project Manager: My Name
 
-Project Explorer is a VFPX project that replaces the Project Manager with a modern interface and modern capabilities. It has most of the features of the Project Manager but adds integration with DVCS (including built-in support for FoxBin2PRG and optional auto-commit after changes), support for multiple projects within a "solution," allows you to organize your items by keyword or other criteria, and has support for easy "auto-registering" addins that can customize the appearance and behavior of the tool.
+This is a VFPX project that does ...
 endtext
 return lcNotes
