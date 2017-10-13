@@ -264,6 +264,12 @@
     "state": "Production release"
   },
   {
+    "project": "Thor Repository",
+    "url": "https://github.com/VFPX/ThorRepository",
+    "description": "A collection of IDE tools, accessible thru Thor, that have been written by members of the FoxPro community.",
+    "state": "Production release"
+  },
+  {
     "project": "Toolbox",
     "url": "https://github.com/VFPX/Toolbox",
     "description": "Displays items used in the creation of applications (XSource)",
