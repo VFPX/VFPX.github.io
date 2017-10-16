@@ -210,6 +210,12 @@
     "state": "Production release"
   },
   {
+    "project": "PEM Editor",
+    "url": "https://github.com/VFPX/PEMEditor",
+    "description": "Replacement for the native dialogs to add, edit and maintain properties, events, and methods",
+    "state": "Production release"
+  },
+  {
     "project": "ProjectHookX",
     "url": "https://github.com/VFPX/ProjectHookX",
     "description": "Extendible projecthook class",
