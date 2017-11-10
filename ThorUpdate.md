@@ -69,7 +69,7 @@ These steps/notes allow you to include your project in the Thor Updater dialog s
 
 9. In order for Thor to know about your project, you have to create a Thor updater program named Thor_Update_*appID*.prg. Thor_Update_Template.prg is a template you can use for such a program; see the comments about what to edit to make it specific for your project.
 
-10. After creating this program, zip it and email it to the VFPX project managers (projects@vfpx.org). They'll add it to the Thor repository so Thor knows about your project. You only have to do this one time.
+10. After creating this program, zip it and email it to the VFPX project managers (projects@vfpx.org). They'll add it to the Thor repository so Thor knows about your project (note to admins: download /dl/thorupdate/Updater_PRGs/updates.zip, add the PRG to the zip, and re-upload the file). You only have to do this one time.
 
 11. Now that Thor knows about your project, the next time a user chooses Check for Updates from the Thor menu in VFP, Thor will download *appID*Version.txt from your repository, see that the project is available to be installed or a new version is ready for download, and display it to the user in the update dialog. If the user chooses to install the project or the update, Thor downloads *appID*.zip from your repository and unzips it in the project folder (the Thor\Tools\Components\*appName* subdirectory of the main Thor folder) and creates *appID*VersionFile.txt in that folder so it know what version the user has so they aren't prompted about an update until the next release.
 
