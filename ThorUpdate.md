@@ -25,7 +25,13 @@ These steps/notes allow you to include your project in the Thor Updater dialog s
 
     Note: CreateThorUpdate.ps1 doesn't look for "appName =", "appID =", etc.; it just picks up the content after the "=" and expects that line 1 contains the display name, line 2 contains the application ID, and so on.
 
-4. CreateThorUpdate.ps1 generates a Thor version file named *appID*Version.txt in the ThorUpdater folder, where *appID* is the appID value specified in Project.txt. CreateThorUpdate.ps1 uses Version.txt as a template when generating this file. Thor version files contain code that specify the version number for the current release. Version.txt uses MajorVersion.JulianDate for the version number of a project, where MajorVersion is the majorVersion value specified in Project.txt and JulianDate is the current day number starting from January 1, 2001. For example, for a new version released on October 12, 2017, the JulianDate value is 6494. The nice thing about using JulianDate is that you can work backwards from the value to get the release date if necessary. Version.txt is generic; it uses APPNAME as a placeholder for the project name and MAJORVERSION as a placeholder for the major version number in the AvailableVersion property of the update object that Thor passes into the code. For example, if Project.txt contains this:
+4. CreateThorUpdate.ps1 uses a library in the PowerShell Community Extensions (PSCX) to zip up files, so install PSCX; see [https://github.com/Pscx/Pscx](https://github.com/Pscx/Pscx) for download and instructions.
+
+5. Because it was downloaded, CreateThorUpdate.ps1 is blocked by default. Right-click it, choose Properties, turn on Unblock, and click OK.
+
+    ![](images\unblock.png)
+
+5. CreateThorUpdate.ps1 generates a Thor version file named *appID*Version.txt in the ThorUpdater folder, where *appID* is the appID value specified in Project.txt. CreateThorUpdate.ps1 uses Version.txt as a template when generating this file. Thor version files contain code that specify the version number for the current release. Version.txt uses MajorVersion.JulianDate for the version number of a project, where MajorVersion is the majorVersion value specified in Project.txt and JulianDate is the current day number starting from January 1, 2001. For example, for a new version released on October 12, 2017, the JulianDate value is 6494. The nice thing about using JulianDate is that you can work backwards from the value to get the release date if necessary. Version.txt is generic; it uses APPNAME as a placeholder for the project name and MAJORVERSION as a placeholder for the major version number in the AvailableVersion property of the update object that Thor passes into the code. For example, if Project.txt contains this:
 
     ```
     appName = Project Explorer  
@@ -51,8 +57,6 @@ These steps/notes allow you to include your project in the Thor Updater dialog s
     The format of AvailableVersion in Version.txt -- the project name, a dash, the version number, a dash, some text (Thor doesn't appear to use it), a dash, and the release date formatted as YYYYMMDD -- is required by Thor.
     
     If you want to use a different version numbering system, feel free to edit Version.txt to use whatever mechanism you want to assign a value to AvailableVersion. Remember that this code executes on the user's system, not yours, so you'll need to hard-code the value.
-
-5. CreateThorUpdate.ps1 uses a library in the PowerShell Community Extensions (PSCX) to zip up files, so install PSCX; see [https://github.com/Pscx/Pscx](https://github.com/Pscx/Pscx) for download and instructions.
 
 6. CreateThorUpdate.ps1 creates a zip file named *appID*.zip in the ThorUpdater folder, where *appID* is the appID value specified in Project.txt. This zip file contains all files in all subdirectories of the project folder with the exception of any files specified in the excludeFiles setting and any folders specified in the excludeFolders setting of Project.txt. You'll likely want the following in Project.txt as a minimum:
 
