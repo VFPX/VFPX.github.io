@@ -8,7 +8,7 @@ The code, classes, and libraries made available here are the result of a communi
 
 ### Get Involved
 
-VFPX is a volunteer effort in need of project managers, designers, developers, documentation specialists, testers, sales people, marketing, and visionaries. Determine how you can help and get involved. Plainly put, this is a significant part of the future of Visual FoxPro. You can decide if you are going to sit by and watch, or get involved. The more people who participate in this effort, the less each of us has to work to make it a success. Help [get the word out](/promote/index.html)!  
+VFPX is a volunteer effort in need of project managers, designers, developers, documentation specialists, testers, sales people, marketing, and visionaries. Determine how you can help and get involved. Plainly put, this is a significant part of the future of Visual FoxPro. You can decide if you are going to sit by and watch, or get involved. The more people who participate in this effort, the less each of us has to work to make it a success. Help get the word out!  
 
 If you want to get involved on one or more of the many projects included in VFPX, contact the project manager and let them know you are interested in helping out. The project manager knows resources required and roles needed on the project. You work with the project manager to determine the role you will play.
 
