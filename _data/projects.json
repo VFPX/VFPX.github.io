@@ -24,6 +24,12 @@
     "state": "Production release"
   },
   {
+    "project": "CalendarCalc",
+    "url": "https://bitbucket.org/atlopes/calendar",
+    "description": "Provides a set of classes to perform specific calendrical processing tasks, help with internationalization, and build multicultural solutions",
+    "state": "Production release"
+  },
+  {
     "project": "ClassBrowser",
     "url": "https://github.com/VFPX/ClassBrowser",
     "description": "View, use, and manage classes and their user-defined members (XSource)",
@@ -51,6 +57,12 @@
     "project": "CoverageProfiler",
     "url": "https://github.com/VFPX/CoverageProfiler",
     "description": "Provides analysis of coverage logs (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "CSVProcessor",
+    "url": "https://bitbucket.org/atlopes/csv",
+    "description": "Extends VFP capabilities of CSV file handling",
     "state": "Production release"
   },
   {
@@ -165,6 +177,12 @@
     "project": "My for VFP",
     "url": "https://github.com/VFPX/My",
     "description": "Exposes commonly used functionality in a hierarchy that is easy to discover and navigate (Sedna)",
+    "state": "Production release"
+  },
+  {
+    "project": "Name Syntax Checker",
+    "url": "https://bitbucket.org/atlopes/names",
+    "description": "Verifies the correctness and controls the translation of a string into a syntactically correct name of a particular domain (the name of VFP variables or fields, the name of XML elements, etc.)",
     "state": "Production release"
   },
   {
@@ -369,6 +387,12 @@
     "project": "XLSXWorkbook",
     "url": "https://github.com/ggreen86/XLXS-Workbook-Class",
     "description": "Read from and write to XLSX format files without any automation or export with support for full cell formatting",
+    "state": "Production release"
+  },
+  {
+    "project": "XML Library Set",
+    "url": "https://bitbucket.org/atlopes/xml",
+    "description": "Extends the VFP XML processing capabilities",
     "state": "Production release"
   },
   {
