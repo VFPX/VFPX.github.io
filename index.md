@@ -6,6 +6,12 @@ layout: page
 
 The code, classes, and libraries made available here are the result of a community-based effort to support and extend Visual FoxPro. Anyone can join-in, help and propose new VFPX projects for possible inclusion in the effort. VFPX members are fans of FoxPro and they give generously of their time, resources, and ideas to make VFPX possible. A debt of gratitude is owed to everyone that has participated or otherwise contributed to VFPX. Thank you.
 
+### VFPX Discussion Forum
+
+For issues about specific projects, create an issue in that project's repository.
+
+For issues about VFPX itself, create an issue in the [VFPX Issues](https://github.com/VFPX/VFPXIssues) repository.
+
 ### Get Involved
 
 VFPX is a volunteer effort in need of project managers, designers, developers, documentation specialists, testers, sales people, marketing, and visionaries. Determine how you can help and get involved. Plainly put, this is a significant part of the future of Visual FoxPro. You can decide if you are going to sit by and watch, or get involved. The more people who participate in this effort, the less each of us has to work to make it a success. Help get the word out!  
