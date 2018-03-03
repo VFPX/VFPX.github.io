@@ -1,5 +1,10 @@
 [
  {
+   "project": "Fox Pages Server",
+   "url": "https://github.com/arquimedescrivelari/foxpages",
+   "description": "Fox Server Pages is a Visual Foxpro multithreaded webserver"
+ },
+ {
    "project": "LINQ to VFP",
    "url": "https://github.com/tombrothers/LINQtoVFP",
    "description": "An IQToolkit Provider that adds the ability to use Visual FoxPro Data as a LINQ data source."
