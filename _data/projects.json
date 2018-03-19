@@ -84,6 +84,12 @@
     "state": "Production release"
   },
   {
+    "project": "FastXTab",
+    "url": "https://github.com/VFPX/FastXTab",
+    "description": "A replacement for VFPXTab.prg that creates cross-tab tables and cursors",
+    "state": "Production release"
+  },
+  {
     "project": "FFC",
     "url": "https://github.com/VFPX/FFC",
     "description": "Microsoft Visual FoxPro 9.0 Foundation Classes",
