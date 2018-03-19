@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "New FastXTab Project"
-date:   2018-03-19 12:00:00 -0500
+title:  "New Projects"
+date:   2018-03-19 12:15:00 -0500
 categories: vfpx update
 ---
 
 The new [FastXTab project](https://github.com/VFPX/FastXTab) by Vilhelm-Ion Praisach is a replacement for VFPXTab.prg that creates cross-tab tables and cursors.
+
+The new [Win32API project](https://github.com/VFPX/Win32API) provides documentation for calling hundreds of Win32API functions from VFP.

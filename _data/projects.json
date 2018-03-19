@@ -384,6 +384,12 @@
     "state": "Production release"
   },
   {
+    "project": "Win32API",
+    "url": "https://github.com/VFPX/Win32API",
+    "description": "Provides documentation for calling hundreds of Win32API functions from VFP",
+    "state": "Production release"
+  },
+  {
     "project": "Wizards",
     "url": "https://github.com/VFPX/Wizards",
     "description": "A collection of Wizard applications and productivity enhancement tools (XSource)",
