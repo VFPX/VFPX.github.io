@@ -246,6 +246,12 @@
     "state": "Production release"
   },
   {
+    "project": "Project Explorer",
+    "url": "https://github.com/DougHennig/ProjectExplorer",
+    "description": "A replacement for the VFP Project Manager.",
+    "state": "Production release"
+  },
+  {
     "project": "ReportingApps",
     "url": "https://github.com/VFPX/ReportingApps",
     "description": "The default implementation of Visual FoxPro 9's Report Applications (XSource)",
@@ -459,12 +465,6 @@
     "project": "FoxcodePlus",
     "url": "https://github.com/VFPX/FoxcodePlus",
     "description": "Visual Studio like extensions to Visual FoxPro IntelliSense.",
-    "state": "Beta release"
-  },
-  {
-    "project": "Project Explorer",
-    "url": "https://github.com/DougHennig/ProjectExplorer",
-    "description": "A replacement for the VFP Project Manager.",
     "state": "Beta release"
   },
   {
