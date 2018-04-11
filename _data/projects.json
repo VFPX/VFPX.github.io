@@ -162,6 +162,12 @@
     "state": "Production release"
   },
   {
+    "project": "iCal4VFP",
+    "url": "https://bitbucket.org/atlopes/ical4vfp",
+    "description": "A set of classes to handle iCalendar objects",
+    "state": "Production release"
+  },
+  {
     "project": "IntellisenseManager",
     "url": "https://github.com/VFPX/IntellisenseManager",
     "description": "Perform IntelliSense management tasks (XSource)",

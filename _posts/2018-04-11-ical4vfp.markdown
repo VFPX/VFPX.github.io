@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New iCal4VFP Project"
+date:   2018-04-11 1:59:00 -0500
+categories: vfpx update
+---
+
+The new [iCal4VFP](https://bitbucket.org/atlopes/ical4vfp) project is a set of classes to handle iCalendar objects. It includes a Recurrence Rule processor, which enables VFP applications to natively participate in the processing of events streams, or to address timezoned datetimes, for instance. Serializers and parsers are included to produce and consume iCalendar files and objects.
