@@ -84,6 +84,12 @@
     "state": "Production release"
   },
   {
+    "project": "Dynamic Forms",
+    "url": "https://github.com/mattslay/DynamicForms",
+    "description": "Dynamically create forms from markup syntax.",
+    "state": "Production release"
+  },
+  {
     "project": "FastXTab",
     "url": "https://github.com/VFPX/FastXTab",
     "description": "A replacement for VFPXTab.prg that creates cross-tab tables and cursors",
@@ -454,12 +460,6 @@
     "url": "https://github.com/rschummer/DataExplorer",
     "description": "Enhancements past the Sedna release.",
     "state": "Release candidate"
-  },
-  {
-    "project": "Dynamic Forms",
-    "url": "https://github.com/mattslay/DynamicForms",
-    "description": "Dynamically create forms from markup syntax.",
-    "state": "Beta release"
   },
   {
     "project": "ExcelXML",
