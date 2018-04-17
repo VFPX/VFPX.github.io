@@ -36,6 +36,12 @@
     "state": "Production release"
   },
   {
+    "project": "Code Analyst",
+    "url": "https://github.com/VFPX/CodeAnalyst",
+    "description": "Tool to help your recognize refactoring opportunities by spotting bad smells you select",
+    "state": "Production release"
+  },
+  {
     "project": "CodeReferences",
     "url": "https://github.com/VFPX/CodeReferences",
     "description": "Search for occurrences of code (XSource)",
@@ -447,12 +453,6 @@
     "project": "ctl32_statusbar",
     "url": "https://github.com/VFPX/ctl32_StatusBar",
     "description": "Replacement for VFP _screen Status Bar, or can be used on a form",
-    "state": "Release candidate"
-  },
-  {
-    "project": "Code Analyst",
-    "url": "https://github.com/VFPX/CodeAnalyst",
-    "description": "Tool to help your recognize refactoring opportunities by spotting bad smells you select",
     "state": "Release candidate"
   },
   {
