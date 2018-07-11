@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New FoxTypes Project"
+date:   2018-07-11 9:30:00 -0500
+categories: vfpx update
+---
+
+The new [FoxTypes](https://github.com/eselje/FoxTypes) project is a set of classes that emulate static classes from Microsoft .NET which combine standalone functions in VFP into methods and properties of just a few individual classes, including handling string, DateTime, and array functions.

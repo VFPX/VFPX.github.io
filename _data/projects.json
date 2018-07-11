@@ -474,6 +474,12 @@
     "state": "Beta release"
   },
   {
+    "project": "FoxTypes",
+    "url": "https://github.com/eselje/FoxTypes",
+    "description": "Recreating C# static types in Visual FoxPro Code classes.",
+    "state": "Beta release"
+  },
+  {
     "project": "SubFox",
     "url": "https://github.com/VFPX/SubFox",
     "description": "Seamless integration for Subversion source code control",
