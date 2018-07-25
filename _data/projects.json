@@ -72,6 +72,12 @@
     "state": "Production release"
   },
   {
+    "project": "Cursor and Connector Properties Viewer",
+    "url": "https://github.com/VFPX/CCPropsViewer",
+    "description": "Library for displaying and setting cursor and connection properties",
+    "state": "Production release"
+  },
+  {
     "project": "EnvironmentManager",
     "url": "https://github.com/VFPX/EnvironmentManager",
     "description": "Manage and organize environment settings for reusable development needs (XSource)",
