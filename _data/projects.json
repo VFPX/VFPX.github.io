@@ -78,6 +78,12 @@
     "state": "Production release"
   },
   {
+    "project": "DBC Low Level Functions",
+    "url": "https://github.com/VFPX/DBCLowLevelFunctions",
+    "description": "A library for reading and writing values of all properties and objects without opening a database with OPEN DATABASE",
+    "state": "Production release"
+  },
+  {
     "project": "EnvironmentManager",
     "url": "https://github.com/VFPX/EnvironmentManager",
     "description": "Manage and organize environment settings for reusable development needs (XSource)",
@@ -195,6 +201,12 @@
     "project": "IntellisenseX",
     "url": "https://github.com/VFPX/IntelliSenseX",
     "description": "Extensions to native Intellisense for field names, properties, local variables, and constants.",
+    "state": "Production release"
+  },
+  {
+    "project": "Log4VFP",
+    "url": "https://github.com/VFPX/Log4VFP",
+    "description": "Provides a VFP wrapper for the Log4NET diagnostic logging library",
     "state": "Production release"
   },
   {
