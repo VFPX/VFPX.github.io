@@ -29,4 +29,9 @@
    "url": "https://github.com/mikepotjer/vfp-git-utils",
    "description": "Git utilities for VFP, designed to work within the Thor repository (Mike Potjer)"
  },
- ]
+  {
+   "project": "WMIQuery",
+   "url": "https://github.com/nftools/wmiquery",
+   "description": "Query any Windows WMI Class using just a line of code"
+ }
+]
