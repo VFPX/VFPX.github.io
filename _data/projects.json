@@ -25,7 +25,7 @@
   },
   {
     "project": "CalendarCalc",
-    "url": "https://bitbucket.org/atlopes/calendar",
+    "url": "https://github.com/atlopes/calendar",
     "description": "Provides a set of classes to perform specific calendrical processing tasks, help with internationalization, and build multicultural solutions",
     "state": "Production release"
   },
@@ -67,7 +67,7 @@
   },
   {
     "project": "CSVProcessor",
-    "url": "https://bitbucket.org/atlopes/csv",
+    "url": "https://github.com/atlopes/csv",
     "description": "Extends VFP capabilities of CSV file handling",
     "state": "Production release"
   },
@@ -187,7 +187,7 @@
   },
   {
     "project": "iCal4VFP",
-    "url": "https://bitbucket.org/atlopes/ical4vfp",
+    "url": "https://github.com/atlopes/iCal4VFP",
     "description": "A set of classes to handle iCalendar objects",
     "state": "Production release"
   },
@@ -223,7 +223,7 @@
   },
   {
     "project": "Name Syntax Checker",
-    "url": "https://bitbucket.org/atlopes/names",
+    "url": "https://github.com/atlopes/names",
     "description": "Verifies the correctness and controls the translation of a string into a syntactically correct name of a particular domain (the name of VFP variables or fields, the name of XML elements, etc.)",
     "state": "Production release"
   },
@@ -445,7 +445,7 @@
   },
   {
     "project": "XML Library Set",
-    "url": "https://bitbucket.org/atlopes/xml",
+    "url": "https://github.com/atlopes/xml",
     "description": "Extends the VFP XML processing capabilities",
     "state": "Production release"
   },
