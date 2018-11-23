@@ -1,5 +1,10 @@
 [
  {
+   "project": "Editor Themes",
+   "url": "https://github.com/nftools/EditorThemes",
+   "description": "Modern themes for the Visual FoxPro 9 Editor"
+ },
+ {
    "project": "Fox Pages Server",
    "url": "https://github.com/arquimedescrivelari/foxpages",
    "description": "Fox Server Pages is a Visual Foxpro multithreaded webserver"
