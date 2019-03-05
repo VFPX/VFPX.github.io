@@ -12,6 +12,18 @@
     "state": "Production release"
   },
   {
+    "project": "Analyzer",
+    "url": "https://github.com/VFPX/Analyzer",
+    "description": "Provides a way to dynamically trace the structure and symbols in Visual FoxPro application files (VFP Tools folder)",
+    "state": "Production release"
+  },
+  {
+    "project": "Automated Test Harness",
+    "url": "https://github.com/VFPX/AATest",
+    "description": "Provides automated testing (VFP Tools folder)",
+    "state": "Production release"
+  },
+  {
     "project": "Beautify",
     "url": "https://github.com/VFPX/Beautify",
     "description": "Specify capitalization and indentation styles for code (XSource)",
@@ -63,6 +75,12 @@
     "project": "CoverageProfiler",
     "url": "https://github.com/VFPX/CoverageProfiler",
     "description": "Provides analysis of coverage logs (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "CPZero",
+    "url": "https://github.com/VFPX/CPZero",
+    "description": "Pokes a codepage byte into a database header (VFP Tools folder)",
     "state": "Production release"
   },
   {
@@ -120,6 +138,18 @@
     "state": "Production release"
   },
   {
+    "project": "Filer",
+    "url": "https://github.com/VFPX/Filer",
+    "description": "Provides a file and text search engine without a user interface (VFP Tools folder)",
+    "state": "Production release"
+  },
+  {
+    "project": "FileSpec",
+    "url": "https://github.com/VFPX/FileSpec",
+    "description": "The descriptions of the table structures for .dbc, .frx, .lbx, .mnx, .pjx, .scx, and .vcx files (VFP Tools folder)",
+    "state": "Production release"
+  },
+  {
     "project": "Finder",
     "url": "https://github.com/VFPX/Finder",
     "description": "Search tool to find names of files or classes in a project or folder.",
@@ -150,6 +180,18 @@
     "state": "Production release"
   },
   {
+    "project": "FoxISAPI",
+    "url": "https://github.com/VFPX/FoxISAPI",
+    "description": "Allows access to VFP Automation servers from any ISAPI supported Web server (VFP Tools folder)",
+    "state": "Production release"
+  },
+  {
+    "project": "FoxPro.h",
+    "url": "https://github.com/VFPX/FoxProH",
+    "description": "Include file for commonly used constants in VFP (VFP home folder)",
+    "state": "Production release"
+  },
+  {
     "project": "FoxTabs",
     "url": "https://github.com/VFPX/FoxTabs",
     "description": "IDE enhancement assisting developers working with a project and numerous open files",
@@ -174,6 +216,24 @@
     "state": "Production release"
   },
   {
+    "project": "GenDBC",
+    "url": "https://github.com/VFPX/GenDBC",
+    "description": "Generates a program that can recreate a database (VFP Tools folder)",
+    "state": "Production release"
+  },
+  {
+    "project": "GenHTML",
+    "url": "https://github.com/VFPX/GenHTML",
+    "description": "Generates HTML from forms, labels, reports, and menus (VFP home folder)",
+    "state": "Production release"
+  },
+  {
+    "project": "GenMenu",
+    "url": "https://github.com/VFPX/GenMenu",
+    "description": "Generates an MPR file from an MNX menu (VFP home folder)",
+    "state": "Production release"
+  },
+  {
     "project": "GoFish",
     "url": "https://github.com/mattslay/GoFish",
     "description": "GoFish is an advanced code search tool for fast searching of Visual FoxPro source code.",
@@ -183,6 +243,12 @@
     "project": "Gauge",
     "url": "https://github.com/VFPX/Gauge",
     "description": "Draws gauges in VFP applications.",
+    "state": "Production release"
+  },
+  {
+    "project": "HexEdit",
+    "url": "https://github.com/VFPX/HexEdit",
+    "description": "Provides a way to examine address values, or examine or change byte and ASCII values of data in a file (VFP Tools folder)",
     "state": "Production release"
   },
   {
@@ -213,6 +279,12 @@
     "project": "MemberDataEditor",
     "url": "https://github.com/VFPX/MemberDataEditor",
     "description": "An easy to use front-end to manage MemberData (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "Microsoft Accessibility Browser (MSAA)",
+    "url": "https://github.com/VFPX/MSAA",
+    "description": "Helps develop applications that are more accessible to people with disabilities, write automated test suites, or select and buy off-the-shelf test software (VFP Tools folder)",
     "state": "Production release"
   },
   {
@@ -291,6 +363,12 @@
     "project": "ReportingApps",
     "url": "https://github.com/VFPX/ReportingApps",
     "description": "The default implementation of Visual FoxPro 9's Report Applications (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "SCCText",
+    "url": "https://github.com/VFPX/SCCText",
+    "description": "Translates Visual FoxPro binary files into text equivalents and back (VFP Tools folder)",
     "state": "Production release"
   },
   {
@@ -411,6 +489,12 @@
     "project": "VFPRegExTool",
     "url": "https://github.com/VFPX/VFPRegExTool",
     "description": "Verify regular expressions visually & do replace operations using any VFP function - based on vbScript.regexp.",
+    "state": "Production release"
+  },
+  {
+    "project": "VFPXTab",
+    "url": "https://github.com/VFPX/VFPXTab",
+    "description": "Generates a cross-tabulation cursor (VFP Tools folder)",
     "state": "Production release"
   },
   {
