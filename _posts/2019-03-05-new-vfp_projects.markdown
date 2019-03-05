@@ -33,6 +33,8 @@ The new projects are:
 
 * [Microsoft Accessibility Browser (MSAA)](https://github.com/VFPX/MSAA): Helps develop applications that are more accessible to people with disabilities, write automated test suites, or select and buy off-the-shelf test software
 
+* [Samples](https://github.com/VFPX/Samples): VFP samples
+
 * [SCCText](https://github.com/VFPX/SCCText): Translates Visual FoxPro binary files into text equivalents and back
 
 * [VFPXTab](https://github.com/VFPX/VFPXTab): Generates a cross-tabulation cursor

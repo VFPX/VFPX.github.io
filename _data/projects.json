@@ -366,6 +366,12 @@
     "state": "Production release"
   },
   {
+    "project": "Samples",
+    "url": "https://github.com/VFPX/Samples",
+    "description": "VFP samples (VFP Samples folder)",
+    "state": "Production release"
+  },
+  {
     "project": "SCCText",
     "url": "https://github.com/VFPX/SCCText",
     "description": "Translates Visual FoxPro binary files into text equivalents and back (VFP Tools folder)",
