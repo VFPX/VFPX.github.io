@@ -186,6 +186,12 @@
     "state": "Production release"
   },
   {
+    "project": "FoxMock",
+    "url": "https://github.com/cwollenhaupt/foxmock",
+    "description": "Mocking framework for Microsoft Visual FoxPro",
+    "state": "Production release"
+  },
+  {
     "project": "FoxPro.h",
     "url": "https://github.com/VFPX/FoxProH",
     "description": "Include file for commonly used constants in VFP (VFP home folder)",
