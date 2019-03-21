@@ -450,6 +450,12 @@
     "state": "Production release"
   },
   {
+    "project": "UTCDatetime",
+    "url": "https://github.com/atlopes/UTCDatetime",
+    "description": "Provides an object to process UTC and local time exchange in Visual FoxPro, for all current time zones around the world.",
+    "state": "Production release"
+  },
+  {
     "project": "VFPClean",
     "url": "https://github.com/VFPX/VFPClean",
     "description": "When reinstalling VFP, make sure all core Xbase and other files are set appropriately (XSource)",
