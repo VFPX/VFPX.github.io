@@ -58,6 +58,6 @@ permalink: /admin/
 
 - After the header, put in any content you wish.
 
-- After editing the file, open it in Notepad++ and choose Convert to UTF-8 Without BOM from the Encoding menu; without this, the page won't appear correctly on GitHub.
+- After editing the file, open it in Notepad++ and choose Convert to UTF-8 (Convert to UTF-8 Without BOM in older versions of Notepad++) from the Encoding menu; without this, the page won't appear correctly on GitHub.
 
 - Add the file to the repository, commit, and push.
