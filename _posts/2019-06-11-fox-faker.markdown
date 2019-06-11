@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "UTCDatetime"
+date:   2019-06-11 15:00:00 -0500
+categories: vfpx update
+---
+
+The new [FoxFaker](https://github.com/Irwin1985/FoxFaker) project is a Visual FoxPro Class library that generates fake data for you. FoxFaker was written with the purpose to be used with FoxUnit and FoxMock libraries.

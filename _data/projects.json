@@ -180,6 +180,12 @@
     "state": "Production release"
   },
   {
+    "project": "FoxFaker",
+    "url": "https://github.com/Irwin1985/FoxFaker",
+    "description": "Generates fake data for testing",
+    "state": "Production release"
+  },
+  {
     "project": "FoxISAPI",
     "url": "https://github.com/VFPX/FoxISAPI",
     "description": "Allows access to VFP Automation servers from any ISAPI supported Web server (VFP Tools folder)",
