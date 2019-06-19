@@ -630,6 +630,12 @@
     "state": "Alpha release"
   },
   {
+    "project": "fxReports",
+    "url": "https://github.com/VFPX/fxReports",
+    "description": "Community sharing of custom report features",
+    "state": "Alpha release"
+  },
+  {
     "project": "JustBehave",
     "url": "https://github.com/VFPX/JustBehave",
     "description": "Extend the behavior of any VFP baseclass or custom framework class without additional code",
