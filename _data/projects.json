@@ -654,6 +654,12 @@
     "state": "Alpha release"
   },
   {
+    "project": "overHere",
+    "url": "https://github.com/atlopes/overHere",
+    "description": "An SDK that wraps access to the resources of the Here.com location platform to easily integrate mapping and geolocation services and data into VFP applications",
+    "state": "Alpha release"
+  },
+  {
     "project": "PopMenu Project",
     "url": "https://github.com/VFPX/PopMenu",
     "description": "Owner-drawn object-oriented shortcut menus",
