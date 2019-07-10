@@ -343,13 +343,13 @@
   },
   {
     "project": "OOP Menu Project",
-    "url": "https://github.com/VFPXHome/OOPMenu",
+    "url": "https://github.com/VFPX/OOPMenu",
     "description": "Object-oriented menus",
     "state": "Production release"
   },
   {
     "project": "OOP Reports",
-    "url": "https://github.com/VFPXHome/OOPReport",
+    "url": "https://github.com/VFPX/OOPReports",
     "description": "Object-oriented reports",
     "state": "Production release"
   },
