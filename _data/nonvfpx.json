@@ -1,5 +1,15 @@
 [
  {
+   "project": "DBF to Any Export",
+   "url": "https://github.com/MJindrova/DBF2Any",
+   "description": "Export DBF to MSSQL, MDB, Oracle, MySQL and MSSQL CE"
+ },
+ {
+   "project": "DT Class",
+   "url": "https://github.com/MJindrova/dtclass",
+   "description": "Classes for working with date or datetime"
+ },
+ {
    "project": "Editor Themes",
    "url": "https://github.com/nftools/EditorThemes",
    "description": "Modern themes for the Visual FoxPro 9 Editor"
@@ -15,9 +25,29 @@
    "description": "Export your VFP reports to Images, RTF, PDF, HTML or XLS super easy! Send them by email! Enhance the look of your previews, and bring a new life to your APPs!"
  },
  {
+   "project": "FoxyXLS Class Fork",
+   "url": "https://github.com/MJindrova/FOXYXLS",
+   "description": "Export table/cursor to XLS version 3"
+ },
+ {
    "project": "LINQ to VFP",
    "url": "https://github.com/tombrothers/LINQtoVFP",
    "description": "An IQToolkit Provider that adds the ability to use Visual FoxPro Data as a LINQ data source."
+ },
+ {
+   "project": "LockScreen Stack",
+   "url": "https://github.com/MJindrova/LockScreenStack",
+   "description": "Class for managing value of LockScreen"
+ },
+ {
+   "project": "Named Parameters",
+   "url": "https://github.com/MJindrova/ParametersName",
+   "description": "The Named parameters utility for processing and checking input EXE/APP parameters."
+ },
+ {
+   "project": "Serializable VFP object to XML",
+   "url": "https://github.com/MJindrova/SerializableObject",
+   "description": "Serializable object to XML"
  },
  {
    "project": "VFP Client for ADO.Net",
