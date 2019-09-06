@@ -45,6 +45,11 @@
    "description": "The Named parameters utility for processing and checking input EXE/APP parameters."
  },
  {
+   "project": "Scrollable container",
+   "url": "https://github.com/MJindrova/ViewPort",
+   "description": "Scrollable container"
+ },
+ {
    "project": "Serializable VFP object to XML",
    "url": "https://github.com/MJindrova/SerializableObject",
    "description": "Serializable object to XML"
@@ -64,7 +69,12 @@
    "url": "https://github.com/mikepotjer/vfp-git-utils",
    "description": "Git utilities for VFP, designed to work within the Thor repository (Mike Potjer)"
  },
-  {
+ {
+   "project": "VFP System Variables",
+   "url": "https://github.com/MJindrova/SystemVariables",
+   "description": "Documentation for VFP System Variables"
+ },
+ {
    "project": "WMIQuery",
    "url": "https://github.com/nftools/wmiquery",
    "description": "Query any Windows WMI Class using just a line of code"
