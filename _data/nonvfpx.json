@@ -29,7 +29,12 @@
    "url": "https://github.com/MJindrova/FOXYXLS",
    "description": "Export table/cursor to XLS version 3"
  },
- {
+  {
+   "project": "INTL",
+   "url": "https://github.com/StevenBlack/intl",
+   "description": "Steven Black's INTL Toolkit for Visual FoxPro makes creating international and multilingual applications easy"
+ },
+{
    "project": "LINQ to VFP",
    "url": "https://github.com/tombrothers/LINQtoVFP",
    "description": "An IQToolkit Provider that adds the ability to use Visual FoxPro Data as a LINQ data source."
