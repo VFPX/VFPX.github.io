@@ -15,6 +15,11 @@
    "description": "Modern themes for the Visual FoxPro 9 Editor"
  },
  {
+   "project": "FoxDates",
+   "url": "https://github.com/RickBorup/FoxDates",
+   "description": "FoxDates is a collection of helpful functions for working with dates and times in Visual FoxPro"
+ },
+ {
    "project": "Fox Pages Server",
    "url": "https://github.com/arquimedescrivelari/foxpages",
    "description": "Fox Server Pages is a Visual Foxpro multithreaded webserver"
