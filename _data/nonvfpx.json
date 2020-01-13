@@ -65,6 +65,11 @@
    "description": "Serializable object to XML"
  },
  {
+   "project": "Stonefield Database Toolkit",
+   "url": "https://github.com/DougHennig/StonefieldDatabaseToolkit",
+   "description": "https://github.com/DougHennig/StonefieldDatabaseToolkit"
+ },
+ {
    "project": "VFP Client for ADO.Net",
    "url": "https://github.com/tombrothers/VfpClient",
    "description": "A wrapper for the .NET System.Data.OleDb classes."
