@@ -67,7 +67,7 @@
  {
    "project": "Stonefield Database Toolkit",
    "url": "https://github.com/DougHennig/StonefieldDatabaseToolkit",
-   "description": "https://github.com/DougHennig/StonefieldDatabaseToolkit"
+   "description": "Provides additional functionality to the Visual FoxPro data dictionary"
  },
  {
    "project": "VFP Client for ADO.Net",
