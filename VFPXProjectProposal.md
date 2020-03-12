@@ -20,6 +20,8 @@ Please note that commercial products, demo versions, or any project that does no
 
 ### Who should members of VFPX contact if interested in working on this project?
 
-### Is there an ongoing discussion regarding this project? If so, please provide the location of the thread.
+### What release type is this project: Production, Release Candidate, Beta, Alpha, or Planning?
 
 ### Is there any additional information that you feel is pertinent to this project?
+
+### What is your GitHub user name?

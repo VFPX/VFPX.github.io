@@ -300,6 +300,12 @@
     "state": "Production release"
   },
   {
+    "project": "Multi-Select Combobox",
+    "url": "https://github.com/VFPX/cboMultiSel",
+    "description": "Provides the ability to select multiple items from a table/cursor rowsource into a single, character-separated (concatenated) value",
+    "state": "Production release"
+  },
+  {
     "project": "My for VFP",
     "url": "https://github.com/VFPX/My",
     "description": "Exposes commonly used functionality in a hierarchy that is easy to discover and navigate (Sedna)",
@@ -447,6 +453,12 @@
     "project": "Toolbox",
     "url": "https://github.com/VFPX/Toolbox",
     "description": "Displays items used in the creation of applications (XSource)",
+    "state": "Production release"
+  },
+  {
+    "project": "Tooltip",
+    "url": "https://github.com/VFPX/CtlTip",
+    "description": "Improved tooltips for FoxPro forms controls, including multi-line",
     "state": "Production release"
   },
   {
