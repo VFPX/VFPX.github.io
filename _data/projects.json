@@ -222,6 +222,12 @@
     "state": "Production release"
   },
   {
+    "project": "Gauge",
+    "url": "https://github.com/VFPX/Gauge",
+    "description": "Draws gauges in VFP applications.",
+    "state": "Production release"
+  },
+  {
     "project": "GDIPlusX",
     "url": "https://github.com/VFPX/GDIPlusX",
     "description": "VFP 9.0 class libraries that wrap the 603 GDI+ Flat API functions of GDIPlus.dll",
@@ -249,12 +255,6 @@
     "project": "GoFish",
     "url": "https://github.com/mattslay/GoFish",
     "description": "GoFish is an advanced code search tool for fast searching of Visual FoxPro source code.",
-    "state": "Production release"
-  },
-  {
-    "project": "Gauge",
-    "url": "https://github.com/VFPX/Gauge",
-    "description": "Draws gauges in VFP applications.",
     "state": "Production release"
   },
   {
