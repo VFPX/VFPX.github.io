@@ -210,6 +210,18 @@
     "state": "Production release"
   },
   {
+    "project": "FoxStack",
+    "url": "https://github.com/Irwin1985/FoxStack",
+    "description": "Stack class which models and implements Stack data structure in Visual FoxPro",
+    "state": "Production release"
+  },
+  {
+    "project": "FoxStringBuilder",
+    "url": "https://github.com/Irwin1985/FoxStringBuilder",
+    "description": "Creates a mutable sequence of characters",
+    "state": "Production release"
+  },
+  {
     "project": "FoxTabs",
     "url": "https://github.com/VFPX/FoxTabs",
     "description": "IDE enhancement assisting developers working with a project and numerous open files",

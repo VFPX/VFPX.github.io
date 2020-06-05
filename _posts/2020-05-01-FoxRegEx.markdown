@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New FoxRegEx Project"
+date:   2020-05-01 10:00:00 -0500
+categories: vfpx update
+---
+
+The new [FoxRegEx](https://github.com/Irwin1985/FoxRegEx) project is a Visual FoxPro Class library that wrappers the RegEx built-in object in VBScript.
