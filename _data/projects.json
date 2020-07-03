@@ -3,777 +3,777 @@
     "project": "AddLabel",
     "url": "https://github.com/VFPX/AddLabel",
     "description": "Add custom label sizes to the New Label dialog in the Label Designer (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Alternate SCCText",
     "url": "https://github.com/VFPX/AlternateSCCText",
     "description": "New and improved version of source code control to text program",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Analyzer",
     "url": "https://github.com/VFPX/Analyzer",
     "description": "Provides a way to dynamically trace the structure and symbols in Visual FoxPro application files (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Automated Build",
     "url": "https://github.com/VFPX/AutomatedBuild",
     "description": "Automate your VFP application builds with extensions to CruiseControl.NET",
-    "state": "Release candidate"
+    "state": "Release candidate",
     "category": "Tool"
   },
   {
     "project": "Automated Test Harness",
     "url": "https://github.com/VFPX/AATest",
     "description": "Provides automated testing (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Beautify",
     "url": "https://github.com/VFPX/Beautify",
     "description": "Specify capitalization and indentation styles for code (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Bin 2 Text Extension",
     "url": "https://github.com/lscheffler/bin2text",
     "description": "Better Visual FoxPro IDE integration with [FoxBin2Prg](https://github.com/fdbozzo/foxbin2prg)",
-    "state": "Release candidate"
+    "state": "Release candidate",
     "category": "Tool"
   },
   {
     "project": "Builders",
     "url": "https://github.com/VFPX/Builders",
     "description": "Tools that aid in setting properties of controls on a form (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "CalendarCalc",
     "url": "https://github.com/atlopes/calendar",
     "description": "Provides a set of classes to perform specific calendrical processing tasks, help with internationalization, and build multicultural solutions",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "ClassBrowser",
     "url": "https://github.com/VFPX/ClassBrowser",
     "description": "View, use, and manage classes and their user-defined members (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "ClassBrowserX",
     "url": "https://github.com/VFPX/ClassBrowserX",
     "description": "Standard VFP ClassBrowser with enhancements to the Export Code feature",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Tool"
   },
   {
     "project": "Code Analyst",
     "url": "https://github.com/VFPX/CodeAnalyst",
     "description": "Tool to help your recognize refactoring opportunities by spotting bad smells you select",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "CodeReferences",
     "url": "https://github.com/VFPX/CodeReferences",
     "description": "Search for occurrences of code (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Control Renamer Builder",
     "url": "https://github.com/VFPX/ControlRenamerBuilder",
     "description": "Builder designed to rename controls and reference to controls in the method codes",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Converter",
     "url": "https://github.com/VFPX/Converter",
     "description": "Converts files created in FoxPro 2.6 and earlier versions of VFP to the current VFP format (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "CoverageProfiler",
     "url": "https://github.com/VFPX/CoverageProfiler",
     "description": "Provides analysis of coverage logs (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "CPZero",
     "url": "https://github.com/VFPX/CPZero",
     "description": "Pokes a codepage byte into a database header (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "CSVProcessor",
     "url": "https://github.com/atlopes/csv",
     "description": "Extends VFP capabilities of CSV file handling",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "ctl32_statusbar",
     "url": "https://github.com/VFPX/ctl32_StatusBar",
     "description": "Replacement for VFP _screen Status Bar, or can be used on a form",
-    "state": "Release candidate"
+    "state": "Release candidate",
     "category": "Component"
   },
   {
     "project": "Cursor and Connector Properties Viewer",
     "url": "https://github.com/VFPX/CCPropsViewer",
     "description": "Library for displaying and setting cursor and connection properties",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "DataExplorer 3",
     "url": "https://github.com/rschummer/DataExplorer",
     "description": "Enhancements past the Sedna release.",
-    "state": "Release candidate"
+    "state": "Release candidate",
     "category": "Tool"
   },
   {
     "project": "DBC Low Level Functions",
     "url": "https://github.com/VFPX/DBCLowLevelFunctions",
     "description": "A library for reading and writing values of all properties and objects without opening a database with OPEN DATABASE",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "DDEX",
     "url": "https://github.com/VFPX/DDEX",
     "description": "Visual FoxPro DDEX (Data Designer EXtension) Provider for Visual Studio 2005 (Sedna)",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "DeskTop Alerts",
     "url": "https://github.com/VFPX/DesktopAlerts",
     "description": "Outlook style alerts are popup windows to message users",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "Dynamic Forms",
     "url": "https://github.com/mattslay/DynamicForms",
     "description": "Dynamically create forms from markup syntax.",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "EnvironmentManager",
     "url": "https://github.com/VFPX/EnvironmentManager",
     "description": "Manage and organize environment settings for reusable development needs (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "ExcelXML",
     "url": "https://github.com/VFPX/ExcelXML",
     "description": "Convert a Table or a Grid control into a Microsoft Excel XML Spreadsheet file.",
-    "state": "Beta"
+    "state": "Beta",
     "category": "Component"
   },
   {
     "project": "FastXTab",
     "url": "https://github.com/VFPX/FastXTab",
     "description": "A replacement for VFPXTab.prg that creates cross-tab tables and cursors",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "FFC",
     "url": "https://github.com/VFPX/FFC",
     "description": "Microsoft Visual FoxPro 9.0 Foundation Classes",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "Filer",
     "url": "https://github.com/VFPX/Filer",
     "description": "Provides a file and text search engine without a user interface (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "FileSpec",
     "url": "https://github.com/VFPX/FileSpec",
     "description": "The descriptions of the table structures for .dbc, .frx, .lbx, .mnx, .pjx, .scx, and .vcx files (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Finder",
     "url": "https://github.com/VFPX/Finder",
     "description": "Search tool to find names of files or classes in a project or folder.",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "FoxBarCode",
     "url": "https://github.com/VFPX/FoxBarCode",
     "description": "FoxBarcode provides a tool for generating images with different bar code symbologies.",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "FoxBarCodeQR",
     "url": "https://github.com/VFPX/FoxBarCodeQR",
     "description": "FoxBarcodeQR is a supplement of FoxBarcode only for QR Code.",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "FoxBin2Prg",
     "url": "https://github.com/fdbozzo/foxbin2prg",
     "description": "VFP 9 Binary to Text and Text to Binary converter. Replacement for SCCText(X) and TwoFox that is bi-directional (Text is editable)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "FoxCharts",
     "url": "https://github.com/VFPX/FoxCharts",
     "description": "ActiveX-free charting leverages GDIPlusX",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "FoxcodePlus",
     "url": "https://github.com/VFPX/FoxcodePlus",
     "description": "Visual Studio like extensions to Visual FoxPro IntelliSense.",
-    "state": "Beta"
+    "state": "Beta",
     "category": "Tool"
   },
   {
     "project": "FoxFaker",
     "url": "https://github.com/Irwin1985/FoxFaker",
     "description": "Generates fake data for testing",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "FoxISAPI",
     "url": "https://github.com/VFPX/FoxISAPI",
     "description": "Allows access to VFP Automation servers from any ISAPI supported Web server (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "FoxMock",
     "url": "https://github.com/cwollenhaupt/foxmock",
     "description": "Mocking framework for Microsoft Visual FoxPro",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "FoxPro.h",
     "url": "https://github.com/VFPX/FoxProH",
     "description": "Include file for commonly used constants in VFP (VFP home folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "FoxRegEx",
     "url": "https://github.com/Irwin1985/FoxRegEx",
     "description": "Performs validations on strings using Regular Expressions supported by VBScript",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "FoxStack",
     "url": "https://github.com/Irwin1985/FoxStack",
     "description": "Stack class which models and implements Stack data structure in Visual FoxPro",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "FoxStringBuilder",
     "url": "https://github.com/Irwin1985/FoxStringBuilder",
     "description": "Creates a mutable sequence of characters",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "FoxTabs",
     "url": "https://github.com/VFPX/FoxTabs",
     "description": "IDE enhancement assisting developers working with a project and numerous open files",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "FoxTypes",
     "url": "https://github.com/eselje/FoxTypes",
     "description": "Recreating C# static types in Visual FoxPro Code classes.",
-    "state": "Beta"
+    "state": "Beta",
     "category": "Component"
   },
   {
     "project": "FoxUnit",
     "url": "https://github.com/VFPX/FoxUnit",
     "description": "Unit Testing in Visual FoxPro",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "FRXTabs",
     "url": "https://github.com/VFPX/FRXTabs",
     "description": "Data-driven mechanism to extend the VFP Report Designer",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "fxReports",
     "url": "https://github.com/VFPX/fxReports",
     "description": "Community sharing of custom report features",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Component"
   },
   {
     "project": "Gauge",
     "url": "https://github.com/VFPX/Gauge",
     "description": "Draws gauges in VFP applications.",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "GDIPlusX",
     "url": "https://github.com/VFPX/GDIPlusX",
     "description": "VFP 9.0 class libraries that wrap the 603 GDI+ Flat API functions of GDIPlus.dll",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "GenDBC",
     "url": "https://github.com/VFPX/GenDBC",
     "description": "Generates a program that can recreate a database (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "GenHTML",
     "url": "https://github.com/VFPX/GenHTML",
     "description": "Generates HTML from forms, labels, reports, and menus (VFP home folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "GenMenu",
     "url": "https://github.com/VFPX/GenMenu",
     "description": "Generates an MPR file from an MNX menu (VFP home folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "GoFish",
     "url": "https://github.com/mattslay/GoFish",
     "description": "GoFish is an advanced code search tool for fast searching of Visual FoxPro source code.",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "HexEdit",
     "url": "https://github.com/VFPX/HexEdit",
     "description": "Provides a way to examine address values, or examine or change byte and ASCII values of data in a file (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "iCal4VFP",
     "url": "https://github.com/atlopes/iCal4VFP",
     "description": "A set of classes to handle iCalendar objects",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "IntellisenseManager",
     "url": "https://github.com/VFPX/IntellisenseManager",
     "description": "Perform IntelliSense management tasks (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "IntellisenseX",
     "url": "https://github.com/VFPX/IntelliSenseX",
     "description": "Extensions to native Intellisense for field names, properties, local variables, and constants.",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "JustBehave",
     "url": "https://github.com/VFPX/JustBehave",
     "description": "Extend the behavior of any VFP baseclass or custom framework class without additional code",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Component"
   },
   {
     "project": "Log4VFP",
     "url": "https://github.com/VFPX/Log4VFP",
     "description": "Provides a VFP wrapper for the Log4NET diagnostic logging library",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "MemberDataEditor",
     "url": "https://github.com/VFPX/MemberDataEditor",
     "description": "An easy to use front-end to manage MemberData (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Microsoft Accessibility Browser (MSAA)",
     "url": "https://github.com/VFPX/MSAA",
     "description": "Helps develop applications that are more accessible to people with disabilities, write automated test suites, or select and buy off-the-shelf test software (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Multi-Select Combobox",
     "url": "https://github.com/VFPX/cboMultiSel",
     "description": "Provides the ability to select multiple items from a table/cursor rowsource into a single, character-separated (concatenated) value",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "My for VFP",
     "url": "https://github.com/VFPX/My",
     "description": "Exposes commonly used functionality in a hierarchy that is easy to discover and navigate (Sedna)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Name Syntax Checker",
     "url": "https://github.com/atlopes/names",
     "description": "Verifies the correctness and controls the translation of a string into a syntactically correct name of a particular domain (the name of VFP variables or fields, the name of XML elements, etc.)",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "NET4COM",
     "url": "https://github.com/VFPX/NET4COM",
     "description": "A collection of COM classes that wrap a subset of the .NET Framework 2.0 (Sedna)",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "New Class Dialog Replacement",
     "url": "https://github.com/VFPX/NewClassDialogReplacement",
     "description": "Replacement for VFP New Class dialog with more features",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Tool"
   },
   {
     "project": "New Property/New Method Replacement",
     "url": "https://github.com/VFPX/NewPropertyDialog",
     "description": "<em>Note: While this project isn't deprecated, its functionality is included in PEM Editor listed above.</em>",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "nfJson",
     "url": "https://github.com/VFPX/nfJson",
     "description": "Provides a set of fast performance, reliable, and easy to use Json functions using pure VFP.",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "nfXML",
     "url": "https://github.com/VFPX/nfXML",
     "description": "Provides powerful and simple to use functions to convert complex XML into a VFP (empty-based) object and vice versa.",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "ObjectBrowser",
     "url": "https://github.com/VFPX/ObjectBrowser",
     "description": "Displays the classes, properties, methods, events, and constants available for COM object libraries (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "OOP Menu Project",
     "url": "https://github.com/VFPX/OOPMenu",
     "description": "Object-oriented menus",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "OOP Reports",
     "url": "https://github.com/VFPX/OOPReports",
     "description": "Object-oriented reports",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "Organization Chart",
     "url": "https://github.com/VFPX/OrganizationChart",
     "description": "Displays an organization tree view.",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Component"
   },
   {
     "project": "overHere",
     "url": "https://github.com/atlopes/overHere",
     "description": "An SDK that wraps access to the resources of the Here.com location platform to easily integrate mapping and geolocation services and data into VFP applications",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Component"
   },
   {
     "project": "ParallelFox",
     "url": "https://github.com/VFPX/ParallelFox",
     "description": "Parallel Processing Library for Visual FoxPro",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "PEM Editor",
     "url": "https://github.com/VFPX/PEMEditor",
     "description": "Replacement for the native dialogs to add, edit and maintain properties, events, and methods",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "PopMenu Project",
     "url": "https://github.com/VFPX/PopMenu",
     "description": "Owner-drawn object-oriented shortcut menus",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Component"
   },
   {
     "project": "Project Explorer",
     "url": "https://github.com/DougHennig/ProjectExplorer",
     "description": "A replacement for the VFP Project Manager.",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "ProjectHookX",
     "url": "https://github.com/VFPX/ProjectHookX",
     "description": "Extendible projecthook class",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "ReportingApps",
     "url": "https://github.com/VFPX/ReportingApps",
     "description": "The default implementation of Visual FoxPro 9's Report Applications (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "Samples",
     "url": "https://github.com/VFPX/Samples",
     "description": "VFP samples (VFP Samples folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "SCCText",
     "url": "https://github.com/VFPX/SCCText",
     "description": "Translates Visual FoxPro binary files into text equivalents and back (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Sedna",
     "url": "https://github.com/VFPX/Sedna",
     "description": "Microsoft Visual FoxPro 9.0 \"Sedna\" Add-Ons",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "ssClasses",
     "url": "https://github.com/VFPX/ssClasses",
     "description": "Library of useful classes",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "StripeX",
     "url": "http://github.com/VFPX/StripeX",
     "description": "Provides a wrapper for working with Stripe.com",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "SubFox",
     "url": "https://github.com/VFPX/SubFox",
     "description": "Seamless integration for Subversion source code control",
-    "state": "Beta"
+    "state": "Beta",
     "category": "Tool"
   },
   {
     "project": "Tab Menu",
     "url": "https://github.com/VFPX/TabMenu",
     "description": "Ribbon control generated from VFP menus",
-    "state": "Beta"
+    "state": "Beta",
     "category": "Component"
   },
   {
     "project": "TabbingNavigation",
     "url": "https://github.com/VFPX/TabbingNavigation",
     "description": "Makes navigating through FoxPro the same experience as SQL Management Studio or Visual Studio",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Tool"
   },
   {
     "project": "Table Designer X",
     "url": "https://github.com/VFPX/TableDesignerX",
     "description": "Non-modal replacement for the VFP Table Designer",
-    "state": "Planning"
+    "state": "Planning",
     "category": "Tool"
   },
   {
     "project": "TaskListManager",
     "url": "https://github.com/VFPX/TaskListManager",
     "description": "Keeps track of tasks (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "TaskPaneManager",
     "url": "https://github.com/VFPX/TaskPaneManager",
     "description": "Displays links to useful information and dialogs for performing essential tasks (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "ThemedControls",
     "url": "https://github.com/VFPX/ThemedControls",
     "description": "OutlookNavBar and other controls to provide the Outlook look and feel in your VFP app",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "ThemedTitleBar",
     "url": "https://github.com/VFPX/ThemedTitleBar",
     "description": "Replace VFP form TitleBar with modern look",
-    "state": "Beta"
+    "state": "Beta",
     "category": "Component"
   },
   {
     "project": "Thor",
     "url": "https://github.com/VFPX/Thor",
     "description": "Tool for managing add-on tools in the IDE (assigning hot keys, popup menus, etc); integrated with PEM Editor 7.",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Thor Repository",
     "url": "https://github.com/VFPX/ThorRepository",
     "description": "A collection of IDE tools, accessible thru Thor, that have been written by members of the FoxPro community.",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Toolbox",
     "url": "https://github.com/VFPX/Toolbox",
     "description": "Displays items used in the creation of applications (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Tooltip",
     "url": "https://github.com/VFPX/CtlTip",
     "description": "Improved tooltips for FoxPro forms controls, including multi-line",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "TwilioX",
     "url": "https://github.com/VFPX/TwilioX",
     "description": "Provides a wrapper class for calling Twilio.com to send texts",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "Upsizing Wizard",
     "url": "https://github.com/VFPX/UpsizingWizard",
     "description": "An updated version of the Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "UTCDatetime",
     "url": "https://github.com/atlopes/UTCDatetime",
     "description": "Provides an object to process UTC and local time exchange in Visual FoxPro, for all current time zones around the world.",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "VFP 9.0 Localization in French",
     "url": "https://github.com/VFPX/FrenchLocalization",
     "description": "Provides a French-localized IDE and tools",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "VFP 9.0 Localization in Russian",
     "url": "https://github.com/VFPX/RussianLocalization",
     "description": "Provides a Russian-localized IDE and help",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "VFP 9 SP2 Help File",
     "url": "https://github.com/VFPX/HelpFile",
     "description": "Community maintained VFP 9 SP2 Help file (corrected and enhanced)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "VFP 9 SP2 Hotfix 3",
     "url": "https://github.com/VFPX/VFP9SP2Hotfix3",
     "description": "Official download of Microsoft's VFP 9 SP2 Hotfix 3 file (KB 968409)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "VFP Grid ManyHeader",
     "url": "https://github.com/VFPX/VFPGridManyHeader",
     "description": "Custom container to replace and extend VFP's header functionality",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Component"
   },
   {
     "project": "VFP Runtime Installers",
     "url": "https://github.com/VFPX/VFPRuntimeInstallers",
     "description": "Provides downloads for the VFP runtime installers",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "VFP2C32",
     "url": "https://github.com/ChristianEhlscheid/vfp2c32",
     "description": "FLL over Windows API",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "VFPClean",
     "url": "https://github.com/VFPX/VFPClean",
     "description": "When reinstalling VFP, make sure all core Xbase and other files are set appropriately (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "VFPDosPrint",
     "url": "https://github.com/VFPX/VFPDosPrint",
     "description": "Generate text-based reports that can take full advantage of dot-matrix printer capabilities.",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
 
@@ -781,91 +781,91 @@
     "project": "VFPOAuth",
     "url": "http://github.com/VFPX/VFPOAuth",
     "description": "Performs OAuth authentication based on the OAuth 1.0a protocol.",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Component"
   },
   {
     "project": "VFPRegExTool",
     "url": "https://github.com/VFPX/VFPRegExTool",
     "description": "Verify regular expressions visually & do replace operations using any VFP function - based on vbScript.regexp.",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "VFPTweetAPI",
     "url": "http://github.com/VFPX/VFPTweetAPI",
     "description": "A wrapper around the Twitter API with the purpose of accessing Twitter from Visual FoxPro.",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Component"
   },
   {
     "project": "VFPXTab",
     "url": "https://github.com/VFPX/VFPXTab",
     "description": "Generates a cross-tabulation cursor (VFP Tools folder)",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "VistaDialogs4COM",
     "url": "https://github.com/VFPX/VistaDialogs4COM",
     "description": "A collection of classes that provide access to the Windows Vista TaskDialog and Common Dialogs (Sedna)",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "Webservice",
     "url": "https://github.com/VFPX/Webservice",
     "description": "Web service wizard (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Win32API",
     "url": "https://github.com/VFPX/Win32API",
     "description": "Provides documentation for calling hundreds of Win32API functions from VFP",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "Win7TLib",
     "url": "https://github.com/VFPX/Win7TLib",
     "description": "Integrate Windows 7 Taskbar Functionality into your VFP Applications",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Component"
   },
   {
     "project": "Wizards",
     "url": "https://github.com/VFPX/Wizards",
     "description": "A collection of Wizard applications and productivity enhancement tools (XSource)",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "XLSXWorkbook",
     "url": "https://github.com/ggreen86/XLXS-Workbook-Class",
     "description": "Read from and write to XLSX format files without any automation or export with support for full cell formatting",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "XML Library Set",
     "url": "https://github.com/atlopes/xml",
     "description": "Extends the VFP XML processing capabilities",
-    "state": "Production"
+    "state": "Production",
     "category": "Component"
   },
   {
     "project": "XSource",
     "url": "https://github.com/VFPX/XSource",
     "description": "Microsoft Visual FoxPro 9.0 SP2 XSource Projects",
-    "state": "Production"
+    "state": "Production",
     "category": "Tool"
   },
   {
     "project": "zProc, zVFP, and zCOM IntelliSense Scripts",
     "url": "https://github.com/VFPX/zProc-zVFP-zCOM-IntelliSenseScripts",
     "description": "Customized IntelliSense scripts listing user-defined, DLL, and native functions and COM objects",
-    "state": "Alpha"
+    "state": "Alpha",
     "category": "Tool"
   }
 ]
