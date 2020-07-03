@@ -10,21 +10,19 @@ permalink: /projects/
 <tr>
 <td><strong>Project</strong></td>
 <td><strong>Description</strong></td>
+<td><strong>Category</strong></td>
+<td><strong>Status</strong></td>
 </tr>
 </thead>
 <tbody>
-{% assign statelist = site.data.projects | map: 'state' | uniq %}
-{% for state in statelist %}
-<tr>
-	<td colspan="2"><strong>{{ state }}</strong></td>
-</tr>
-{% assign projlist = site.data.projects | where: "state", state %}
+{% assign projlist = site.data.projects %}
 {% for project in projlist %}
 <tr>
 	<td><a target="_blank" href="{{ project.url }}">{{ project.project }}</a></td>
 	<td>{{ project.description }}</td>
+	<td>{{ project.category }}</td>
+	<td>{{ project.state }}</td>
 </tr>
-{% endfor %}
 {% endfor %}
 </tbody>
 </table>
