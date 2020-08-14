@@ -287,6 +287,13 @@
     "category": "Tool"
   },
   {
+    "project": "FoxQueue",
+    "url": "https://github.com/Irwin1985/FoxQueue",
+    "description": "FoxQueue is a queue implemented over array, using wrapping",
+    "state": "Production",
+    "category": "Component"
+  },
+  {
     "project": "FoxRegEx",
     "url": "https://github.com/Irwin1985/FoxRegEx",
     "description": "Performs validations on strings using Regular Expressions supported by VBScript",

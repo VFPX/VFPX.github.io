@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title:  "FoxQueue"
+date:   2020-08-14 09:00:00 -0500
+categories: vfpx update
+---
+
+Another new project from Irwin Rodríguez: [FoxQueue](https://github.com/Irwin1985/FoxQueue) provides a first-in, first-out (FIFO) queue class. You can add items to the end of the queue and remove them from the start or remove all the items. You can also peek at the top item without removing it.
