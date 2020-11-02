@@ -52,8 +52,8 @@
     "project": "BlackFox",
     "url": "https://github.com/Irwin1985/BlackFox",
     "description": "Ease verbose code for modern language constructs like JSON notation, HTTP protocol by providing a Visual FoxPro grammar",
-    "state": "Release candidate",
-    "category": "Tool"
+    "state": "Beta",
+    "category": "Component"
   },
   {
     "project": "Builders",
