@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "BlackFox"
+date:   2020-11-02 16:10:00 -0500
+categories: vfpx update
+---
+
+Another new project from Irwin Rodríguez: [BlackFox](https://github.com/Irwin1985/BlackFox). This interesting project allows you to write code for modern language constructs, such as JSON notation and HTTP protocol, using a Visual FoxPro-like syntax. The technique alone is interesting: simply storing a command to a property of _SCREEN parses and executes it. In a way, it provides the ability to extend the VFP language.
