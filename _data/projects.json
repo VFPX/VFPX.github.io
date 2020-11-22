@@ -879,7 +879,7 @@
     "url": "https://github.com/atlopes/zintbarcode",
     "description": "Integration of a wide range of 1D and 2D barcode technologies in VFP applications",
     "state": "Production",
-    "category": "Tool"
+    "category": "Component"
   },
   {
     "project": "zProc, zVFP, and zCOM IntelliSense Scripts",
