@@ -790,7 +790,6 @@
     "state": "Production",
     "category": "Component"
   },
-
   {
     "project": "VFPOAuth",
     "url": "http://github.com/VFPX/VFPOAuth",
@@ -872,6 +871,13 @@
     "project": "XSource",
     "url": "https://github.com/VFPX/XSource",
     "description": "Microsoft Visual FoxPro 9.0 SP2 XSource Projects",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
+    "project": "ZintBarcode",
+    "url": "https://github.com/atlopes/zintbarcode",
+    "description": "Integration of a wide range of 1D and 2D barcode technologies in VFP applications",
     "state": "Production",
     "category": "Tool"
   },
