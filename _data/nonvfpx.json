@@ -90,6 +90,11 @@
    "description": "Git utilities for VFP, designed to work within the Thor repository (Mike Potjer)"
  },
  {
+   "project": "VFP Help Online",
+   "url": "https://www.vfphelp.com/help/index.htm",
+   "description": "The help for VFP 9 SP2 online"
+ },
+ {
    "project": "VFP System Variables",
    "url": "https://github.com/MJindrova/SystemVariables",
    "description": "Documentation for VFP System Variables"
