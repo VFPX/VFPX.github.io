@@ -588,6 +588,13 @@
     "category": "Component"
   },
   {
+    "project": "Ribbon Control",
+    "url": "https://github.com/DougHennig/Ribbon",
+    "description": "A Microsoft Office 365-like ribbon control for VFP forms",
+    "state": "Release Candidate",
+    "category": "Component"
+  },
+  {
     "project": "Samples",
     "url": "https://github.com/VFPX/Samples",
     "description": "VFP samples (VFP Samples folder)",
