@@ -616,6 +616,13 @@
     "category": "Component"
   },
   {
+    "project": "SFMail",
+    "url": "https://github.com/DougHennig/SFMail",
+    "description": "A library to send emails from VFP applications",
+    "state": "Beta",
+    "category": "Component"
+  },
+  {
     "project": "ssClasses",
     "url": "https://github.com/VFPX/ssClasses",
     "description": "Library of useful classes",

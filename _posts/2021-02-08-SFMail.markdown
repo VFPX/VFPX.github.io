@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SFMail"
+date:   2021-02-08 10:00:00 -0500
+categories: vfpx update
+---
+
+[SFMail](https://github.com/DougHennig/SFMail) is a library by Doug Hennig to send emails from VFP applications to mail servers using modern protocols.
