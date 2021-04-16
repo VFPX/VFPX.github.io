@@ -805,6 +805,13 @@
     "category": "Component"
   },
   {
+    "project": "VFP Editors",
+    "url": "https://github.com/ggreen86/VFP-Editors",
+    "description": "VFP Editors for SCX, VCX. MNU, PRG, and DBF files; also Table Browser and Project Manager Replacements",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
     "project": "VFPOAuth",
     "url": "http://github.com/VFPX/VFPOAuth",
     "description": "Performs OAuth authentication based on the OAuth 1.0a protocol.",
