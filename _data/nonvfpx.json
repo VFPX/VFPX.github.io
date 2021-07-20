@@ -25,6 +25,11 @@
    "description": "Fox Server Pages is a Visual Foxpro multithreaded webserver"
  },
  {
+   "project": "FoxSharp",
+   "url": "https://github.com/Irwin1985/FoxSharp",
+   "description": "Domain-specific language for Visual FoxPro and C#"
+ },
+ {
    "project": "FoxyPreviewer",
    "url": "http://www.foxypreviewer.com/",
    "description": "Export your VFP reports to Images, RTF, PDF, HTML or XLS super easy! Send them by email! Enhance the look of your previews, and bring a new life to your APPs!"
