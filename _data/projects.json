@@ -189,6 +189,13 @@
     "category": "Tool"
   },
   {
+    "project": "ErrorHandler",
+    "url": "https://github.com/DougHennig/ErrorHandler",
+    "description": "Provides a highly configurable and customizable error handler for any VFP application",
+    "state": "Production",
+    "category": "Component"
+  },
+  {
     "project": "ExcelXML",
     "url": "https://github.com/VFPX/ExcelXML",
     "description": "Convert a Table or a Grid control into a Microsoft Excel XML Spreadsheet file.",
