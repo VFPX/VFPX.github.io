@@ -38,4 +38,4 @@ During the 2007 conference season Rick Schummer presented a session called "VFPX
 
 ![tweet.png](/images/tweet.png) <a href="https://twitter.com/vfpx" target="_blank">VFPX Tweets</a>
 
-<a href="https://vfp9.github.io" target="_blank">Simplified Chinese version</a>
+<a href="https://vfp9.github.io" target="_blank">Simplified Chinese version(简体中文版本)</a>
