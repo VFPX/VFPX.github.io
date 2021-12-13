@@ -5,6 +5,11 @@
    "description": "Export DBF to MSSQL, MDB, Oracle, MySQL and MSSQL CE"
  },
  {
+   "project": "DotNet2Fox",
+   "url": "https://github.com/JoelLeach/DotNet2Fox",
+   "description": "Library for calling Visual FoxPro code from .NET"
+ },
+ {
    "project": "DT Class",
    "url": "https://github.com/MJindrova/dtclass",
    "description": "Classes for working with date or datetime"
