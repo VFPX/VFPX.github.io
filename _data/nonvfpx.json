@@ -20,9 +20,24 @@
    "description": "Modern themes for the Visual FoxPro 9 Editor"
  },
  {
+   "project": "FoxCryptoNG",
+   "url": "https://github.com/cwollenhaupt/foxCryptoNG",
+   "description": "Provides a simplified interface to Microsoft's Cryptography API: Next Generation"
+ },
+ {
    "project": "FoxDates",
    "url": "https://github.com/RickBorup/FoxDates",
    "description": "FoxDates is a collection of helpful functions for working with dates and times in Visual FoxPro"
+ },
+ {
+   "project": "FoxGitIgnore",
+   "url": "https://github.com/cwollenhaupt/foxGitIgnore",
+   "description": "Generic .gitignore file for FoxPro development. Excludes files typically not part of the checked in source code"
+ },
+ {
+   "project": "FoxMock",
+   "url": "https://github.com/cwollenhaupt/foxmock",
+   "description": "Mocking framework for Microsoft Visual FoxPro"
  },
  {
    "project": "Fox Pages Server",
