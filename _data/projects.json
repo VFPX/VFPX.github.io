@@ -112,9 +112,16 @@
     "category": "Tool"
   },
   {
-    "project": "CoverageProfiler",
+    "project": "Coverage Profiler",
     "url": "https://github.com/VFPX/CoverageProfiler",
     "description": "Provides analysis of coverage logs (XSource)",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
+    "project": "Coverage Viewer",
+    "url": "https://github.com/VFPX/CoverageViewer",
+    "description": "Analyzes coverage logs and creates a web page with links to code sections",
     "state": "Production",
     "category": "Tool"
   },
