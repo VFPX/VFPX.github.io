@@ -532,6 +532,13 @@
     "category": "Tool"
   },
   {
+    "project": "Object Inspector",
+    "url": "https://github.com/VFPX/ObjectInspector",
+    "description": "Browses objects and/or collections, showing all child objects and the values of all their properties",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
     "project": "OOP Menu Project",
     "url": "https://github.com/VFPX/OOPMenu",
     "description": "Object-oriented menus",
