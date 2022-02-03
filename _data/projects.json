@@ -183,7 +183,7 @@
   },
   {
     "project": "Dynamic Forms",
-    "url": "https://github.com/mattslay/DynamicForms",
+    "url": "https://github.com/VFPX/DynamicForms",
     "description": "Dynamically create forms from markup syntax.",
     "state": "Production",
     "category": "Component"
@@ -414,7 +414,7 @@
   },
   {
     "project": "GoFish",
-    "url": "https://github.com/mattslay/GoFish",
+    "url": "https://github.com/VFPX/GoFish",
     "description": "GoFish is an advanced code search tool for fast searching of Visual FoxPro source code.",
     "state": "Production",
     "category": "Tool"

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "MattSlay"
+date:   2022-02-03 14:00:00 -0500
+categories: vfpx update
+---
+
+As you may know, Matt Slay passed away in 2021. He was a great contributor to the Fox community and VFPX and will be greatly missed.
+
+We have forked his two projects, GoFish and Dynamic Forms, and the VFPX project list now links to the forked repositories rather than his original ones. That allows community members to continue working on these projects.
