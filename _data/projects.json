@@ -280,6 +280,13 @@
     "category": "Tool"
   },
   {
+    "project": "FoxEnv",
+    "url": "https://github.com/Irwin1985/foxenv",
+    "description": "Library for sharing secret data (database credentials, API keys, etc)",
+    "state": "Production",
+    "category": "Component"
+  },
+  {
     "project": "FoxFaker",
     "url": "https://github.com/Irwin1985/FoxFaker",
     "description": "Generates fake data for testing",

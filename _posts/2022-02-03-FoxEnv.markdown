@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FoxEnv"
+date:   2022-02-03 09:00:00 -0500
+categories: vfpx update
+---
+
+[FoxEnv](https://github.com/Irwin1985/foxenv) is a library for sharing secret data (database credentials, API keys, etc).
