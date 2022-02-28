@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OBject Explorer"
+title:  "Object Explorer"
 date:   2022-02-28 9:30:00 -0500
 categories: vfpx update
 ---
