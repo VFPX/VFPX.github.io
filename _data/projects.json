@@ -539,6 +539,13 @@
     "category": "Tool"
   },
   {
+    "project": "Object Explorer",
+    "url": "https://github.com/VFPX/ObjectExplorer",
+    "description": "Provides an explorer form to view members of the specified object",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
     "project": "Object Inspector",
     "url": "https://github.com/VFPX/ObjectInspector",
     "description": "Browses objects and/or collections, showing all child objects and the values of all their properties",
