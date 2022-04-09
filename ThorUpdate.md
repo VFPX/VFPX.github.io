@@ -5,7 +5,9 @@ permalink: /thorupdate/
 
 ## Supporting Thor Updater
 
-These steps/notes allow you to include your project in the Thor Updater dialog so users can easily install your project and update to the latest version without having to clone your project's repository. 
+These steps/notes allow you to include your project in the Thor Updater dialog so users can easily install your project and update to the latest version without having to clone your project's repository.
+
+This looks like a lot of steps but most of it is an explanation of how the process works.
 
 1. Create a subdirectory of your project folder named ThorUpdater.
 
@@ -25,13 +27,11 @@ These steps/notes allow you to include your project in the Thor Updater dialog s
 
     Note: CreateThorUpdate.ps1 doesn't look for "appName =", "appID =", etc.; it just picks up the content after the "=" and expects that line 1 contains the display name, line 2 contains the application ID, and so on.
 
-4. CreateThorUpdate.ps1 uses a library in the PowerShell Community Extensions (PSCX) to zip up files, so install PSCX; see [https://github.com/Pscx/Pscx](https://github.com/Pscx/Pscx) for download and instructions. Note: if you get a "Install-Module is not recognized as the name of a cmdlet, function, script file or operable program" error, you likely have an older version of PowerShell; see [http://wahlnetwork.com/2015/12/21/how-to-upgrade-windows-powershell-to-version-5-0/](http://wahlnetwork.com/2015/12/21/how-to-upgrade-windows-powershell-to-version-5-0/) for details on upgrading.
-
-5. Because it was downloaded, CreateThorUpdate.ps1 is blocked by default. Right-click it, choose Properties, turn on Unblock, and click OK. If you don't see an Unblock button, it should be fine.
+4. Because it was downloaded, CreateThorUpdate.ps1 is blocked by default. Right-click it, choose Properties, turn on Unblock, and click OK. If you don't see an Unblock button, it should be fine.
 
     ![](/images/unblock.png)
 
-6. Here are some details on CreateThorUpdate.ps1, which we'll run in step 8. It generates a Thor version file named *appID*Version.txt in the ThorUpdater folder, where *appID* is the appID value specified in Project.txt. CreateThorUpdate.ps1 uses Version.txt as a template when generating this file. Thor version files contain code that specify the version number for the current release. Version.txt uses MajorVersion.JulianDate for the version number of a project, where MajorVersion is the majorVersion value specified in Project.txt and JulianDate is the current day number starting from January 1, 2001. For example, for a new version released on October 12, 2017, the JulianDate value is 6494. The nice thing about using JulianDate is that you can work backwards from the value to get the release date if necessary. Version.txt is generic; it uses APPNAME as a placeholder for the project name and MAJORVERSION as a placeholder for the major version number in the AvailableVersion property of the update object that Thor passes into the code. For example, if Project.txt contains this:
+5. Here are some details on CreateThorUpdate.ps1, which we'll run in step 7. It generates a Thor version file named *appID*Version.txt in the ThorUpdater folder, where *appID* is the appID value specified in Project.txt. CreateThorUpdate.ps1 uses Version.txt as a template when generating this file. Thor version files contain code that specify the version number for the current release. Version.txt uses MajorVersion.JulianDate for the version number of a project, where MajorVersion is the majorVersion value specified in Project.txt and JulianDate is the current day number starting from January 1, 2001. For example, for a new version released on October 12, 2017, the JulianDate value is 6494. The nice thing about using JulianDate is that you can work backwards from the value to get the release date if necessary. Version.txt is generic; it uses APPNAME as a placeholder for the project name and MAJORVERSION as a placeholder for the major version number in the AvailableVersion property of the update object that Thor passes into the code. For example, if Project.txt contains this:
 
     ```
     appName = Project Explorer  
@@ -58,14 +58,14 @@ These steps/notes allow you to include your project in the Thor Updater dialog s
     
     If you want to use a different version numbering system, feel free to edit Version.txt to use whatever mechanism you want to assign a value to AvailableVersion. Remember that this code executes on the user's system, not yours, so you'll need to hard-code the value.
 
-7. CreateThorUpdate.ps1 creates a zip file named *appID*.zip in the ThorUpdater folder, where *appID* is the appID value specified in Project.txt. This zip file contains all files in all subdirectories of the project folder with the exception of any files specified in the excludeFiles setting and any folders specified in the excludeFolders setting of Project.txt. You'll likely want the following in Project.txt as a minimum:
+6. CreateThorUpdate.ps1 creates a zip file named *appID*.zip in the ThorUpdater folder, where *appID* is the appID value specified in Project.txt. This zip file contains all files in all subdirectories of the project folder with the exception of any files specified in the excludeFiles setting and any folders specified in the excludeFolders setting of Project.txt. You'll likely want the following in Project.txt as a minimum:
 
     ```
     excludeFiles = *.bak,*.fxp
     excludeFolders = *ThorUpdater*
     ```
     
-8. After editing Project.txt, you're ready to create the files Thor needs to download and install or update your project. Right-click CreateThorUpdate.ps1 in the ThorUpdater folder and choose Run with PowerShell from the shortcut menu.
+7. After editing Project.txt, you're ready to create the files Thor needs to download and install or update your project. Right-click CreateThorUpdate.ps1 in the ThorUpdater folder and choose Run with PowerShell from the shortcut menu.
 
     Note: If you get a message that script execution is disabled, click the Windows Start button, type "power", and select  Windows PowerShell to open the PowerShell command window. Type:
 
@@ -75,10 +75,10 @@ These steps/notes allow you to include your project in the Thor Updater dialog s
     
     CreateThorUpdate.ps1 creates *appID*Version.txt and *appID*.zip. Add these two files to your repository (if you haven't done so previously), commit, and push to the remote repository. Every time you release a new version, repeat this step.
 
-9. In order for Thor to know about your project, you have to create a Thor updater program named Thor_Update_*appID*.prg. Thor_Update_Template.prg and Thor_Update_Template_With_Menu.prg are templates you can use for such a program (use the latter if you want your tool to appear in the Thor menu); see the comments in the appropriate PRG about what to edit to make it specific for your project.
+8. In order for Thor to know about your project, you have to create a Thor updater program named Thor_Update_*appID*.prg. Thor_Update_Template.prg and Thor_Update_Template_With_Menu.prg are templates you can use for such a program (use the latter if you want your tool to appear in the Thor menu); see the comments in the appropriate PRG about what to edit to make it specific for your project.
 
-10. After creating this program, zip it and email it to the VFPX project managers (projects@vfpx.org). They'll add it to the Thor repository so Thor knows about your project (note to admins: download /dl/thorupdate/Updater_PRGs/updates.zip, add the PRG to the zip, and re-upload the file). You only have to do this one time.
+9. After creating this program, zip it and email it to the VFPX project managers (projects@vfpx.org). They'll add it to the Thor repository so Thor knows about your project (note to admins: download Updates.zip from  the ThorUpdater folder of https://github.com/VFPX/Thor, add the PRG to the zip, and re-upload the file). You only have to do this one time.
 
-11. Now that Thor knows about your project, the next time a user chooses Check for Updates from the Thor menu in VFP, Thor will download *appID*Version.txt from your repository, see that the project is available to be installed or a new version is ready for download, and display it to the user in the update dialog. If the user chooses to install the project or the update, Thor downloads *appID*.zip from your repository and unzips it in the project folder (the Thor\Tools\Components\*appName* subdirectory of the main Thor folder) and creates *appID*VersionFile.txt in that folder so it know what version the user has so they aren't prompted about an update until the next release.
+10. Now that Thor knows about your project, the next time a user chooses Check for Updates from the Thor menu in VFP, Thor will download *appID*Version.txt from your repository, see that the project is available to be installed or a new version is ready for download, and display it to the user in the update dialog. If the user chooses to install the project or the update, Thor downloads *appID*.zip from your repository and unzips it in the project folder (the Thor\Tools\Components\*appName* subdirectory of the main Thor folder) and creates *appID*VersionFile.txt in that folder so it know what version the user has so they aren't prompted about an update until the next release.
 
-12. Every time you release a new version, right-click CreateThorUpdate.ps1 in the ThorUpdater folder and choose Run with PowerShell from the shortcut menu. That creates *appID*Version.txt and *appID*.zip. Commit and push to the remote repository.
+11. Every time you release a new version, right-click CreateThorUpdate.ps1 in the ThorUpdater folder and choose Run with PowerShell from the shortcut menu. That creates *appID*Version.txt and *appID*.zip. Commit and push to the remote repository.
