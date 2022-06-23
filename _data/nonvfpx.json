@@ -15,11 +15,6 @@
    "description": "Classes for working with date or datetime"
  },
  {
-   "project": "Editor Themes",
-   "url": "https://github.com/nftools/EditorThemes",
-   "description": "Modern themes for the Visual FoxPro 9 Editor"
- },
- {
    "project": "FoxCryptoNG",
    "url": "https://github.com/cwollenhaupt/foxCryptoNG",
    "description": "Provides a simplified interface to Microsoft's Cryptography API: Next Generation"
@@ -123,10 +118,5 @@
    "project": "VFP System Variables",
    "url": "https://github.com/MJindrova/SystemVariables",
    "description": "Documentation for VFP System Variables"
- },
- {
-   "project": "WMIQuery",
-   "url": "https://github.com/nftools/wmiquery",
-   "description": "Query any Windows WMI Class using just a line of code"
  }
 ]
