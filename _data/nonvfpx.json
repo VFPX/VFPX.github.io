@@ -80,6 +80,11 @@
    "description": "The Named parameters utility for processing and checking input EXE/APP parameters."
  },
  {
+   "project": "NF Themes",
+   "url": "https://github.com/nftools/nf-themes",
+   "description": "Set VFP colors in real time using color picker"
+ },
+ {
    "project": "Scrollable container",
    "url": "https://github.com/MJindrova/ViewPort",
    "description": "Scrollable container"
