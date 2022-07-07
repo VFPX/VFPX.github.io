@@ -65,6 +65,11 @@
    "description": "Steven Black's INTL Toolkit for Visual FoxPro makes creating international and multilingual applications easy"
  },
  {
+   "project": "JSON",
+   "url": "https://github.com/vespina/json",
+   "description": "100% VFP JSON parser & utilities"
+ },
+ {
    "project": "LINQ to VFP",
    "url": "https://github.com/tombrothers/LINQtoVFP",
    "description": "An IQToolkit Provider that adds the ability to use Visual FoxPro Data as a LINQ data source."
