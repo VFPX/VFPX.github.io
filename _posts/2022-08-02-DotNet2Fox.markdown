@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DotNet2Fox"
+date:   2022-08-02 9:30:00 -0500
+categories: vfpx update
+---
+
+Have you tried your hand at COM interop only to be met with limitation after limitation? Did you find that exposing your existing FoxPro code over COM would require a major refactoring effort? [DotNet2Fox](https://github.com/JoelLeach/DotNet2Fox) provides a simplified interface for calling into existing real-world FoxPro code, and without all those limitations.

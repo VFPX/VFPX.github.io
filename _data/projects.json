@@ -182,6 +182,13 @@
     "category": "Component"
   },
   {
+    "project": "DotNet2Fox",
+    "url": "https://github.com/JoelLeach/DotNet2Fox",
+    "description": "Simplifies calling Visual FoxPro code from .NET desktop and web applications",
+    "state": "Production",
+    "category": "Component"
+  },
+  {
     "project": "Dynamic Forms",
     "url": "https://github.com/VFPX/DynamicForms",
     "description": "Dynamically create forms from markup syntax.",
