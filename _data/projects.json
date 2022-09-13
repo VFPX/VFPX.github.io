@@ -294,6 +294,13 @@
     "category": "Component"
   },
   {
+    "project": "FoxExtends",
+    "url": "https://github.com/Irwin1985/FoxExtends",
+    "description": "Provides functions helping with data structures like arrays and dictionaries",
+    "state": "Production",
+    "category": "Component"
+  },
+  {
     "project": "FoxFaker",
     "url": "https://github.com/Irwin1985/FoxFaker",
     "description": "Generates fake data for testing",
