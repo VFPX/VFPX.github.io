@@ -70,6 +70,13 @@
     "category": "Component"
   },
   {
+    "project": "ChilkatVFP",
+    "url": "https://github.com/billand88/ChilkatVFP",
+    "description": "ChilkatVFP is a Visual Foxpro class that wraps the Chilkat library",
+    "state": "Beta",
+    "category": "Component"
+  },
+  {
     "project": "ClassBrowser",
     "url": "https://github.com/VFPX/ClassBrowser",
     "description": "View, use, and manage classes and their user-defined members (XSource)",
