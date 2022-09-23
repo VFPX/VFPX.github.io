@@ -73,7 +73,7 @@
     "project": "ChilkatVFP",
     "url": "https://github.com/billand88/ChilkatVFP",
     "description": "ChilkatVFP is a Visual Foxpro class that wraps the Chilkat library",
-    "state": "Beta",
+    "state": "Production",
     "category": "Component"
   },
   {
