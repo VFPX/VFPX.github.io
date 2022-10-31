@@ -49,6 +49,13 @@
     "category": "Tool"
   },
   {
+    "project": "BindWinEvent",
+    "url": "https://github.com/JoelLeach/BindWinEvent",
+    "description": "A small framework that allows multiple bindings to Windows message events",
+    "state": "Production",
+    "category": "Component"
+  },
+  {
     "project": "BlackFox",
     "url": "https://github.com/Irwin1985/BlackFox",
     "description": "Ease verbose code for modern language constructs like JSON notation, HTTP protocol by providing a Visual FoxPro grammar",
