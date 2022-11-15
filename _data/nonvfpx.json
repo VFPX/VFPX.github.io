@@ -115,6 +115,13 @@
    "description": "An Entity Framework Data Provider that adds the ability to use Visual FoxPro Data as an Entity Framework data source."
  },
  {
+   "project": "VFP For Notepad++",
+   "url": "https://github.com/ToniKoehler/notepad-plus-plus-vfpLanguage",
+   "description": "Extends Notepad++ with Visual FoxPro Language (syntax highlighting and function list)",
+   "state": "Production",
+   "category": "Tool"
+},
+{
    "project": "VFP git utils",
    "url": "https://github.com/mikepotjer/vfp-git-utils",
    "description": "Git utilities for VFP, designed to work within the Thor repository (Mike Potjer)"
