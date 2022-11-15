@@ -301,6 +301,13 @@
     "category": "Tool"
   },
   {
+    "project": "FoxContainers",
+    "url": "https://github.com/JoelLeach/FoxContainers",
+    "description": "Visual FoxPro Docker Containers",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
     "project": "FoxEnv",
     "url": "https://github.com/Irwin1985/foxenv",
     "description": "Library for sharing secret data (database credentials, API keys, etc)",
