@@ -882,6 +882,13 @@
     "category": "Tool"
   },
   {
+    "project": "VFP For Notepad++",
+    "url": "https://github.com/ToniKoehler/notepad-plus-plus-vfpLanguage",
+    "description": "Extends Notepad++ with Visual FoxPro Language (syntax highlighting and function list)",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
     "project": "VFPOAuth",
     "url": "http://github.com/VFPX/VFPOAuth",
     "description": "Performs OAuth authentication based on the OAuth 1.0a protocol.",
