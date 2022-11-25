@@ -833,9 +833,9 @@
     "category": "Tool"
   },
   {
-    "project": "VFP 9 SP2 Hotfix 3",
-    "url": "https://github.com/VFPX/VFP9SP2Hotfix3",
-    "description": "Official download of Microsoft's VFP 9 SP2 Hotfix 3 file (KB 968409), plus includes ODBC, OLEDB, and HTML Help Workshop installers",
+    "project": "VFP 9 Installers",
+    "url": "https://github.com/VFPX/VFPInstallers",
+    "description": "Providers installers for VFP components: service packs, ODBC driver, OLE DB provider, runtimes, HTML Help Workshop",
     "state": "Production",
     "category": "Tool"
   },
