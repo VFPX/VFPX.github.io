@@ -835,7 +835,7 @@
   {
     "project": "VFP 9 Installers",
     "url": "https://github.com/VFPX/VFPInstallers",
-    "description": "Providers installers for VFP components: service packs, ODBC driver, OLE DB provider, runtimes, HTML Help Workshop",
+    "description": "Provides installers for VFP components: service packs, ODBC driver, OLE DB provider, runtimes, HTML Help Workshop",
     "state": "Production",
     "category": "Tool"
   },
