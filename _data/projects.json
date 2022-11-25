@@ -847,13 +847,6 @@
     "category": "Component"
   },
   {
-    "project": "VFP Runtime Installers",
-    "url": "https://github.com/VFPX/VFPRuntimeInstallers",
-    "description": "Provides downloads for the VFP runtime installers",
-    "state": "Production",
-    "category": "Tool"
-  },
-  {
     "project": "VFP2C32",
     "url": "https://github.com/ChristianEhlscheid/vfp2c32",
     "description": "FLL over Windows API",
