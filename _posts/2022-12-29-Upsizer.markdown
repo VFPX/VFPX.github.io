@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Upsizer"
+date:   2022-12-29 08:00:00 -0500
+categories: vfpx update
+---
+
+The VFPX Upsizing Wizard allows you to upsize the tables in a database container to a SQL Server database. However, it doesn't support free tables. The [Upsizer](https://github.com/DougHennig/Upsizer) utility gives the Upsizing Wizard the ability to do that.

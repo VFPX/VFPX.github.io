@@ -798,6 +798,13 @@
     "category": "Component"
   },
   {
+    "project": "Upsizer",
+    "url": "https://github.com/DougHennig/Upsizer",
+    "description": "Upsizes VFP free tables to SQL Server",
+    "state": "Beta",
+    "category": "Tool"
+  },
+  {
     "project": "Upsizing Wizard",
     "url": "https://github.com/VFPX/UpsizingWizard",
     "description": "An updated version of the Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)",
