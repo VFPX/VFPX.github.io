@@ -13,6 +13,6 @@ permalink: /about/
 
 [Rick Schummer](mailto:rick@rickschummer.com)
 
-[Doug Hennig](mailto:dhennig@stonefield.com)
+[Doug Hennig](mailto:doug@doughennig.com)
 
 [Craig Boyd](mailto:craig@sweetpotatosoftware.com)
