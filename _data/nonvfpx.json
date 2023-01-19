@@ -1,5 +1,10 @@
 [
  {
+   "project": "Custom Environment Helper",
+   "url": "https://github.com/nfoxdev/nfCustomEnvHelper",
+   "description": "Start VFP in separated environments with ease"
+ },
+ {
    "project": "DBF to Any Export",
    "url": "https://github.com/MJindrova/DBF2Any",
    "description": "Export DBF to MSSQL, MDB, Oracle, MySQL and MSSQL CE"
@@ -86,7 +91,7 @@
  },
  {
    "project": "NF Themes",
-   "url": "https://github.com/nftools/nf-themes",
+   "url": "https://github.com/nfoxdev/nfThemes",
    "description": "Set VFP colors in real time using color picker"
  },
  {
