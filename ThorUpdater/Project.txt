@@ -1,5 +1,0 @@
-appName = My Project
-appID = MyProject
-majorVersion = 1.0
-excludeFiles = *.bak,*.fxp,README.md,.gitignore
-excludeFolders = *ThorUpdater*

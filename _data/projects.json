@@ -903,6 +903,13 @@
     "category": "Component"
   },
   {
+    "project": "VFPX Deployment",
+    "url": "https://github.com/VFPX/VFPXDeployment",
+    "description": "Automates deployment of VFPX projects.",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
     "project": "VFPXTab",
     "url": "https://github.com/VFPX/VFPXTab",
     "description": "Generates a cross-tabulation cursor (VFP Tools folder)",
