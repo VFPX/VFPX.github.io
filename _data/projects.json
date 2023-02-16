@@ -455,6 +455,13 @@
     "category": "Tool"
   },
   {
+    "project": "GoToDefinition",
+    "url": "https://github.com/VFPX/GoToDefinition",
+    "description": "Provides the ability to jump to the definition of a function, constant, variable, etc.",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
     "project": "HexEdit",
     "url": "https://github.com/VFPX/HexEdit",
     "description": "Provides a way to examine address values, or examine or change byte and ASCII values of data in a file (VFP Tools folder)",
