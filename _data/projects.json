@@ -497,6 +497,13 @@
     "category": "Component"
   },
   {
+    "project": "ListManager",
+    "url": "https://github.com/DougHennig/ListManager",
+    "description": "Manages lists of lookup values and provides controls so users can select values from these lists",
+    "state": "Beta",
+    "category": "Component"
+  },
+  {
     "project": "Log4VFP",
     "url": "https://github.com/VFPX/Log4VFP",
     "description": "Provides a VFP wrapper for the Log4NET diagnostic logging library",
