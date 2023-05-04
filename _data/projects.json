@@ -707,6 +707,13 @@
     "category": "Component"
   },
   {
+    "project": "SF RegExp",
+    "url": "https://github.com/lscheffler/sf_regexp",
+    "description": "VFP wrapper for DotNet RegExp",
+    "state": "Beta",
+    "category": "Component"
+  },
+  {
     "project": "ssClasses",
     "url": "https://github.com/VFPX/ssClasses",
     "description": "Library of useful classes",
