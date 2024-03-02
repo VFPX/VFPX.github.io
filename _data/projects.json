@@ -497,6 +497,13 @@
     "category": "Component"
   },
   {
+    "project": "kvpReader",
+    "url": "https://github.com/Irwin1985/kvpReader",
+    "description": "Key Value Pair configuration file reader for Visual FoxPro 9.0",
+    "state": "Beta",
+    "category": "Component"
+  },
+  {
     "project": "ListManager",
     "url": "https://github.com/DougHennig/ListManager",
     "description": "Manages lists of lookup values and provides controls so users can select values from these lists",
