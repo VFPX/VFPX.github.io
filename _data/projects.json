@@ -448,6 +448,13 @@
     "category": "Tool"
   },
   {
+    "project": "GenMenuX",
+    "url": "https://github.com/akselsoft/genmenux",
+    "description": "GenMenuX is a menu extender for Visual FoxPro.",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
     "project": "GoFish",
     "url": "https://github.com/VFPX/GoFish",
     "description": "GoFish is an advanced code search tool for fast searching of Visual FoxPro source code.",
