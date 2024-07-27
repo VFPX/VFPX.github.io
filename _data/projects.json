@@ -196,6 +196,13 @@
     "category": "Component"
   },
   {
+    "project": "DeployFox",
+    "url": "https://github.com/doughennig/deployfox",
+    "description": "Automates the steps required to deploy applications by providing a customizable list of tasks.",
+    "state": "Beta",
+    "category": "Tool"
+  },
+  {
     "project": "DotNet2Fox",
     "url": "https://github.com/JoelLeach/DotNet2Fox",
     "description": "Simplifies calling Visual FoxPro code from .NET desktop and web applications",
@@ -325,6 +332,13 @@
     "project": "FoxFaker",
     "url": "https://github.com/Irwin1985/FoxFaker",
     "description": "Generates fake data for testing",
+    "state": "Production",
+    "category": "Tool"
+  },
+  {
+    "project": "FoxGet",
+    "url": "https://github.com/doughennig/foxget",
+    "description": "A VFP package manager similar to .NET's NuGet",
     "state": "Production",
     "category": "Tool"
   },
@@ -957,6 +971,13 @@
     "description": "Automates deployment of VFPX projects.",
     "state": "Production",
     "category": "Tool"
+  },
+  {
+    "project": "VFPX Framework",
+    "url": "https://github.com/VFPX/VFPXFramework",
+    "description": "Provides base UI classes and commonly used functions for any project.",
+    "state": "Production",
+    "category": "Component"
   },
   {
     "project": "VFPXTab",
