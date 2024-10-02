@@ -717,7 +717,7 @@
     "project": "Ribbon Control",
     "url": "https://github.com/DougHennig/Ribbon",
     "description": "A Microsoft Office 365-like ribbon control for VFP forms",
-    "state": "Release Candidate",
+    "state": "Production",
     "category": "Component"
   },
   {
@@ -745,7 +745,7 @@
     "project": "SFMail",
     "url": "https://github.com/DougHennig/SFMail",
     "description": "A library to send emails from VFP applications",
-    "state": "Beta",
+    "state": "Production",
     "category": "Component"
   },
   {
@@ -1011,7 +1011,7 @@
     "project": "Win7TLib",
     "url": "https://github.com/VFPX/Win7TLib",
     "description": "Integrate Windows 7 Taskbar Functionality into your VFP Applications",
-    "state": "Alpha",
+    "state": "Production",
     "category": "Component"
   },
   {
