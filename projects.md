@@ -12,6 +12,8 @@ permalink: /projects/
 <td><strong>Description</strong></td>
 <td><strong>Category</strong></td>
 <td><strong>Status</strong></td>
+<td><strong>Install with Thor</strong></td>
+<td><strong>Install with FoxGet</strong></td>
 </tr>
 </thead>
 <tbody>
@@ -22,6 +24,8 @@ permalink: /projects/
 	<td>{{ project.description }}</td>
 	<td>{{ project.category }}</td>
 	<td>{{ project.state }}</td>
+	<td>{{ project.thorcfu }}</td>
+	<td>{{ project.foxget }}</td>
 </tr>
 {% endfor %}
 </tbody>
