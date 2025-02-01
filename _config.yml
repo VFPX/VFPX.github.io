@@ -29,7 +29,7 @@ encoding: bom|utf-8
 markdown: kramdown
 #theme: jekyll-theme-slate
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
