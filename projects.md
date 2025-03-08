@@ -24,8 +24,8 @@ permalink: /projects/
 	<td>{{ project.description }}</td>
 	<td>{{ project.category }}</td>
 	<td>{{ project.state }}</td>
-	<td>{{ project.thorcfu }}</td>
-	<td>{{ project.foxget }}</td>
+	<td style="text-align: center;">{% if project.thorcfu == true %} &check; {% else %} &nbsp; {% endif %}</td>
+	<td style="text-align: center;">{% if project.foxget  == true %} &check; {% else %} &nbsp; {% endif %}</td>
 </tr>
 {% endfor %}
 </tbody>
