@@ -855,6 +855,15 @@
 	"foxget": false
   },
   {
+    "project": "Pastewatch",
+    "url": "https://github.com/dmitriychunikhin/pastewatch-vfp",
+    "description": "Adds copy-paste handling ability to any VFP 9 control",
+    "state": "Beta",
+    "category": "Component",
+	"thorcfu": true,
+	"foxget": false
+  },
+  {
     "project": "ParallelFox",
     "url": "https://github.com/VFPX/ParallelFox",
     "description": "Parallel Processing Library for Visual FoxPro",
