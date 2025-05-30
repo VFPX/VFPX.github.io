@@ -75,6 +75,11 @@
    "description": "100% VFP JSON parser & utilities"
  },
  {
+   "project": "Ken's Libraries",
+   "url": "https://github.com/KenAGreen/KensLibraries",
+   "description": "Function library objects collected over the years"
+ },
+ {
    "project": "LINQ to VFP",
    "url": "https://github.com/tombrothers/LINQtoVFP",
    "description": "An IQToolkit Provider that adds the ability to use Visual FoxPro Data as a LINQ data source."
