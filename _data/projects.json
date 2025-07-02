@@ -846,15 +846,6 @@
 	"foxget": false
   },
   {
-    "project": "Pandora",
-    "url": "https://github.com/tbleken/pandora",
-    "description": "Swiss Army Knife like tool for VFP programmers",
-    "state": "Production",
-    "category": "Tool",
-	"thorcfu": true,
-	"foxget": false
-  },
-  {
     "project": "Pastewatch",
     "url": "https://github.com/dmitriychunikhin/pastewatch-vfp",
     "description": "Adds copy-paste handling ability to any VFP 9 control",
@@ -977,6 +968,15 @@
     "description": "VFP wrapper for DotNet RegExp",
     "state": "Beta",
     "category": "Component",
+	"thorcfu": true,
+	"foxget": false
+  },
+  {
+    "project": "Sidekick",
+    "url": "https://github.com/tbleken/pandora",
+    "description": "A collection of powerful VFP add-on tools that are launched via command line syntax followed by pressing a hotkey",
+    "state": "Production",
+    "category": "Tool",
 	"thorcfu": true,
 	"foxget": false
   },
