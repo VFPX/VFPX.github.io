@@ -973,7 +973,7 @@
   },
   {
     "project": "Sidekick",
-    "url": "https://github.com/tbleken/pandora",
+    "url": "https://github.com/tbleken/sidekick",
     "description": "A collection of powerful VFP add-on tools that are launched via command line syntax followed by pressing a hotkey",
     "state": "Production",
     "category": "Tool",
