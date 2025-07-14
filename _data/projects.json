@@ -198,6 +198,15 @@
 	"foxget": true
   },
   {
+    "project": "Create Memberdata of Prg-Based Class Code",
+    "url": "https://github.com/ToniKoehler/CreateMemberdataOfPrgBasedClasscode",
+    "description": "This program creates the memberdata (Methods and Properties) of your referenced program.PRG:ClassName",
+    "state": "Production",
+    "category": "Tool",
+	"thorcfu": false,
+	"foxget": false
+  },
+  {
     "project": "ctl32_statusbar",
     "url": "https://github.com/VFPX/ctl32_StatusBar",
     "description": "Replacement for VFP _screen Status Bar, or can be used on a form",
