@@ -270,6 +270,15 @@
 	"foxget": false
   },
   {
+    "project": "Document",
+    "url": "https://github.com/DougHennig/Document",
+    "description": "Interacts with the Amazon S3 API to manage documents",
+    "state": "Beta",
+    "category": "Component",
+	"thorcfu": false,
+	"foxget": true
+  },
+  {
     "project": "DotNet2Fox",
     "url": "https://github.com/JoelLeach/DotNet2Fox",
     "description": "Simplifies calling Visual FoxPro code from .NET desktop and web applications",
