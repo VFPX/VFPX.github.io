@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sidekick"
+date:   2025-07-02 12:40:00 -0500
+categories: vfpx update
+---
+
+The Pandora project has been replaced by [Sidekick](https://github.com/tbleken/sidekick). Sidekick is a collection of powerful VFP add-on tools that are launched via command line syntax followed by pressing a hotkey.

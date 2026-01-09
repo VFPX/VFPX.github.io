@@ -255,7 +255,7 @@
     "project": "DeployFox",
     "url": "https://github.com/doughennig/deployfox",
     "description": "Automates the steps required to deploy applications by providing a customizable list of tasks.",
-    "state": "Beta",
+    "state": "Production",
     "category": "Tool",
 	"thorcfu": true,
 	"foxget": false
@@ -450,7 +450,7 @@
 	"foxget": false
   },
   {
-    "project": "foxget",
+    "project": "FoxGet",
     "url": "https://github.com/doughennig/foxget",
     "description": "A VFP package manager similar to .NET's NuGet",
     "state": "Production",
@@ -1285,6 +1285,15 @@
     "category": "Component",
 	"thorcfu": false,
 	"foxget": true
+  },
+  {
+    "project": "VFPX-RegEx",
+    "url": "https://github.com/atlopes/VFP_RegExp",
+    "description": "A VFP class that interfaces to the PCRE2 Regular Expression library",
+    "state": "Production",
+    "category": "Component",
+	"thorcfu": false,
+	"foxget": false
   },
   {
     "project": "VFPXTab",
