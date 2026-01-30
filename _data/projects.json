@@ -1293,7 +1293,7 @@
     "state": "Production",
     "category": "Component",
 	"thorcfu": false,
-	"foxget": false
+	"foxget": true
   },
   {
     "project": "VFPXTab",
