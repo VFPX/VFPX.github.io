@@ -927,6 +927,15 @@
 	"foxget": false
   },
   {
+    "project": "ReadTypeLibsAndCreateIncludeFile",
+    "url": "https://github.com/ToniKoehler/ReadTypeLibsAndCreateIncludeFile",
+    "description": "Create Headerfile (.h) with constants and enums from typelibs in VFP",
+    "state": "Production",
+    "category": "Tool",
+	"thorcfu": false,
+	"foxget": false
+  },
+  {
     "project": "ReportingApps",
     "url": "https://github.com/VFPX/ReportingApps",
     "description": "The default implementation of Visual FoxPro 9's Report Applications (XSource)",
