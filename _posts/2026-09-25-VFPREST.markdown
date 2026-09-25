@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "VFPREST"
+date:   2026-09-25 10:40:00 -0500
+categories: vfpx update
+---
+
+[VFPREST](https://github.com/DougHennig/VFPREST) provides classes to make calling REST APIs from VFP easier.

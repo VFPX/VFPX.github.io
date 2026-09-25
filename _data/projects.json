@@ -1269,6 +1269,15 @@
 	"foxget": false
   },
   {
+    "project": "VFPREST",
+    "url": "https://github.com/DougHennig/VFPREST",
+    "description": "Provides classes to make calling REST APIs from VFP easier",
+    "state": "Production",
+    "category": "Component",
+	"thorcfu": false,
+	"foxget": true
+  },
+  {
     "project": "VFPTweetAPI",
     "url": "http://github.com/VFPX/VFPTweetAPI",
     "description": "A wrapper around the Twitter API with the purpose of accessing Twitter from Visual FoxPro.",
