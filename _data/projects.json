@@ -1251,6 +1251,15 @@
 	"foxget": false
   },
   {
+    "project": "VFPEncryptionFLL",
+    "url": "https://github.com/VFPX/VFPEncryptionFLL",
+    "description": "A modern drop-in replacement for vfpencryption.fll",
+    "state": "Production",
+    "category": "Component",
+	"thorcfu": true,
+	"foxget": false
+  },
+  {
     "project": "VFPOAuth",
     "url": "http://github.com/VFPX/VFPOAuth",
     "description": "Performs OAuth authentication based on the OAuth 1.0a protocol.",
